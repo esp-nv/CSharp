@@ -1,0 +1,14 @@
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04.For Loop-Еxercise\01.NumbersEndingIn7\bin\Debug\net8.0\01.NumbersEndingIn7.exe
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04.For Loop-Еxercise\01.NumbersEndingIn7\bin\Debug\net8.0\01.NumbersEndingIn7.deps.json
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04.For Loop-Еxercise\01.NumbersEndingIn7\bin\Debug\net8.0\01.NumbersEndingIn7.runtimeconfig.json
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04.For Loop-Еxercise\01.NumbersEndingIn7\bin\Debug\net8.0\01.NumbersEndingIn7.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04.For Loop-Еxercise\01.NumbersEndingIn7\bin\Debug\net8.0\01.NumbersEndingIn7.pdb
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04.For Loop-Еxercise\01.NumbersEndingIn7\obj\Debug\net8.0\01.NumbersEndingIn7.GeneratedMSBuildEditorConfig.editorconfig
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04.For Loop-Еxercise\01.NumbersEndingIn7\obj\Debug\net8.0\01.NumbersEndingIn7.AssemblyInfoInputs.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04.For Loop-Еxercise\01.NumbersEndingIn7\obj\Debug\net8.0\01.NumbersEndingIn7.AssemblyInfo.cs
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04.For Loop-Еxercise\01.NumbersEndingIn7\obj\Debug\net8.0\01.NumbersEndingIn7.csproj.CoreCompileInputs.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04.For Loop-Еxercise\01.NumbersEndingIn7\obj\Debug\net8.0\01.NumbersEndingIn7.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04.For Loop-Еxercise\01.NumbersEndingIn7\obj\Debug\net8.0\refint\01.NumbersEndingIn7.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04.For Loop-Еxercise\01.NumbersEndingIn7\obj\Debug\net8.0\01.NumbersEndingIn7.pdb
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04.For Loop-Еxercise\01.NumbersEndingIn7\obj\Debug\net8.0\01.NumbersEndingIn7.genruntimeconfig.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04.For Loop-Еxercise\01.NumbersEndingIn7\obj\Debug\net8.0\ref\01.NumbersEndingIn7.dll

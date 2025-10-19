@@ -1,0 +1,14 @@
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04.For Loop-Еxercise\02.HalfSumElement\bin\Debug\net8.0\02.HalfSumElement.exe
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04.For Loop-Еxercise\02.HalfSumElement\bin\Debug\net8.0\02.HalfSumElement.deps.json
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04.For Loop-Еxercise\02.HalfSumElement\bin\Debug\net8.0\02.HalfSumElement.runtimeconfig.json
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04.For Loop-Еxercise\02.HalfSumElement\bin\Debug\net8.0\02.HalfSumElement.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04.For Loop-Еxercise\02.HalfSumElement\bin\Debug\net8.0\02.HalfSumElement.pdb
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04.For Loop-Еxercise\02.HalfSumElement\obj\Debug\net8.0\02.HalfSumElement.GeneratedMSBuildEditorConfig.editorconfig
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04.For Loop-Еxercise\02.HalfSumElement\obj\Debug\net8.0\02.HalfSumElement.AssemblyInfoInputs.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04.For Loop-Еxercise\02.HalfSumElement\obj\Debug\net8.0\02.HalfSumElement.AssemblyInfo.cs
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04.For Loop-Еxercise\02.HalfSumElement\obj\Debug\net8.0\02.HalfSumElement.csproj.CoreCompileInputs.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04.For Loop-Еxercise\02.HalfSumElement\obj\Debug\net8.0\02.HalfSumElement.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04.For Loop-Еxercise\02.HalfSumElement\obj\Debug\net8.0\refint\02.HalfSumElement.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04.For Loop-Еxercise\02.HalfSumElement\obj\Debug\net8.0\02.HalfSumElement.pdb
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04.For Loop-Еxercise\02.HalfSumElement\obj\Debug\net8.0\02.HalfSumElement.genruntimeconfig.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04.For Loop-Еxercise\02.HalfSumElement\obj\Debug\net8.0\ref\02.HalfSumElement.dll

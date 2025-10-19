@@ -1,0 +1,14 @@
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04.For Loop-Еxercise\04.CleverLily\bin\Debug\net8.0\04.CleverLily.exe
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04.For Loop-Еxercise\04.CleverLily\bin\Debug\net8.0\04.CleverLily.deps.json
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04.For Loop-Еxercise\04.CleverLily\bin\Debug\net8.0\04.CleverLily.runtimeconfig.json
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04.For Loop-Еxercise\04.CleverLily\bin\Debug\net8.0\04.CleverLily.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04.For Loop-Еxercise\04.CleverLily\bin\Debug\net8.0\04.CleverLily.pdb
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04.For Loop-Еxercise\04.CleverLily\obj\Debug\net8.0\04.CleverLily.GeneratedMSBuildEditorConfig.editorconfig
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04.For Loop-Еxercise\04.CleverLily\obj\Debug\net8.0\04.CleverLily.AssemblyInfoInputs.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04.For Loop-Еxercise\04.CleverLily\obj\Debug\net8.0\04.CleverLily.AssemblyInfo.cs
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04.For Loop-Еxercise\04.CleverLily\obj\Debug\net8.0\04.CleverLily.csproj.CoreCompileInputs.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04.For Loop-Еxercise\04.CleverLily\obj\Debug\net8.0\04.CleverLily.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04.For Loop-Еxercise\04.CleverLily\obj\Debug\net8.0\refint\04.CleverLily.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04.For Loop-Еxercise\04.CleverLily\obj\Debug\net8.0\04.CleverLily.pdb
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04.For Loop-Еxercise\04.CleverLily\obj\Debug\net8.0\04.CleverLily.genruntimeconfig.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04.For Loop-Еxercise\04.CleverLily\obj\Debug\net8.0\ref\04.CleverLily.dll

@@ -1,0 +1,14 @@
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04.For Loop-Еxercise\05.Salary\bin\Debug\net8.0\05.Salary.exe
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04.For Loop-Еxercise\05.Salary\bin\Debug\net8.0\05.Salary.deps.json
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04.For Loop-Еxercise\05.Salary\bin\Debug\net8.0\05.Salary.runtimeconfig.json
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04.For Loop-Еxercise\05.Salary\bin\Debug\net8.0\05.Salary.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04.For Loop-Еxercise\05.Salary\bin\Debug\net8.0\05.Salary.pdb
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04.For Loop-Еxercise\05.Salary\obj\Debug\net8.0\05.Salary.GeneratedMSBuildEditorConfig.editorconfig
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04.For Loop-Еxercise\05.Salary\obj\Debug\net8.0\05.Salary.AssemblyInfoInputs.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04.For Loop-Еxercise\05.Salary\obj\Debug\net8.0\05.Salary.AssemblyInfo.cs
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04.For Loop-Еxercise\05.Salary\obj\Debug\net8.0\05.Salary.csproj.CoreCompileInputs.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04.For Loop-Еxercise\05.Salary\obj\Debug\net8.0\05.Salary.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04.For Loop-Еxercise\05.Salary\obj\Debug\net8.0\refint\05.Salary.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04.For Loop-Еxercise\05.Salary\obj\Debug\net8.0\05.Salary.pdb
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04.For Loop-Еxercise\05.Salary\obj\Debug\net8.0\05.Salary.genruntimeconfig.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04.For Loop-Еxercise\05.Salary\obj\Debug\net8.0\ref\05.Salary.dll

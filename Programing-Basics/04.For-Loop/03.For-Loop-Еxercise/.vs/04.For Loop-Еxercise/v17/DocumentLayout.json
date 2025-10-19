@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\nv\\SoftUni\\CSharp\\PB-Sept-2024\\04.ForLoop-\u0415xercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7864CE72-467A-4A36-87F4-645E65049BAB}|08.TennisRanklist\\08.TennisRanklist.csproj|d:\\nv\\softuni\\csharp\\pb-sept-2024\\04.forloop-\u0435xercise\\08.tennisranklist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7864CE72-467A-4A36-87F4-645E65049BAB}|08.TennisRanklist\\08.TennisRanklist.csproj|solutionrelative:08.tennisranklist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39B202F1-A1E6-46E2-85CA-4E216C32342D}|07.TrekkingMania\\07.TrekkingMania.csproj|d:\\nv\\softuni\\csharp\\pb-sept-2024\\04.forloop-\u0435xercise\\07.trekkingmania\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39B202F1-A1E6-46E2-85CA-4E216C32342D}|07.TrekkingMania\\07.TrekkingMania.csproj|solutionrelative:07.trekkingmania\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2392D9C-AF43-4FDF-8AE1-7901FE8BC358}|06.Oscars\\06.Oscars.csproj|d:\\nv\\softuni\\csharp\\pb-sept-2024\\04.forloop-\u0435xercise\\06.oscars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2392D9C-AF43-4FDF-8AE1-7901FE8BC358}|06.Oscars\\06.Oscars.csproj|solutionrelative:06.oscars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C76AF2-27B6-4D1F-ADFA-7D653238323D}|05.Salary\\05.Salary.csproj|d:\\nv\\softuni\\csharp\\pb-sept-2024\\04.forloop-\u0435xercise\\05.salary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3C76AF2-27B6-4D1F-ADFA-7D653238323D}|05.Salary\\05.Salary.csproj|solutionrelative:05.salary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C38E9A4-D158-4A43-9480-D35909627751}|04.CleverLily\\04.CleverLily.csproj|d:\\nv\\softuni\\csharp\\pb-sept-2024\\04.forloop-\u0435xercise\\04.cleverlily\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C38E9A4-D158-4A43-9480-D35909627751}|04.CleverLily\\04.CleverLily.csproj|solutionrelative:04.cleverlily\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B97984-5BE7-4334-A5D7-2A6E7731A1B2}|01.NumbersEndingIn7\\01.NumbersEndingIn7.csproj|d:\\nv\\softuni\\csharp\\pb-sept-2024\\04.forloop-\u0435xercise\\01.numbersendingin7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B97984-5BE7-4334-A5D7-2A6E7731A1B2}|01.NumbersEndingIn7\\01.NumbersEndingIn7.csproj|solutionrelative:01.numbersendingin7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\nv\\SoftUni\\CSharp\\PB-Sept-2024\\04.ForLoop-\u0415xercise\\04.CleverLily\\Program.cs",
+              "RelativeDocumentMoniker": "04.CleverLily\\Program.cs",
+              "ToolTip": "D:\\nv\\SoftUni\\CSharp\\PB-Sept-2024\\04.ForLoop-\u0415xercise\\04.CleverLily\\Program.cs",
+              "RelativeToolTip": "04.CleverLily\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAIwCUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T08:17:15.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\nv\\SoftUni\\CSharp\\PB-Sept-2024\\04.ForLoop-\u0415xercise\\05.Salary\\Program.cs",
+              "RelativeDocumentMoniker": "05.Salary\\Program.cs",
+              "ToolTip": "D:\\nv\\SoftUni\\CSharp\\PB-Sept-2024\\04.ForLoop-\u0415xercise\\05.Salary\\Program.cs",
+              "RelativeToolTip": "05.Salary\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAIwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T08:17:52.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\nv\\SoftUni\\CSharp\\PB-Sept-2024\\04.ForLoop-\u0415xercise\\06.Oscars\\Program.cs",
+              "RelativeDocumentMoniker": "06.Oscars\\Program.cs",
+              "ToolTip": "D:\\nv\\SoftUni\\CSharp\\PB-Sept-2024\\04.ForLoop-\u0415xercise\\06.Oscars\\Program.cs",
+              "RelativeToolTip": "06.Oscars\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T22:10:00.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\nv\\SoftUni\\CSharp\\PB-Sept-2024\\04.ForLoop-\u0415xercise\\07.TrekkingMania\\Program.cs",
+              "RelativeDocumentMoniker": "07.TrekkingMania\\Program.cs",
+              "ToolTip": "D:\\nv\\SoftUni\\CSharp\\PB-Sept-2024\\04.ForLoop-\u0415xercise\\07.TrekkingMania\\Program.cs",
+              "RelativeToolTip": "07.TrekkingMania\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAIwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T16:09:26.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\nv\\SoftUni\\CSharp\\PB-Sept-2024\\04.ForLoop-\u0415xercise\\08.TennisRanklist\\Program.cs",
+              "RelativeDocumentMoniker": "08.TennisRanklist\\Program.cs",
+              "ToolTip": "D:\\nv\\SoftUni\\CSharp\\PB-Sept-2024\\04.ForLoop-\u0415xercise\\08.TennisRanklist\\Program.cs",
+              "RelativeToolTip": "08.TennisRanklist\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAIwB8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T16:39:04.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\nv\\SoftUni\\CSharp\\PB-Sept-2024\\04.ForLoop-\u0415xercise\\01.NumbersEndingIn7\\Program.cs",
+              "RelativeDocumentMoniker": "01.NumbersEndingIn7\\Program.cs",
+              "ToolTip": "D:\\nv\\SoftUni\\CSharp\\PB-Sept-2024\\04.ForLoop-\u0415xercise\\01.NumbersEndingIn7\\Program.cs",
+              "RelativeToolTip": "01.NumbersEndingIn7\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T15:03:11.93Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

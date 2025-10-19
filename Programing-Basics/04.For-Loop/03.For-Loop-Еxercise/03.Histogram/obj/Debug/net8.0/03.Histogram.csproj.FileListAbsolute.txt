@@ -1,0 +1,14 @@
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04.For Loop-Еxercise\03.Histogram\bin\Debug\net8.0\03.Histogram.exe
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04.For Loop-Еxercise\03.Histogram\bin\Debug\net8.0\03.Histogram.deps.json
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04.For Loop-Еxercise\03.Histogram\bin\Debug\net8.0\03.Histogram.runtimeconfig.json
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04.For Loop-Еxercise\03.Histogram\bin\Debug\net8.0\03.Histogram.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04.For Loop-Еxercise\03.Histogram\bin\Debug\net8.0\03.Histogram.pdb
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04.For Loop-Еxercise\03.Histogram\obj\Debug\net8.0\03.Histogram.GeneratedMSBuildEditorConfig.editorconfig
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04.For Loop-Еxercise\03.Histogram\obj\Debug\net8.0\03.Histogram.AssemblyInfoInputs.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04.For Loop-Еxercise\03.Histogram\obj\Debug\net8.0\03.Histogram.AssemblyInfo.cs
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04.For Loop-Еxercise\03.Histogram\obj\Debug\net8.0\03.Histogram.csproj.CoreCompileInputs.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04.For Loop-Еxercise\03.Histogram\obj\Debug\net8.0\03.Histogram.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04.For Loop-Еxercise\03.Histogram\obj\Debug\net8.0\refint\03.Histogram.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04.For Loop-Еxercise\03.Histogram\obj\Debug\net8.0\03.Histogram.pdb
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04.For Loop-Еxercise\03.Histogram\obj\Debug\net8.0\03.Histogram.genruntimeconfig.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04.For Loop-Еxercise\03.Histogram\obj\Debug\net8.0\ref\03.Histogram.dll

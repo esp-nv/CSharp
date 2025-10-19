@@ -1,0 +1,14 @@
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04.For Loop-Еxercise\07.TrekkingMania\bin\Debug\net8.0\07.TrekkingMania.exe
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04.For Loop-Еxercise\07.TrekkingMania\bin\Debug\net8.0\07.TrekkingMania.deps.json
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04.For Loop-Еxercise\07.TrekkingMania\bin\Debug\net8.0\07.TrekkingMania.runtimeconfig.json
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04.For Loop-Еxercise\07.TrekkingMania\bin\Debug\net8.0\07.TrekkingMania.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04.For Loop-Еxercise\07.TrekkingMania\bin\Debug\net8.0\07.TrekkingMania.pdb
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04.For Loop-Еxercise\07.TrekkingMania\obj\Debug\net8.0\07.TrekkingMania.GeneratedMSBuildEditorConfig.editorconfig
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04.For Loop-Еxercise\07.TrekkingMania\obj\Debug\net8.0\07.TrekkingMania.AssemblyInfoInputs.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04.For Loop-Еxercise\07.TrekkingMania\obj\Debug\net8.0\07.TrekkingMania.AssemblyInfo.cs
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04.For Loop-Еxercise\07.TrekkingMania\obj\Debug\net8.0\07.TrekkingMania.csproj.CoreCompileInputs.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04.For Loop-Еxercise\07.TrekkingMania\obj\Debug\net8.0\07.TrekkingMania.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04.For Loop-Еxercise\07.TrekkingMania\obj\Debug\net8.0\refint\07.TrekkingMania.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04.For Loop-Еxercise\07.TrekkingMania\obj\Debug\net8.0\07.TrekkingMania.pdb
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04.For Loop-Еxercise\07.TrekkingMania\obj\Debug\net8.0\07.TrekkingMania.genruntimeconfig.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04.For Loop-Еxercise\07.TrekkingMania\obj\Debug\net8.0\ref\07.TrekkingMania.dll

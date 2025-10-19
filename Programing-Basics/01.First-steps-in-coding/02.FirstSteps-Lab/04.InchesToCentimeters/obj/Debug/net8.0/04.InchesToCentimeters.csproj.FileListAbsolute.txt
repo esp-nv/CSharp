@@ -1,0 +1,14 @@
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Lab\01.FirstSteps\04.InchesToCentimeters\bin\Debug\net8.0\04.InchesToCentimeters.exe
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Lab\01.FirstSteps\04.InchesToCentimeters\bin\Debug\net8.0\04.InchesToCentimeters.deps.json
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Lab\01.FirstSteps\04.InchesToCentimeters\bin\Debug\net8.0\04.InchesToCentimeters.runtimeconfig.json
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Lab\01.FirstSteps\04.InchesToCentimeters\bin\Debug\net8.0\04.InchesToCentimeters.dll
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Lab\01.FirstSteps\04.InchesToCentimeters\bin\Debug\net8.0\04.InchesToCentimeters.pdb
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Lab\01.FirstSteps\04.InchesToCentimeters\obj\Debug\net8.0\04.InchesToCentimeters.GeneratedMSBuildEditorConfig.editorconfig
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Lab\01.FirstSteps\04.InchesToCentimeters\obj\Debug\net8.0\04.InchesToCentimeters.AssemblyInfoInputs.cache
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Lab\01.FirstSteps\04.InchesToCentimeters\obj\Debug\net8.0\04.InchesToCentimeters.AssemblyInfo.cs
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Lab\01.FirstSteps\04.InchesToCentimeters\obj\Debug\net8.0\04.InchesToCentimeters.csproj.CoreCompileInputs.cache
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Lab\01.FirstSteps\04.InchesToCentimeters\obj\Debug\net8.0\04.InchesToCentimeters.dll
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Lab\01.FirstSteps\04.InchesToCentimeters\obj\Debug\net8.0\refint\04.InchesToCentimeters.dll
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Lab\01.FirstSteps\04.InchesToCentimeters\obj\Debug\net8.0\04.InchesToCentimeters.pdb
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Lab\01.FirstSteps\04.InchesToCentimeters\obj\Debug\net8.0\04.InchesToCentimeters.genruntimeconfig.cache
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Lab\01.FirstSteps\04.InchesToCentimeters\obj\Debug\net8.0\ref\04.InchesToCentimeters.dll

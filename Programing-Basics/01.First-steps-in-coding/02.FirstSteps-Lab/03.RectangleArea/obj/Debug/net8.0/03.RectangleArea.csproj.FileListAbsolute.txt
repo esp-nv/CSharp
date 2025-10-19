@@ -1,0 +1,14 @@
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Lab\01.FirstSteps\03.RectangleArea\bin\Debug\net8.0\03.RectangleArea.exe
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Lab\01.FirstSteps\03.RectangleArea\bin\Debug\net8.0\03.RectangleArea.deps.json
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Lab\01.FirstSteps\03.RectangleArea\bin\Debug\net8.0\03.RectangleArea.runtimeconfig.json
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Lab\01.FirstSteps\03.RectangleArea\bin\Debug\net8.0\03.RectangleArea.dll
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Lab\01.FirstSteps\03.RectangleArea\bin\Debug\net8.0\03.RectangleArea.pdb
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Lab\01.FirstSteps\03.RectangleArea\obj\Debug\net8.0\03.RectangleArea.GeneratedMSBuildEditorConfig.editorconfig
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Lab\01.FirstSteps\03.RectangleArea\obj\Debug\net8.0\03.RectangleArea.AssemblyInfoInputs.cache
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Lab\01.FirstSteps\03.RectangleArea\obj\Debug\net8.0\03.RectangleArea.AssemblyInfo.cs
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Lab\01.FirstSteps\03.RectangleArea\obj\Debug\net8.0\03.RectangleArea.csproj.CoreCompileInputs.cache
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Lab\01.FirstSteps\03.RectangleArea\obj\Debug\net8.0\03.RectangleArea.dll
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Lab\01.FirstSteps\03.RectangleArea\obj\Debug\net8.0\refint\03.RectangleArea.dll
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Lab\01.FirstSteps\03.RectangleArea\obj\Debug\net8.0\03.RectangleArea.pdb
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Lab\01.FirstSteps\03.RectangleArea\obj\Debug\net8.0\03.RectangleArea.genruntimeconfig.cache
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Lab\01.FirstSteps\03.RectangleArea\obj\Debug\net8.0\ref\03.RectangleArea.dll

@@ -1,0 +1,14 @@
+D:\nv\SoftUni\CSharp\PB-Sept-2024\01.FirstSteps-MoreEx\06.Fishland\bin\Debug\net8.0\06.Fishland.exe
+D:\nv\SoftUni\CSharp\PB-Sept-2024\01.FirstSteps-MoreEx\06.Fishland\bin\Debug\net8.0\06.Fishland.deps.json
+D:\nv\SoftUni\CSharp\PB-Sept-2024\01.FirstSteps-MoreEx\06.Fishland\bin\Debug\net8.0\06.Fishland.runtimeconfig.json
+D:\nv\SoftUni\CSharp\PB-Sept-2024\01.FirstSteps-MoreEx\06.Fishland\bin\Debug\net8.0\06.Fishland.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\01.FirstSteps-MoreEx\06.Fishland\bin\Debug\net8.0\06.Fishland.pdb
+D:\nv\SoftUni\CSharp\PB-Sept-2024\01.FirstSteps-MoreEx\06.Fishland\obj\Debug\net8.0\06.Fishland.GeneratedMSBuildEditorConfig.editorconfig
+D:\nv\SoftUni\CSharp\PB-Sept-2024\01.FirstSteps-MoreEx\06.Fishland\obj\Debug\net8.0\06.Fishland.AssemblyInfoInputs.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\01.FirstSteps-MoreEx\06.Fishland\obj\Debug\net8.0\06.Fishland.AssemblyInfo.cs
+D:\nv\SoftUni\CSharp\PB-Sept-2024\01.FirstSteps-MoreEx\06.Fishland\obj\Debug\net8.0\06.Fishland.csproj.CoreCompileInputs.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\01.FirstSteps-MoreEx\06.Fishland\obj\Debug\net8.0\06.Fishland.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\01.FirstSteps-MoreEx\06.Fishland\obj\Debug\net8.0\refint\06.Fishland.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\01.FirstSteps-MoreEx\06.Fishland\obj\Debug\net8.0\06.Fishland.pdb
+D:\nv\SoftUni\CSharp\PB-Sept-2024\01.FirstSteps-MoreEx\06.Fishland\obj\Debug\net8.0\06.Fishland.genruntimeconfig.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\01.FirstSteps-MoreEx\06.Fishland\obj\Debug\net8.0\ref\06.Fishland.dll

@@ -1,0 +1,14 @@
+D:\nv\SoftUni\CSharp\PB-Sept-2024\01.FirstSteps-MoreEx\09.WeatherForecast\bin\Debug\net8.0\09.WeatherForecast.exe
+D:\nv\SoftUni\CSharp\PB-Sept-2024\01.FirstSteps-MoreEx\09.WeatherForecast\bin\Debug\net8.0\09.WeatherForecast.deps.json
+D:\nv\SoftUni\CSharp\PB-Sept-2024\01.FirstSteps-MoreEx\09.WeatherForecast\bin\Debug\net8.0\09.WeatherForecast.runtimeconfig.json
+D:\nv\SoftUni\CSharp\PB-Sept-2024\01.FirstSteps-MoreEx\09.WeatherForecast\bin\Debug\net8.0\09.WeatherForecast.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\01.FirstSteps-MoreEx\09.WeatherForecast\bin\Debug\net8.0\09.WeatherForecast.pdb
+D:\nv\SoftUni\CSharp\PB-Sept-2024\01.FirstSteps-MoreEx\09.WeatherForecast\obj\Debug\net8.0\09.WeatherForecast.GeneratedMSBuildEditorConfig.editorconfig
+D:\nv\SoftUni\CSharp\PB-Sept-2024\01.FirstSteps-MoreEx\09.WeatherForecast\obj\Debug\net8.0\09.WeatherForecast.AssemblyInfoInputs.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\01.FirstSteps-MoreEx\09.WeatherForecast\obj\Debug\net8.0\09.WeatherForecast.AssemblyInfo.cs
+D:\nv\SoftUni\CSharp\PB-Sept-2024\01.FirstSteps-MoreEx\09.WeatherForecast\obj\Debug\net8.0\09.WeatherForecast.csproj.CoreCompileInputs.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\01.FirstSteps-MoreEx\09.WeatherForecast\obj\Debug\net8.0\09.WeatherForecast.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\01.FirstSteps-MoreEx\09.WeatherForecast\obj\Debug\net8.0\refint\09.WeatherForecast.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\01.FirstSteps-MoreEx\09.WeatherForecast\obj\Debug\net8.0\09.WeatherForecast.pdb
+D:\nv\SoftUni\CSharp\PB-Sept-2024\01.FirstSteps-MoreEx\09.WeatherForecast\obj\Debug\net8.0\09.WeatherForecast.genruntimeconfig.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\01.FirstSteps-MoreEx\09.WeatherForecast\obj\Debug\net8.0\ref\09.WeatherForecast.dll

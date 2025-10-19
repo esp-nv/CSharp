@@ -1,0 +1,14 @@
+D:\nv\SoftUni\CSharp\PB-Sept-2024\01.FirstSteps-MoreEx\07.HousePainting\bin\Debug\net8.0\07.HousePainting.exe
+D:\nv\SoftUni\CSharp\PB-Sept-2024\01.FirstSteps-MoreEx\07.HousePainting\bin\Debug\net8.0\07.HousePainting.deps.json
+D:\nv\SoftUni\CSharp\PB-Sept-2024\01.FirstSteps-MoreEx\07.HousePainting\bin\Debug\net8.0\07.HousePainting.runtimeconfig.json
+D:\nv\SoftUni\CSharp\PB-Sept-2024\01.FirstSteps-MoreEx\07.HousePainting\bin\Debug\net8.0\07.HousePainting.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\01.FirstSteps-MoreEx\07.HousePainting\bin\Debug\net8.0\07.HousePainting.pdb
+D:\nv\SoftUni\CSharp\PB-Sept-2024\01.FirstSteps-MoreEx\07.HousePainting\obj\Debug\net8.0\07.HousePainting.GeneratedMSBuildEditorConfig.editorconfig
+D:\nv\SoftUni\CSharp\PB-Sept-2024\01.FirstSteps-MoreEx\07.HousePainting\obj\Debug\net8.0\07.HousePainting.AssemblyInfoInputs.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\01.FirstSteps-MoreEx\07.HousePainting\obj\Debug\net8.0\07.HousePainting.AssemblyInfo.cs
+D:\nv\SoftUni\CSharp\PB-Sept-2024\01.FirstSteps-MoreEx\07.HousePainting\obj\Debug\net8.0\07.HousePainting.csproj.CoreCompileInputs.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\01.FirstSteps-MoreEx\07.HousePainting\obj\Debug\net8.0\07.HousePainting.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\01.FirstSteps-MoreEx\07.HousePainting\obj\Debug\net8.0\refint\07.HousePainting.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\01.FirstSteps-MoreEx\07.HousePainting\obj\Debug\net8.0\07.HousePainting.pdb
+D:\nv\SoftUni\CSharp\PB-Sept-2024\01.FirstSteps-MoreEx\07.HousePainting\obj\Debug\net8.0\07.HousePainting.genruntimeconfig.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\01.FirstSteps-MoreEx\07.HousePainting\obj\Debug\net8.0\ref\07.HousePainting.dll

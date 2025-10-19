@@ -1,0 +1,14 @@
+D:\nv\SoftUni\CSharp\PB-Sept-2024-MoreExercise\01.FirstSteps-MoreExercises\02.TriangleArea\bin\Debug\net8.0\02.TriangleArea.exe
+D:\nv\SoftUni\CSharp\PB-Sept-2024-MoreExercise\01.FirstSteps-MoreExercises\02.TriangleArea\bin\Debug\net8.0\02.TriangleArea.deps.json
+D:\nv\SoftUni\CSharp\PB-Sept-2024-MoreExercise\01.FirstSteps-MoreExercises\02.TriangleArea\bin\Debug\net8.0\02.TriangleArea.runtimeconfig.json
+D:\nv\SoftUni\CSharp\PB-Sept-2024-MoreExercise\01.FirstSteps-MoreExercises\02.TriangleArea\bin\Debug\net8.0\02.TriangleArea.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024-MoreExercise\01.FirstSteps-MoreExercises\02.TriangleArea\bin\Debug\net8.0\02.TriangleArea.pdb
+D:\nv\SoftUni\CSharp\PB-Sept-2024-MoreExercise\01.FirstSteps-MoreExercises\02.TriangleArea\obj\Debug\net8.0\02.TriangleArea.GeneratedMSBuildEditorConfig.editorconfig
+D:\nv\SoftUni\CSharp\PB-Sept-2024-MoreExercise\01.FirstSteps-MoreExercises\02.TriangleArea\obj\Debug\net8.0\02.TriangleArea.AssemblyInfoInputs.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024-MoreExercise\01.FirstSteps-MoreExercises\02.TriangleArea\obj\Debug\net8.0\02.TriangleArea.AssemblyInfo.cs
+D:\nv\SoftUni\CSharp\PB-Sept-2024-MoreExercise\01.FirstSteps-MoreExercises\02.TriangleArea\obj\Debug\net8.0\02.TriangleArea.csproj.CoreCompileInputs.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024-MoreExercise\01.FirstSteps-MoreExercises\02.TriangleArea\obj\Debug\net8.0\02.TriangleArea.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024-MoreExercise\01.FirstSteps-MoreExercises\02.TriangleArea\obj\Debug\net8.0\refint\02.TriangleArea.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024-MoreExercise\01.FirstSteps-MoreExercises\02.TriangleArea\obj\Debug\net8.0\02.TriangleArea.pdb
+D:\nv\SoftUni\CSharp\PB-Sept-2024-MoreExercise\01.FirstSteps-MoreExercises\02.TriangleArea\obj\Debug\net8.0\02.TriangleArea.genruntimeconfig.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024-MoreExercise\01.FirstSteps-MoreExercises\02.TriangleArea\obj\Debug\net8.0\ref\02.TriangleArea.dll

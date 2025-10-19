@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\nv\\SoftUni\\\u041D\u043E\u0432\u0430 \u043F\u0430\u043F\u043A\u0430\\CSharp\\05.While-Loop-MoreEx\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F67D1251-27C1-47AD-AA74-0FEBEF382296}|03.StreamOfLetters\\03.StreamOfLetters.csproj|d:\\nv\\softuni\\\u043D\u043E\u0432\u0430 \u043F\u0430\u043F\u043A\u0430\\csharp\\05.while-loop-moreex\\03.streamofletters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F67D1251-27C1-47AD-AA74-0FEBEF382296}|03.StreamOfLetters\\03.StreamOfLetters.csproj|solutionrelative:03.streamofletters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72EA456F-A844-4AE9-9AF0-F4C7C186D8F3}|05.AverageNumber\\05.AverageNumber.csproj|d:\\nv\\softuni\\\u043D\u043E\u0432\u0430 \u043F\u0430\u043F\u043A\u0430\\csharp\\05.while-loop-moreex\\05.averagenumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72EA456F-A844-4AE9-9AF0-F4C7C186D8F3}|05.AverageNumber\\05.AverageNumber.csproj|solutionrelative:05.averagenumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{210FFC99-A756-414F-8401-0B4083480D21}|04.NumbersDividedBy3WithoutReminder\\04.NumbersDividedBy3WithoutReminder.csproj|d:\\nv\\softuni\\\u043D\u043E\u0432\u0430 \u043F\u0430\u043F\u043A\u0430\\csharp\\05.while-loop-moreex\\04.numbersdividedby3withoutreminder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{210FFC99-A756-414F-8401-0B4083480D21}|04.NumbersDividedBy3WithoutReminder\\04.NumbersDividedBy3WithoutReminder.csproj|solutionrelative:04.numbersdividedby3withoutreminder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{843D56E2-1C80-44B2-AF85-D3C53434752D}|02.ReportSystem\\02.ReportSystem.csproj|d:\\nv\\softuni\\\u043D\u043E\u0432\u0430 \u043F\u0430\u043F\u043A\u0430\\csharp\\05.while-loop-moreex\\02.reportsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{843D56E2-1C80-44B2-AF85-D3C53434752D}|02.ReportSystem\\02.ReportSystem.csproj|solutionrelative:02.reportsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ED8A543-F162-4B21-BB7F-A1160BFC82FD}|01.Dishwasher\\01.Dishwasher.csproj|d:\\nv\\softuni\\\u043D\u043E\u0432\u0430 \u043F\u0430\u043F\u043A\u0430\\csharp\\05.while-loop-moreex\\01.dishwasher\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ED8A543-F162-4B21-BB7F-A1160BFC82FD}|01.Dishwasher\\01.Dishwasher.csproj|solutionrelative:01.dishwasher\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\nv\\SoftUni\\\u041D\u043E\u0432\u0430 \u043F\u0430\u043F\u043A\u0430\\CSharp\\05.While-Loop-MoreEx\\05.AverageNumber\\Program.cs",
+              "RelativeDocumentMoniker": "05.AverageNumber\\Program.cs",
+              "ToolTip": "D:\\nv\\SoftUni\\\u041D\u043E\u0432\u0430 \u043F\u0430\u043F\u043A\u0430\\CSharp\\05.While-Loop-MoreEx\\05.AverageNumber\\Program.cs",
+              "RelativeToolTip": "05.AverageNumber\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T12:04:38.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\nv\\SoftUni\\\u041D\u043E\u0432\u0430 \u043F\u0430\u043F\u043A\u0430\\CSharp\\05.While-Loop-MoreEx\\03.StreamOfLetters\\Program.cs",
+              "RelativeDocumentMoniker": "03.StreamOfLetters\\Program.cs",
+              "ToolTip": "D:\\nv\\SoftUni\\\u041D\u043E\u0432\u0430 \u043F\u0430\u043F\u043A\u0430\\CSharp\\05.While-Loop-MoreEx\\03.StreamOfLetters\\Program.cs",
+              "RelativeToolTip": "03.StreamOfLetters\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwCEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T12:02:04.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\nv\\SoftUni\\\u041D\u043E\u0432\u0430 \u043F\u0430\u043F\u043A\u0430\\CSharp\\05.While-Loop-MoreEx\\01.Dishwasher\\Program.cs",
+              "RelativeDocumentMoniker": "01.Dishwasher\\Program.cs",
+              "ToolTip": "D:\\nv\\SoftUni\\\u041D\u043E\u0432\u0430 \u043F\u0430\u043F\u043A\u0430\\CSharp\\05.While-Loop-MoreEx\\01.Dishwasher\\Program.cs",
+              "RelativeToolTip": "01.Dishwasher\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAkwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T12:00:34.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\nv\\SoftUni\\\u041D\u043E\u0432\u0430 \u043F\u0430\u043F\u043A\u0430\\CSharp\\05.While-Loop-MoreEx\\04.NumbersDividedBy3WithoutReminder\\Program.cs",
+              "RelativeDocumentMoniker": "04.NumbersDividedBy3WithoutReminder\\Program.cs",
+              "ToolTip": "D:\\nv\\SoftUni\\\u041D\u043E\u0432\u0430 \u043F\u0430\u043F\u043A\u0430\\CSharp\\05.While-Loop-MoreEx\\04.NumbersDividedBy3WithoutReminder\\Program.cs",
+              "RelativeToolTip": "04.NumbersDividedBy3WithoutReminder\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T12:04:02.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\nv\\SoftUni\\\u041D\u043E\u0432\u0430 \u043F\u0430\u043F\u043A\u0430\\CSharp\\05.While-Loop-MoreEx\\02.ReportSystem\\Program.cs",
+              "RelativeDocumentMoniker": "02.ReportSystem\\Program.cs",
+              "ToolTip": "D:\\nv\\SoftUni\\\u041D\u043E\u0432\u0430 \u043F\u0430\u043F\u043A\u0430\\CSharp\\05.While-Loop-MoreEx\\02.ReportSystem\\Program.cs",
+              "RelativeToolTip": "02.ReportSystem\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAcwCQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T12:01:20.417Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

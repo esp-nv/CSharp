@@ -1,0 +1,14 @@
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.WhileLoop-MoreEx\01.Dishwasher\obj\Debug\net8.0\01.Dishwasher.GeneratedMSBuildEditorConfig.editorconfig
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.WhileLoop-MoreEx\01.Dishwasher\obj\Debug\net8.0\01.Dishwasher.AssemblyInfoInputs.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.WhileLoop-MoreEx\01.Dishwasher\obj\Debug\net8.0\01.Dishwasher.AssemblyInfo.cs
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.WhileLoop-MoreEx\01.Dishwasher\obj\Debug\net8.0\01.Dishwasher.csproj.CoreCompileInputs.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.WhileLoop-MoreEx\01.Dishwasher\bin\Debug\net8.0\01.Dishwasher.exe
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.WhileLoop-MoreEx\01.Dishwasher\bin\Debug\net8.0\01.Dishwasher.deps.json
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.WhileLoop-MoreEx\01.Dishwasher\bin\Debug\net8.0\01.Dishwasher.runtimeconfig.json
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.WhileLoop-MoreEx\01.Dishwasher\bin\Debug\net8.0\01.Dishwasher.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.WhileLoop-MoreEx\01.Dishwasher\bin\Debug\net8.0\01.Dishwasher.pdb
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.WhileLoop-MoreEx\01.Dishwasher\obj\Debug\net8.0\01.Dishwasher.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.WhileLoop-MoreEx\01.Dishwasher\obj\Debug\net8.0\refint\01.Dishwasher.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.WhileLoop-MoreEx\01.Dishwasher\obj\Debug\net8.0\01.Dishwasher.pdb
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.WhileLoop-MoreEx\01.Dishwasher\obj\Debug\net8.0\01.Dishwasher.genruntimeconfig.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.WhileLoop-MoreEx\01.Dishwasher\obj\Debug\net8.0\ref\01.Dishwasher.dll

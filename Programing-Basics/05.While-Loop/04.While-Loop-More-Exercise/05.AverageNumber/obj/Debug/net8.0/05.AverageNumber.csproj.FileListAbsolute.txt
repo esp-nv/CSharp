@@ -1,0 +1,14 @@
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.WhileLoop-MoreEx\05.AverageNumber\bin\Debug\net8.0\05.AverageNumber.exe
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.WhileLoop-MoreEx\05.AverageNumber\bin\Debug\net8.0\05.AverageNumber.deps.json
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.WhileLoop-MoreEx\05.AverageNumber\bin\Debug\net8.0\05.AverageNumber.runtimeconfig.json
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.WhileLoop-MoreEx\05.AverageNumber\bin\Debug\net8.0\05.AverageNumber.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.WhileLoop-MoreEx\05.AverageNumber\bin\Debug\net8.0\05.AverageNumber.pdb
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.WhileLoop-MoreEx\05.AverageNumber\obj\Debug\net8.0\05.AverageNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.WhileLoop-MoreEx\05.AverageNumber\obj\Debug\net8.0\05.AverageNumber.AssemblyInfoInputs.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.WhileLoop-MoreEx\05.AverageNumber\obj\Debug\net8.0\05.AverageNumber.AssemblyInfo.cs
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.WhileLoop-MoreEx\05.AverageNumber\obj\Debug\net8.0\05.AverageNumber.csproj.CoreCompileInputs.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.WhileLoop-MoreEx\05.AverageNumber\obj\Debug\net8.0\05.AverageNumber.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.WhileLoop-MoreEx\05.AverageNumber\obj\Debug\net8.0\refint\05.AverageNumber.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.WhileLoop-MoreEx\05.AverageNumber\obj\Debug\net8.0\05.AverageNumber.pdb
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.WhileLoop-MoreEx\05.AverageNumber\obj\Debug\net8.0\05.AverageNumber.genruntimeconfig.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.WhileLoop-MoreEx\05.AverageNumber\obj\Debug\net8.0\ref\05.AverageNumber.dll

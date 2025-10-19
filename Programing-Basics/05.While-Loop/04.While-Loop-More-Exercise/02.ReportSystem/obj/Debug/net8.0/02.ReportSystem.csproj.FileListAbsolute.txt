@@ -1,0 +1,14 @@
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.WhileLoop-MoreEx\02.ReportSystem\obj\Debug\net8.0\02.ReportSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.WhileLoop-MoreEx\02.ReportSystem\obj\Debug\net8.0\02.ReportSystem.AssemblyInfoInputs.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.WhileLoop-MoreEx\02.ReportSystem\obj\Debug\net8.0\02.ReportSystem.AssemblyInfo.cs
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.WhileLoop-MoreEx\02.ReportSystem\obj\Debug\net8.0\02.ReportSystem.csproj.CoreCompileInputs.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.WhileLoop-MoreEx\02.ReportSystem\bin\Debug\net8.0\02.ReportSystem.exe
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.WhileLoop-MoreEx\02.ReportSystem\bin\Debug\net8.0\02.ReportSystem.deps.json
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.WhileLoop-MoreEx\02.ReportSystem\bin\Debug\net8.0\02.ReportSystem.runtimeconfig.json
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.WhileLoop-MoreEx\02.ReportSystem\bin\Debug\net8.0\02.ReportSystem.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.WhileLoop-MoreEx\02.ReportSystem\bin\Debug\net8.0\02.ReportSystem.pdb
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.WhileLoop-MoreEx\02.ReportSystem\obj\Debug\net8.0\02.ReportSystem.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.WhileLoop-MoreEx\02.ReportSystem\obj\Debug\net8.0\refint\02.ReportSystem.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.WhileLoop-MoreEx\02.ReportSystem\obj\Debug\net8.0\02.ReportSystem.pdb
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.WhileLoop-MoreEx\02.ReportSystem\obj\Debug\net8.0\02.ReportSystem.genruntimeconfig.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.WhileLoop-MoreEx\02.ReportSystem\obj\Debug\net8.0\ref\02.ReportSystem.dll

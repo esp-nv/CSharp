@@ -1,0 +1,14 @@
+D:\nv\SoftUni\CSharp\PB-Sept-2024-Lab\03.ConditionalStatementsAdvanced-Lab\05.SmallShop\bin\Debug\net8.0\05.SmallShop.exe
+D:\nv\SoftUni\CSharp\PB-Sept-2024-Lab\03.ConditionalStatementsAdvanced-Lab\05.SmallShop\bin\Debug\net8.0\05.SmallShop.deps.json
+D:\nv\SoftUni\CSharp\PB-Sept-2024-Lab\03.ConditionalStatementsAdvanced-Lab\05.SmallShop\bin\Debug\net8.0\05.SmallShop.runtimeconfig.json
+D:\nv\SoftUni\CSharp\PB-Sept-2024-Lab\03.ConditionalStatementsAdvanced-Lab\05.SmallShop\bin\Debug\net8.0\05.SmallShop.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024-Lab\03.ConditionalStatementsAdvanced-Lab\05.SmallShop\bin\Debug\net8.0\05.SmallShop.pdb
+D:\nv\SoftUni\CSharp\PB-Sept-2024-Lab\03.ConditionalStatementsAdvanced-Lab\05.SmallShop\obj\Debug\net8.0\05.SmallShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\nv\SoftUni\CSharp\PB-Sept-2024-Lab\03.ConditionalStatementsAdvanced-Lab\05.SmallShop\obj\Debug\net8.0\05.SmallShop.AssemblyInfoInputs.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024-Lab\03.ConditionalStatementsAdvanced-Lab\05.SmallShop\obj\Debug\net8.0\05.SmallShop.AssemblyInfo.cs
+D:\nv\SoftUni\CSharp\PB-Sept-2024-Lab\03.ConditionalStatementsAdvanced-Lab\05.SmallShop\obj\Debug\net8.0\05.SmallShop.csproj.CoreCompileInputs.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024-Lab\03.ConditionalStatementsAdvanced-Lab\05.SmallShop\obj\Debug\net8.0\05.SmallShop.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024-Lab\03.ConditionalStatementsAdvanced-Lab\05.SmallShop\obj\Debug\net8.0\refint\05.SmallShop.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024-Lab\03.ConditionalStatementsAdvanced-Lab\05.SmallShop\obj\Debug\net8.0\05.SmallShop.pdb
+D:\nv\SoftUni\CSharp\PB-Sept-2024-Lab\03.ConditionalStatementsAdvanced-Lab\05.SmallShop\obj\Debug\net8.0\05.SmallShop.genruntimeconfig.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024-Lab\03.ConditionalStatementsAdvanced-Lab\05.SmallShop\obj\Debug\net8.0\ref\05.SmallShop.dll

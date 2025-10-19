@@ -1,0 +1,14 @@
+D:\nv\SoftUni\CSharp\PB-Sept-2024-Lab\03.ConditionalStatementsAdvanced-Lab\06.NumberInRange\bin\Debug\net8.0\06.NumberInRange.exe
+D:\nv\SoftUni\CSharp\PB-Sept-2024-Lab\03.ConditionalStatementsAdvanced-Lab\06.NumberInRange\bin\Debug\net8.0\06.NumberInRange.deps.json
+D:\nv\SoftUni\CSharp\PB-Sept-2024-Lab\03.ConditionalStatementsAdvanced-Lab\06.NumberInRange\bin\Debug\net8.0\06.NumberInRange.runtimeconfig.json
+D:\nv\SoftUni\CSharp\PB-Sept-2024-Lab\03.ConditionalStatementsAdvanced-Lab\06.NumberInRange\bin\Debug\net8.0\06.NumberInRange.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024-Lab\03.ConditionalStatementsAdvanced-Lab\06.NumberInRange\bin\Debug\net8.0\06.NumberInRange.pdb
+D:\nv\SoftUni\CSharp\PB-Sept-2024-Lab\03.ConditionalStatementsAdvanced-Lab\06.NumberInRange\obj\Debug\net8.0\06.NumberInRange.GeneratedMSBuildEditorConfig.editorconfig
+D:\nv\SoftUni\CSharp\PB-Sept-2024-Lab\03.ConditionalStatementsAdvanced-Lab\06.NumberInRange\obj\Debug\net8.0\06.NumberInRange.AssemblyInfoInputs.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024-Lab\03.ConditionalStatementsAdvanced-Lab\06.NumberInRange\obj\Debug\net8.0\06.NumberInRange.AssemblyInfo.cs
+D:\nv\SoftUni\CSharp\PB-Sept-2024-Lab\03.ConditionalStatementsAdvanced-Lab\06.NumberInRange\obj\Debug\net8.0\06.NumberInRange.csproj.CoreCompileInputs.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024-Lab\03.ConditionalStatementsAdvanced-Lab\06.NumberInRange\obj\Debug\net8.0\06.NumberInRange.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024-Lab\03.ConditionalStatementsAdvanced-Lab\06.NumberInRange\obj\Debug\net8.0\refint\06.NumberInRange.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024-Lab\03.ConditionalStatementsAdvanced-Lab\06.NumberInRange\obj\Debug\net8.0\06.NumberInRange.pdb
+D:\nv\SoftUni\CSharp\PB-Sept-2024-Lab\03.ConditionalStatementsAdvanced-Lab\06.NumberInRange\obj\Debug\net8.0\06.NumberInRange.genruntimeconfig.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024-Lab\03.ConditionalStatementsAdvanced-Lab\06.NumberInRange\obj\Debug\net8.0\ref\06.NumberInRange.dll

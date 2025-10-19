@@ -1,0 +1,14 @@
+D:\nv\SoftUni\CSharp\PB-Sept-2024-Lab\03.ConditionalStatementsAdvanced-Lab\11.FruitShop\bin\Debug\net8.0\11.FruitShop.exe
+D:\nv\SoftUni\CSharp\PB-Sept-2024-Lab\03.ConditionalStatementsAdvanced-Lab\11.FruitShop\bin\Debug\net8.0\11.FruitShop.deps.json
+D:\nv\SoftUni\CSharp\PB-Sept-2024-Lab\03.ConditionalStatementsAdvanced-Lab\11.FruitShop\bin\Debug\net8.0\11.FruitShop.runtimeconfig.json
+D:\nv\SoftUni\CSharp\PB-Sept-2024-Lab\03.ConditionalStatementsAdvanced-Lab\11.FruitShop\bin\Debug\net8.0\11.FruitShop.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024-Lab\03.ConditionalStatementsAdvanced-Lab\11.FruitShop\bin\Debug\net8.0\11.FruitShop.pdb
+D:\nv\SoftUni\CSharp\PB-Sept-2024-Lab\03.ConditionalStatementsAdvanced-Lab\11.FruitShop\obj\Debug\net8.0\11.FruitShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\nv\SoftUni\CSharp\PB-Sept-2024-Lab\03.ConditionalStatementsAdvanced-Lab\11.FruitShop\obj\Debug\net8.0\11.FruitShop.AssemblyInfoInputs.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024-Lab\03.ConditionalStatementsAdvanced-Lab\11.FruitShop\obj\Debug\net8.0\11.FruitShop.AssemblyInfo.cs
+D:\nv\SoftUni\CSharp\PB-Sept-2024-Lab\03.ConditionalStatementsAdvanced-Lab\11.FruitShop\obj\Debug\net8.0\11.FruitShop.csproj.CoreCompileInputs.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024-Lab\03.ConditionalStatementsAdvanced-Lab\11.FruitShop\obj\Debug\net8.0\11.FruitShop.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024-Lab\03.ConditionalStatementsAdvanced-Lab\11.FruitShop\obj\Debug\net8.0\refint\11.FruitShop.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024-Lab\03.ConditionalStatementsAdvanced-Lab\11.FruitShop\obj\Debug\net8.0\11.FruitShop.pdb
+D:\nv\SoftUni\CSharp\PB-Sept-2024-Lab\03.ConditionalStatementsAdvanced-Lab\11.FruitShop\obj\Debug\net8.0\11.FruitShop.genruntimeconfig.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024-Lab\03.ConditionalStatementsAdvanced-Lab\11.FruitShop\obj\Debug\net8.0\ref\11.FruitShop.dll

@@ -1,0 +1,14 @@
+D:\nv\SoftUni\CSharp\PB-Sept-2024-Lab\03.ConditionalStatementsAdvanced-Lab\03.AnimalType\bin\Debug\net8.0\03.AnimalType.exe
+D:\nv\SoftUni\CSharp\PB-Sept-2024-Lab\03.ConditionalStatementsAdvanced-Lab\03.AnimalType\bin\Debug\net8.0\03.AnimalType.deps.json
+D:\nv\SoftUni\CSharp\PB-Sept-2024-Lab\03.ConditionalStatementsAdvanced-Lab\03.AnimalType\bin\Debug\net8.0\03.AnimalType.runtimeconfig.json
+D:\nv\SoftUni\CSharp\PB-Sept-2024-Lab\03.ConditionalStatementsAdvanced-Lab\03.AnimalType\bin\Debug\net8.0\03.AnimalType.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024-Lab\03.ConditionalStatementsAdvanced-Lab\03.AnimalType\bin\Debug\net8.0\03.AnimalType.pdb
+D:\nv\SoftUni\CSharp\PB-Sept-2024-Lab\03.ConditionalStatementsAdvanced-Lab\03.AnimalType\obj\Debug\net8.0\03.AnimalType.GeneratedMSBuildEditorConfig.editorconfig
+D:\nv\SoftUni\CSharp\PB-Sept-2024-Lab\03.ConditionalStatementsAdvanced-Lab\03.AnimalType\obj\Debug\net8.0\03.AnimalType.AssemblyInfoInputs.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024-Lab\03.ConditionalStatementsAdvanced-Lab\03.AnimalType\obj\Debug\net8.0\03.AnimalType.AssemblyInfo.cs
+D:\nv\SoftUni\CSharp\PB-Sept-2024-Lab\03.ConditionalStatementsAdvanced-Lab\03.AnimalType\obj\Debug\net8.0\03.AnimalType.csproj.CoreCompileInputs.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024-Lab\03.ConditionalStatementsAdvanced-Lab\03.AnimalType\obj\Debug\net8.0\03.AnimalType.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024-Lab\03.ConditionalStatementsAdvanced-Lab\03.AnimalType\obj\Debug\net8.0\refint\03.AnimalType.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024-Lab\03.ConditionalStatementsAdvanced-Lab\03.AnimalType\obj\Debug\net8.0\03.AnimalType.pdb
+D:\nv\SoftUni\CSharp\PB-Sept-2024-Lab\03.ConditionalStatementsAdvanced-Lab\03.AnimalType\obj\Debug\net8.0\03.AnimalType.genruntimeconfig.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024-Lab\03.ConditionalStatementsAdvanced-Lab\03.AnimalType\obj\Debug\net8.0\ref\03.AnimalType.dll

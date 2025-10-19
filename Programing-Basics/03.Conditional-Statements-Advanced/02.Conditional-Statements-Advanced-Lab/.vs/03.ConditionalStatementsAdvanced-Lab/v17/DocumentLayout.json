@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\nv\\SoftUni\\CSharp\\PB-Sept-2024-Lab\\03.ConditionalStatementsAdvanced-Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB872C0C-C673-42C5-92E0-9D5DAC8367A3}|12.TradeCommissions\\12.TradeCommissions.csproj|d:\\nv\\softuni\\csharp\\pb-sept-2024-lab\\03.conditionalstatementsadvanced-lab\\12.tradecommissions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB872C0C-C673-42C5-92E0-9D5DAC8367A3}|12.TradeCommissions\\12.TradeCommissions.csproj|solutionrelative:12.tradecommissions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7655C6A0-0521-4B42-B286-FF4645BAFFA5}|05.SmallShop\\05.SmallShop.csproj|d:\\nv\\softuni\\csharp\\pb-sept-2024-lab\\03.conditionalstatementsadvanced-lab\\05.smallshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7655C6A0-0521-4B42-B286-FF4645BAFFA5}|05.SmallShop\\05.SmallShop.csproj|solutionrelative:05.smallshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B37CED0-8B2D-4B5A-9A45-70D7958D6665}|02.WeekendOrWorkingDay\\02.WeekendOrWorkingDay.csproj|d:\\nv\\softuni\\csharp\\pb-sept-2024-lab\\03.conditionalstatementsadvanced-lab\\02.weekendorworkingday\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B37CED0-8B2D-4B5A-9A45-70D7958D6665}|02.WeekendOrWorkingDay\\02.WeekendOrWorkingDay.csproj|solutionrelative:02.weekendorworkingday\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CC48175-F138-471D-99FD-2C965BC2A9AE}|11.FruitShop\\11.FruitShop.csproj|d:\\nv\\softuni\\csharp\\pb-sept-2024-lab\\03.conditionalstatementsadvanced-lab\\11.fruitshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CC48175-F138-471D-99FD-2C965BC2A9AE}|11.FruitShop\\11.FruitShop.csproj|solutionrelative:11.fruitshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A737C822-C28C-425C-A871-806337166B8E}|09.FruitOrVegetable\\09.FruitOrVegetable.csproj|d:\\nv\\softuni\\csharp\\pb-sept-2024-lab\\03.conditionalstatementsadvanced-lab\\09.fruitorvegetable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A737C822-C28C-425C-A871-806337166B8E}|09.FruitOrVegetable\\09.FruitOrVegetable.csproj|solutionrelative:09.fruitorvegetable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\nv\\SoftUni\\CSharp\\PB-Sept-2024-Lab\\03.ConditionalStatementsAdvanced-Lab\\05.SmallShop\\Program.cs",
+              "RelativeDocumentMoniker": "05.SmallShop\\Program.cs",
+              "ToolTip": "D:\\nv\\SoftUni\\CSharp\\PB-Sept-2024-Lab\\03.ConditionalStatementsAdvanced-Lab\\05.SmallShop\\Program.cs",
+              "RelativeToolTip": "05.SmallShop\\Program.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAACEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T14:47:16.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\nv\\SoftUni\\CSharp\\PB-Sept-2024-Lab\\03.ConditionalStatementsAdvanced-Lab\\12.TradeCommissions\\Program.cs",
+              "RelativeDocumentMoniker": "12.TradeCommissions\\Program.cs",
+              "ToolTip": "D:\\nv\\SoftUni\\CSharp\\PB-Sept-2024-Lab\\03.ConditionalStatementsAdvanced-Lab\\12.TradeCommissions\\Program.cs",
+              "RelativeToolTip": "12.TradeCommissions\\Program.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAgwEMAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T14:46:21.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\nv\\SoftUni\\CSharp\\PB-Sept-2024-Lab\\03.ConditionalStatementsAdvanced-Lab\\11.FruitShop\\Program.cs",
+              "RelativeDocumentMoniker": "11.FruitShop\\Program.cs",
+              "ToolTip": "D:\\nv\\SoftUni\\CSharp\\PB-Sept-2024-Lab\\03.ConditionalStatementsAdvanced-Lab\\11.FruitShop\\Program.cs",
+              "RelativeToolTip": "11.FruitShop\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T14:22:27.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\nv\\SoftUni\\CSharp\\PB-Sept-2024-Lab\\03.ConditionalStatementsAdvanced-Lab\\09.FruitOrVegetable\\Program.cs",
+              "RelativeDocumentMoniker": "09.FruitOrVegetable\\Program.cs",
+              "ToolTip": "D:\\nv\\SoftUni\\CSharp\\PB-Sept-2024-Lab\\03.ConditionalStatementsAdvanced-Lab\\09.FruitOrVegetable\\Program.cs",
+              "RelativeToolTip": "09.FruitOrVegetable\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T13:42:52.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\nv\\SoftUni\\CSharp\\PB-Sept-2024-Lab\\03.ConditionalStatementsAdvanced-Lab\\02.WeekendOrWorkingDay\\Program.cs",
+              "RelativeDocumentMoniker": "02.WeekendOrWorkingDay\\Program.cs",
+              "ToolTip": "D:\\nv\\SoftUni\\CSharp\\PB-Sept-2024-Lab\\03.ConditionalStatementsAdvanced-Lab\\02.WeekendOrWorkingDay\\Program.cs",
+              "RelativeToolTip": "02.WeekendOrWorkingDay\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T13:22:53.277Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

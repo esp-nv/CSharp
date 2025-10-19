@@ -1,0 +1,14 @@
+D:\nv\SoftUni\CSharp\PB-Sept-2024-Lab\03.ConditionalStatementsAdvanced-Lab\07.WorkingHours\bin\Debug\net8.0\07.WorkingHours.exe
+D:\nv\SoftUni\CSharp\PB-Sept-2024-Lab\03.ConditionalStatementsAdvanced-Lab\07.WorkingHours\bin\Debug\net8.0\07.WorkingHours.deps.json
+D:\nv\SoftUni\CSharp\PB-Sept-2024-Lab\03.ConditionalStatementsAdvanced-Lab\07.WorkingHours\bin\Debug\net8.0\07.WorkingHours.runtimeconfig.json
+D:\nv\SoftUni\CSharp\PB-Sept-2024-Lab\03.ConditionalStatementsAdvanced-Lab\07.WorkingHours\bin\Debug\net8.0\07.WorkingHours.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024-Lab\03.ConditionalStatementsAdvanced-Lab\07.WorkingHours\bin\Debug\net8.0\07.WorkingHours.pdb
+D:\nv\SoftUni\CSharp\PB-Sept-2024-Lab\03.ConditionalStatementsAdvanced-Lab\07.WorkingHours\obj\Debug\net8.0\07.WorkingHours.GeneratedMSBuildEditorConfig.editorconfig
+D:\nv\SoftUni\CSharp\PB-Sept-2024-Lab\03.ConditionalStatementsAdvanced-Lab\07.WorkingHours\obj\Debug\net8.0\07.WorkingHours.AssemblyInfoInputs.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024-Lab\03.ConditionalStatementsAdvanced-Lab\07.WorkingHours\obj\Debug\net8.0\07.WorkingHours.AssemblyInfo.cs
+D:\nv\SoftUni\CSharp\PB-Sept-2024-Lab\03.ConditionalStatementsAdvanced-Lab\07.WorkingHours\obj\Debug\net8.0\07.WorkingHours.csproj.CoreCompileInputs.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024-Lab\03.ConditionalStatementsAdvanced-Lab\07.WorkingHours\obj\Debug\net8.0\07.WorkingHours.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024-Lab\03.ConditionalStatementsAdvanced-Lab\07.WorkingHours\obj\Debug\net8.0\refint\07.WorkingHours.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024-Lab\03.ConditionalStatementsAdvanced-Lab\07.WorkingHours\obj\Debug\net8.0\07.WorkingHours.pdb
+D:\nv\SoftUni\CSharp\PB-Sept-2024-Lab\03.ConditionalStatementsAdvanced-Lab\07.WorkingHours\obj\Debug\net8.0\07.WorkingHours.genruntimeconfig.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024-Lab\03.ConditionalStatementsAdvanced-Lab\07.WorkingHours\obj\Debug\net8.0\ref\07.WorkingHours.dll

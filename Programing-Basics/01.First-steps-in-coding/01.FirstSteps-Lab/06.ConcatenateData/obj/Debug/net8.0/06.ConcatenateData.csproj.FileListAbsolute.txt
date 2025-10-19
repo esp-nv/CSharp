@@ -1,0 +1,14 @@
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Lab\01.FirstSteps\06.ConcatenateData\bin\Debug\net8.0\06.ConcatenateData.exe
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Lab\01.FirstSteps\06.ConcatenateData\bin\Debug\net8.0\06.ConcatenateData.deps.json
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Lab\01.FirstSteps\06.ConcatenateData\bin\Debug\net8.0\06.ConcatenateData.runtimeconfig.json
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Lab\01.FirstSteps\06.ConcatenateData\bin\Debug\net8.0\06.ConcatenateData.dll
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Lab\01.FirstSteps\06.ConcatenateData\bin\Debug\net8.0\06.ConcatenateData.pdb
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Lab\01.FirstSteps\06.ConcatenateData\obj\Debug\net8.0\06.ConcatenateData.GeneratedMSBuildEditorConfig.editorconfig
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Lab\01.FirstSteps\06.ConcatenateData\obj\Debug\net8.0\06.ConcatenateData.AssemblyInfoInputs.cache
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Lab\01.FirstSteps\06.ConcatenateData\obj\Debug\net8.0\06.ConcatenateData.AssemblyInfo.cs
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Lab\01.FirstSteps\06.ConcatenateData\obj\Debug\net8.0\06.ConcatenateData.csproj.CoreCompileInputs.cache
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Lab\01.FirstSteps\06.ConcatenateData\obj\Debug\net8.0\06.ConcatenateData.dll
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Lab\01.FirstSteps\06.ConcatenateData\obj\Debug\net8.0\refint\06.ConcatenateData.dll
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Lab\01.FirstSteps\06.ConcatenateData\obj\Debug\net8.0\06.ConcatenateData.pdb
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Lab\01.FirstSteps\06.ConcatenateData\obj\Debug\net8.0\06.ConcatenateData.genruntimeconfig.cache
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Lab\01.FirstSteps\06.ConcatenateData\obj\Debug\net8.0\ref\06.ConcatenateData.dll

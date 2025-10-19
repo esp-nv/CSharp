@@ -1,0 +1,14 @@
+D:\nv\SoftUni\CSharp\PB-Sept-2024\02.ConditionalStatements-MoreEx\01.PipesInPool\bin\Debug\net8.0\01.PipesInPool.exe
+D:\nv\SoftUni\CSharp\PB-Sept-2024\02.ConditionalStatements-MoreEx\01.PipesInPool\bin\Debug\net8.0\01.PipesInPool.deps.json
+D:\nv\SoftUni\CSharp\PB-Sept-2024\02.ConditionalStatements-MoreEx\01.PipesInPool\bin\Debug\net8.0\01.PipesInPool.runtimeconfig.json
+D:\nv\SoftUni\CSharp\PB-Sept-2024\02.ConditionalStatements-MoreEx\01.PipesInPool\bin\Debug\net8.0\01.PipesInPool.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\02.ConditionalStatements-MoreEx\01.PipesInPool\bin\Debug\net8.0\01.PipesInPool.pdb
+D:\nv\SoftUni\CSharp\PB-Sept-2024\02.ConditionalStatements-MoreEx\01.PipesInPool\obj\Debug\net8.0\01.PipesInPool.GeneratedMSBuildEditorConfig.editorconfig
+D:\nv\SoftUni\CSharp\PB-Sept-2024\02.ConditionalStatements-MoreEx\01.PipesInPool\obj\Debug\net8.0\01.PipesInPool.AssemblyInfoInputs.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\02.ConditionalStatements-MoreEx\01.PipesInPool\obj\Debug\net8.0\01.PipesInPool.AssemblyInfo.cs
+D:\nv\SoftUni\CSharp\PB-Sept-2024\02.ConditionalStatements-MoreEx\01.PipesInPool\obj\Debug\net8.0\01.PipesInPool.csproj.CoreCompileInputs.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\02.ConditionalStatements-MoreEx\01.PipesInPool\obj\Debug\net8.0\01.PipesInPool.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\02.ConditionalStatements-MoreEx\01.PipesInPool\obj\Debug\net8.0\refint\01.PipesInPool.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\02.ConditionalStatements-MoreEx\01.PipesInPool\obj\Debug\net8.0\01.PipesInPool.pdb
+D:\nv\SoftUni\CSharp\PB-Sept-2024\02.ConditionalStatements-MoreEx\01.PipesInPool\obj\Debug\net8.0\01.PipesInPool.genruntimeconfig.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\02.ConditionalStatements-MoreEx\01.PipesInPool\obj\Debug\net8.0\ref\01.PipesInPool.dll

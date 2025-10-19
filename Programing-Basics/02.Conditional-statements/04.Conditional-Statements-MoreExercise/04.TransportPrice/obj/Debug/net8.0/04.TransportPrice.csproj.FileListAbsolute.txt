@@ -1,0 +1,14 @@
+D:\nv\SoftUni\CSharp\PB-Sept-2024\02.ConditionalStatements-MoreEx\04.TransportPrice\bin\Debug\net8.0\04.TransportPrice.exe
+D:\nv\SoftUni\CSharp\PB-Sept-2024\02.ConditionalStatements-MoreEx\04.TransportPrice\bin\Debug\net8.0\04.TransportPrice.deps.json
+D:\nv\SoftUni\CSharp\PB-Sept-2024\02.ConditionalStatements-MoreEx\04.TransportPrice\bin\Debug\net8.0\04.TransportPrice.runtimeconfig.json
+D:\nv\SoftUni\CSharp\PB-Sept-2024\02.ConditionalStatements-MoreEx\04.TransportPrice\bin\Debug\net8.0\04.TransportPrice.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\02.ConditionalStatements-MoreEx\04.TransportPrice\bin\Debug\net8.0\04.TransportPrice.pdb
+D:\nv\SoftUni\CSharp\PB-Sept-2024\02.ConditionalStatements-MoreEx\04.TransportPrice\obj\Debug\net8.0\04.TransportPrice.GeneratedMSBuildEditorConfig.editorconfig
+D:\nv\SoftUni\CSharp\PB-Sept-2024\02.ConditionalStatements-MoreEx\04.TransportPrice\obj\Debug\net8.0\04.TransportPrice.AssemblyInfoInputs.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\02.ConditionalStatements-MoreEx\04.TransportPrice\obj\Debug\net8.0\04.TransportPrice.AssemblyInfo.cs
+D:\nv\SoftUni\CSharp\PB-Sept-2024\02.ConditionalStatements-MoreEx\04.TransportPrice\obj\Debug\net8.0\04.TransportPrice.csproj.CoreCompileInputs.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\02.ConditionalStatements-MoreEx\04.TransportPrice\obj\Debug\net8.0\04.TransportPrice.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\02.ConditionalStatements-MoreEx\04.TransportPrice\obj\Debug\net8.0\refint\04.TransportPrice.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\02.ConditionalStatements-MoreEx\04.TransportPrice\obj\Debug\net8.0\04.TransportPrice.pdb
+D:\nv\SoftUni\CSharp\PB-Sept-2024\02.ConditionalStatements-MoreEx\04.TransportPrice\obj\Debug\net8.0\04.TransportPrice.genruntimeconfig.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\02.ConditionalStatements-MoreEx\04.TransportPrice\obj\Debug\net8.0\ref\04.TransportPrice.dll

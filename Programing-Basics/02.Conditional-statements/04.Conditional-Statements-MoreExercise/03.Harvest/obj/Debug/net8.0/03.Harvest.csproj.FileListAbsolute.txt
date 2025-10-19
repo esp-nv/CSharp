@@ -1,0 +1,14 @@
+D:\nv\SoftUni\CSharp\PB-Sept-2024\02.ConditionalStatements-MoreEx\03.Harvest\bin\Debug\net8.0\03.Harvest.exe
+D:\nv\SoftUni\CSharp\PB-Sept-2024\02.ConditionalStatements-MoreEx\03.Harvest\bin\Debug\net8.0\03.Harvest.deps.json
+D:\nv\SoftUni\CSharp\PB-Sept-2024\02.ConditionalStatements-MoreEx\03.Harvest\bin\Debug\net8.0\03.Harvest.runtimeconfig.json
+D:\nv\SoftUni\CSharp\PB-Sept-2024\02.ConditionalStatements-MoreEx\03.Harvest\bin\Debug\net8.0\03.Harvest.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\02.ConditionalStatements-MoreEx\03.Harvest\bin\Debug\net8.0\03.Harvest.pdb
+D:\nv\SoftUni\CSharp\PB-Sept-2024\02.ConditionalStatements-MoreEx\03.Harvest\obj\Debug\net8.0\03.Harvest.GeneratedMSBuildEditorConfig.editorconfig
+D:\nv\SoftUni\CSharp\PB-Sept-2024\02.ConditionalStatements-MoreEx\03.Harvest\obj\Debug\net8.0\03.Harvest.AssemblyInfoInputs.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\02.ConditionalStatements-MoreEx\03.Harvest\obj\Debug\net8.0\03.Harvest.AssemblyInfo.cs
+D:\nv\SoftUni\CSharp\PB-Sept-2024\02.ConditionalStatements-MoreEx\03.Harvest\obj\Debug\net8.0\03.Harvest.csproj.CoreCompileInputs.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\02.ConditionalStatements-MoreEx\03.Harvest\obj\Debug\net8.0\03.Harvest.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\02.ConditionalStatements-MoreEx\03.Harvest\obj\Debug\net8.0\refint\03.Harvest.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\02.ConditionalStatements-MoreEx\03.Harvest\obj\Debug\net8.0\03.Harvest.pdb
+D:\nv\SoftUni\CSharp\PB-Sept-2024\02.ConditionalStatements-MoreEx\03.Harvest\obj\Debug\net8.0\03.Harvest.genruntimeconfig.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\02.ConditionalStatements-MoreEx\03.Harvest\obj\Debug\net8.0\ref\03.Harvest.dll

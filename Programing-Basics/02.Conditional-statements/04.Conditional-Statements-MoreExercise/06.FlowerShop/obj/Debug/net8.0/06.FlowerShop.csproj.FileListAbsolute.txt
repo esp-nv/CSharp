@@ -1,0 +1,14 @@
+D:\nv\SoftUni\CSharp\PB-Sept-2024\02.ConditionalStatements-MoreEx\06.FlowerShop\bin\Debug\net8.0\06.FlowerShop.exe
+D:\nv\SoftUni\CSharp\PB-Sept-2024\02.ConditionalStatements-MoreEx\06.FlowerShop\bin\Debug\net8.0\06.FlowerShop.deps.json
+D:\nv\SoftUni\CSharp\PB-Sept-2024\02.ConditionalStatements-MoreEx\06.FlowerShop\bin\Debug\net8.0\06.FlowerShop.runtimeconfig.json
+D:\nv\SoftUni\CSharp\PB-Sept-2024\02.ConditionalStatements-MoreEx\06.FlowerShop\bin\Debug\net8.0\06.FlowerShop.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\02.ConditionalStatements-MoreEx\06.FlowerShop\bin\Debug\net8.0\06.FlowerShop.pdb
+D:\nv\SoftUni\CSharp\PB-Sept-2024\02.ConditionalStatements-MoreEx\06.FlowerShop\obj\Debug\net8.0\06.FlowerShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\nv\SoftUni\CSharp\PB-Sept-2024\02.ConditionalStatements-MoreEx\06.FlowerShop\obj\Debug\net8.0\06.FlowerShop.AssemblyInfoInputs.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\02.ConditionalStatements-MoreEx\06.FlowerShop\obj\Debug\net8.0\06.FlowerShop.AssemblyInfo.cs
+D:\nv\SoftUni\CSharp\PB-Sept-2024\02.ConditionalStatements-MoreEx\06.FlowerShop\obj\Debug\net8.0\06.FlowerShop.csproj.CoreCompileInputs.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\02.ConditionalStatements-MoreEx\06.FlowerShop\obj\Debug\net8.0\06.FlowerShop.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\02.ConditionalStatements-MoreEx\06.FlowerShop\obj\Debug\net8.0\refint\06.FlowerShop.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\02.ConditionalStatements-MoreEx\06.FlowerShop\obj\Debug\net8.0\06.FlowerShop.pdb
+D:\nv\SoftUni\CSharp\PB-Sept-2024\02.ConditionalStatements-MoreEx\06.FlowerShop\obj\Debug\net8.0\06.FlowerShop.genruntimeconfig.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\02.ConditionalStatements-MoreEx\06.FlowerShop\obj\Debug\net8.0\ref\06.FlowerShop.dll

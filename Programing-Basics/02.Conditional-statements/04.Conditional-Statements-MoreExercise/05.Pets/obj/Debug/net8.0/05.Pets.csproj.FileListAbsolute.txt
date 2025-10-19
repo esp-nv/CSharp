@@ -1,0 +1,14 @@
+D:\nv\SoftUni\CSharp\PB-Sept-2024\02.ConditionalStatements-MoreEx\05.Pets\bin\Debug\net8.0\05.Pets.exe
+D:\nv\SoftUni\CSharp\PB-Sept-2024\02.ConditionalStatements-MoreEx\05.Pets\bin\Debug\net8.0\05.Pets.deps.json
+D:\nv\SoftUni\CSharp\PB-Sept-2024\02.ConditionalStatements-MoreEx\05.Pets\bin\Debug\net8.0\05.Pets.runtimeconfig.json
+D:\nv\SoftUni\CSharp\PB-Sept-2024\02.ConditionalStatements-MoreEx\05.Pets\bin\Debug\net8.0\05.Pets.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\02.ConditionalStatements-MoreEx\05.Pets\bin\Debug\net8.0\05.Pets.pdb
+D:\nv\SoftUni\CSharp\PB-Sept-2024\02.ConditionalStatements-MoreEx\05.Pets\obj\Debug\net8.0\05.Pets.GeneratedMSBuildEditorConfig.editorconfig
+D:\nv\SoftUni\CSharp\PB-Sept-2024\02.ConditionalStatements-MoreEx\05.Pets\obj\Debug\net8.0\05.Pets.AssemblyInfoInputs.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\02.ConditionalStatements-MoreEx\05.Pets\obj\Debug\net8.0\05.Pets.AssemblyInfo.cs
+D:\nv\SoftUni\CSharp\PB-Sept-2024\02.ConditionalStatements-MoreEx\05.Pets\obj\Debug\net8.0\05.Pets.csproj.CoreCompileInputs.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\02.ConditionalStatements-MoreEx\05.Pets\obj\Debug\net8.0\05.Pets.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\02.ConditionalStatements-MoreEx\05.Pets\obj\Debug\net8.0\refint\05.Pets.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\02.ConditionalStatements-MoreEx\05.Pets\obj\Debug\net8.0\05.Pets.pdb
+D:\nv\SoftUni\CSharp\PB-Sept-2024\02.ConditionalStatements-MoreEx\05.Pets\obj\Debug\net8.0\05.Pets.genruntimeconfig.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\02.ConditionalStatements-MoreEx\05.Pets\obj\Debug\net8.0\ref\05.Pets.dll

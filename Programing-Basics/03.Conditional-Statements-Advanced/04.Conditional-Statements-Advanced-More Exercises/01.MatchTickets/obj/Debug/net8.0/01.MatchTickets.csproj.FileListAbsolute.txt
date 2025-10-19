@@ -1,0 +1,14 @@
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-More Exercises\01.MatchTickets\bin\Debug\net8.0\01.MatchTickets.exe
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-More Exercises\01.MatchTickets\bin\Debug\net8.0\01.MatchTickets.deps.json
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-More Exercises\01.MatchTickets\bin\Debug\net8.0\01.MatchTickets.runtimeconfig.json
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-More Exercises\01.MatchTickets\bin\Debug\net8.0\01.MatchTickets.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-More Exercises\01.MatchTickets\bin\Debug\net8.0\01.MatchTickets.pdb
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-More Exercises\01.MatchTickets\obj\Debug\net8.0\01.MatchTickets.GeneratedMSBuildEditorConfig.editorconfig
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-More Exercises\01.MatchTickets\obj\Debug\net8.0\01.MatchTickets.AssemblyInfoInputs.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-More Exercises\01.MatchTickets\obj\Debug\net8.0\01.MatchTickets.AssemblyInfo.cs
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-More Exercises\01.MatchTickets\obj\Debug\net8.0\01.MatchTickets.csproj.CoreCompileInputs.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-More Exercises\01.MatchTickets\obj\Debug\net8.0\01.MatchTickets.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-More Exercises\01.MatchTickets\obj\Debug\net8.0\refint\01.MatchTickets.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-More Exercises\01.MatchTickets\obj\Debug\net8.0\01.MatchTickets.pdb
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-More Exercises\01.MatchTickets\obj\Debug\net8.0\01.MatchTickets.genruntimeconfig.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-More Exercises\01.MatchTickets\obj\Debug\net8.0\ref\01.MatchTickets.dll

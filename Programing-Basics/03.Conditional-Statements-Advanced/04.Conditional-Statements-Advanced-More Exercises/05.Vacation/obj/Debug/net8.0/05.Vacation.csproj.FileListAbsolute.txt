@@ -1,0 +1,14 @@
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-More Exercises\05.Vacation\bin\Debug\net8.0\05.Vacation.exe
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-More Exercises\05.Vacation\bin\Debug\net8.0\05.Vacation.deps.json
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-More Exercises\05.Vacation\bin\Debug\net8.0\05.Vacation.runtimeconfig.json
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-More Exercises\05.Vacation\bin\Debug\net8.0\05.Vacation.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-More Exercises\05.Vacation\bin\Debug\net8.0\05.Vacation.pdb
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-More Exercises\05.Vacation\obj\Debug\net8.0\05.Vacation.GeneratedMSBuildEditorConfig.editorconfig
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-More Exercises\05.Vacation\obj\Debug\net8.0\05.Vacation.AssemblyInfoInputs.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-More Exercises\05.Vacation\obj\Debug\net8.0\05.Vacation.AssemblyInfo.cs
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-More Exercises\05.Vacation\obj\Debug\net8.0\05.Vacation.csproj.CoreCompileInputs.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-More Exercises\05.Vacation\obj\Debug\net8.0\05.Vacation.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-More Exercises\05.Vacation\obj\Debug\net8.0\refint\05.Vacation.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-More Exercises\05.Vacation\obj\Debug\net8.0\05.Vacation.pdb
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-More Exercises\05.Vacation\obj\Debug\net8.0\05.Vacation.genruntimeconfig.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-More Exercises\05.Vacation\obj\Debug\net8.0\ref\05.Vacation.dll

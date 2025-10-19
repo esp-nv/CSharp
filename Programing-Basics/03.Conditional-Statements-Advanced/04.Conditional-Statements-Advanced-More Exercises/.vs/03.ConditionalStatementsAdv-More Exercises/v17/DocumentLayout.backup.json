@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\nv\\SoftUni\\CSharp\\PB-Sept-2024\\03.ConditionalStatementsAdv-More Exercises\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82B93174-FF81-42B1-A658-3495FE8A5B3C}|06.TruckDriver\\06.TruckDriver.csproj|d:\\nv\\softuni\\csharp\\pb-sept-2024\\03.conditionalstatementsadv-more exercises\\06.truckdriver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82B93174-FF81-42B1-A658-3495FE8A5B3C}|06.TruckDriver\\06.TruckDriver.csproj|solutionrelative:06.truckdriver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1E84C18-567B-422D-931E-EF4DE2C1033A}|10.MultiplyBy2\\10.MultiplyBy2.csproj|d:\\nv\\softuni\\csharp\\pb-sept-2024\\03.conditionalstatementsadv-more exercises\\10.multiplyby2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1E84C18-567B-422D-931E-EF4DE2C1033A}|10.MultiplyBy2\\10.MultiplyBy2.csproj|solutionrelative:10.multiplyby2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA465F5D-B254-46FE-BBF4-12D7EE595C27}|07.SchoolCamp\\07.SchoolCamp.csproj|d:\\nv\\softuni\\csharp\\pb-sept-2024\\03.conditionalstatementsadv-more exercises\\07.schoolcamp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA465F5D-B254-46FE-BBF4-12D7EE595C27}|07.SchoolCamp\\07.SchoolCamp.csproj|solutionrelative:07.schoolcamp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FB83C1A-9344-4CAC-B0E0-E4CA2BF9F757}|09.NumbersFrom1To10\\09.NumbersFrom1To10.csproj|d:\\nv\\softuni\\csharp\\pb-sept-2024\\03.conditionalstatementsadv-more exercises\\09.numbersfrom1to10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FB83C1A-9344-4CAC-B0E0-E4CA2BF9F757}|09.NumbersFrom1To10\\09.NumbersFrom1To10.csproj|solutionrelative:09.numbersfrom1to10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E9D3A4-2233-4DA0-A284-AAC83506BC51}|08.PointOnRectangleBorder\\08.PointOnRectangleBorder.csproj|d:\\nv\\softuni\\csharp\\pb-sept-2024\\03.conditionalstatementsadv-more exercises\\08.pointonrectangleborder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E9D3A4-2233-4DA0-A284-AAC83506BC51}|08.PointOnRectangleBorder\\08.PointOnRectangleBorder.csproj|solutionrelative:08.pointonrectangleborder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\nv\\SoftUni\\CSharp\\PB-Sept-2024\\03.ConditionalStatementsAdv-More Exercises\\10.MultiplyBy2\\Program.cs",
+              "RelativeDocumentMoniker": "10.MultiplyBy2\\Program.cs",
+              "ToolTip": "D:\\nv\\SoftUni\\CSharp\\PB-Sept-2024\\03.ConditionalStatementsAdv-More Exercises\\10.MultiplyBy2\\Program.cs",
+              "RelativeToolTip": "10.MultiplyBy2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T17:57:47.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\nv\\SoftUni\\CSharp\\PB-Sept-2024\\03.ConditionalStatementsAdv-More Exercises\\09.NumbersFrom1To10\\Program.cs",
+              "RelativeDocumentMoniker": "09.NumbersFrom1To10\\Program.cs",
+              "ToolTip": "D:\\nv\\SoftUni\\CSharp\\PB-Sept-2024\\03.ConditionalStatementsAdv-More Exercises\\09.NumbersFrom1To10\\Program.cs",
+              "RelativeToolTip": "09.NumbersFrom1To10\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T17:57:08.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\nv\\SoftUni\\CSharp\\PB-Sept-2024\\03.ConditionalStatementsAdv-More Exercises\\08.PointOnRectangleBorder\\Program.cs",
+              "RelativeDocumentMoniker": "08.PointOnRectangleBorder\\Program.cs",
+              "ToolTip": "D:\\nv\\SoftUni\\CSharp\\PB-Sept-2024\\03.ConditionalStatementsAdv-More Exercises\\08.PointOnRectangleBorder\\Program.cs",
+              "RelativeToolTip": "08.PointOnRectangleBorder\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T17:56:20.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\nv\\SoftUni\\CSharp\\PB-Sept-2024\\03.ConditionalStatementsAdv-More Exercises\\07.SchoolCamp\\Program.cs",
+              "RelativeDocumentMoniker": "07.SchoolCamp\\Program.cs",
+              "ToolTip": "D:\\nv\\SoftUni\\CSharp\\PB-Sept-2024\\03.ConditionalStatementsAdv-More Exercises\\07.SchoolCamp\\Program.cs",
+              "RelativeToolTip": "07.SchoolCamp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T17:55:28.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\nv\\SoftUni\\CSharp\\PB-Sept-2024\\03.ConditionalStatementsAdv-More Exercises\\06.TruckDriver\\Program.cs",
+              "RelativeDocumentMoniker": "06.TruckDriver\\Program.cs",
+              "ToolTip": "D:\\nv\\SoftUni\\CSharp\\PB-Sept-2024\\03.ConditionalStatementsAdv-More Exercises\\06.TruckDriver\\Program.cs*",
+              "RelativeToolTip": "06.TruckDriver\\Program.cs*",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAACoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T17:54:54.565Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

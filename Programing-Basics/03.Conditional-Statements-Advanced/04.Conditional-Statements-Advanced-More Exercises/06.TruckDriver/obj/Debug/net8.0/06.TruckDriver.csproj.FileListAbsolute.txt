@@ -1,0 +1,14 @@
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-More Exercises\06.TruckDriver\bin\Debug\net8.0\06.TruckDriver.exe
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-More Exercises\06.TruckDriver\bin\Debug\net8.0\06.TruckDriver.deps.json
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-More Exercises\06.TruckDriver\bin\Debug\net8.0\06.TruckDriver.runtimeconfig.json
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-More Exercises\06.TruckDriver\bin\Debug\net8.0\06.TruckDriver.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-More Exercises\06.TruckDriver\bin\Debug\net8.0\06.TruckDriver.pdb
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-More Exercises\06.TruckDriver\obj\Debug\net8.0\06.TruckDriver.GeneratedMSBuildEditorConfig.editorconfig
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-More Exercises\06.TruckDriver\obj\Debug\net8.0\06.TruckDriver.AssemblyInfoInputs.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-More Exercises\06.TruckDriver\obj\Debug\net8.0\06.TruckDriver.AssemblyInfo.cs
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-More Exercises\06.TruckDriver\obj\Debug\net8.0\06.TruckDriver.csproj.CoreCompileInputs.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-More Exercises\06.TruckDriver\obj\Debug\net8.0\06.TruckDriver.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-More Exercises\06.TruckDriver\obj\Debug\net8.0\refint\06.TruckDriver.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-More Exercises\06.TruckDriver\obj\Debug\net8.0\06.TruckDriver.pdb
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-More Exercises\06.TruckDriver\obj\Debug\net8.0\06.TruckDriver.genruntimeconfig.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-More Exercises\06.TruckDriver\obj\Debug\net8.0\ref\06.TruckDriver.dll

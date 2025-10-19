@@ -1,0 +1,14 @@
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-More Exercises\02.BikeRace\bin\Debug\net8.0\02.BikeRace.exe
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-More Exercises\02.BikeRace\bin\Debug\net8.0\02.BikeRace.deps.json
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-More Exercises\02.BikeRace\bin\Debug\net8.0\02.BikeRace.runtimeconfig.json
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-More Exercises\02.BikeRace\bin\Debug\net8.0\02.BikeRace.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-More Exercises\02.BikeRace\bin\Debug\net8.0\02.BikeRace.pdb
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-More Exercises\02.BikeRace\obj\Debug\net8.0\02.BikeRace.GeneratedMSBuildEditorConfig.editorconfig
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-More Exercises\02.BikeRace\obj\Debug\net8.0\02.BikeRace.AssemblyInfoInputs.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-More Exercises\02.BikeRace\obj\Debug\net8.0\02.BikeRace.AssemblyInfo.cs
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-More Exercises\02.BikeRace\obj\Debug\net8.0\02.BikeRace.csproj.CoreCompileInputs.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-More Exercises\02.BikeRace\obj\Debug\net8.0\02.BikeRace.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-More Exercises\02.BikeRace\obj\Debug\net8.0\refint\02.BikeRace.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-More Exercises\02.BikeRace\obj\Debug\net8.0\02.BikeRace.pdb
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-More Exercises\02.BikeRace\obj\Debug\net8.0\02.BikeRace.genruntimeconfig.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-More Exercises\02.BikeRace\obj\Debug\net8.0\ref\02.BikeRace.dll

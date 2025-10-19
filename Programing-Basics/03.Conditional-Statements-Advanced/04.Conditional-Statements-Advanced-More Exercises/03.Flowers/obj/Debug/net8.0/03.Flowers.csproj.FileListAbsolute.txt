@@ -1,0 +1,14 @@
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-More Exercises\03.Flowers\bin\Debug\net8.0\03.Flowers.exe
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-More Exercises\03.Flowers\bin\Debug\net8.0\03.Flowers.deps.json
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-More Exercises\03.Flowers\bin\Debug\net8.0\03.Flowers.runtimeconfig.json
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-More Exercises\03.Flowers\bin\Debug\net8.0\03.Flowers.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-More Exercises\03.Flowers\bin\Debug\net8.0\03.Flowers.pdb
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-More Exercises\03.Flowers\obj\Debug\net8.0\03.Flowers.GeneratedMSBuildEditorConfig.editorconfig
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-More Exercises\03.Flowers\obj\Debug\net8.0\03.Flowers.AssemblyInfoInputs.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-More Exercises\03.Flowers\obj\Debug\net8.0\03.Flowers.AssemblyInfo.cs
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-More Exercises\03.Flowers\obj\Debug\net8.0\03.Flowers.csproj.CoreCompileInputs.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-More Exercises\03.Flowers\obj\Debug\net8.0\03.Flowers.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-More Exercises\03.Flowers\obj\Debug\net8.0\refint\03.Flowers.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-More Exercises\03.Flowers\obj\Debug\net8.0\03.Flowers.pdb
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-More Exercises\03.Flowers\obj\Debug\net8.0\03.Flowers.genruntimeconfig.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-More Exercises\03.Flowers\obj\Debug\net8.0\ref\03.Flowers.dll

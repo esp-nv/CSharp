@@ -1,0 +1,14 @@
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-More Exercises\04.CarToGo\bin\Debug\net8.0\04.CarToGo.exe
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-More Exercises\04.CarToGo\bin\Debug\net8.0\04.CarToGo.deps.json
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-More Exercises\04.CarToGo\bin\Debug\net8.0\04.CarToGo.runtimeconfig.json
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-More Exercises\04.CarToGo\bin\Debug\net8.0\04.CarToGo.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-More Exercises\04.CarToGo\bin\Debug\net8.0\04.CarToGo.pdb
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-More Exercises\04.CarToGo\obj\Debug\net8.0\04.CarToGo.GeneratedMSBuildEditorConfig.editorconfig
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-More Exercises\04.CarToGo\obj\Debug\net8.0\04.CarToGo.AssemblyInfoInputs.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-More Exercises\04.CarToGo\obj\Debug\net8.0\04.CarToGo.AssemblyInfo.cs
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-More Exercises\04.CarToGo\obj\Debug\net8.0\04.CarToGo.csproj.CoreCompileInputs.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-More Exercises\04.CarToGo\obj\Debug\net8.0\04.CarToGo.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-More Exercises\04.CarToGo\obj\Debug\net8.0\refint\04.CarToGo.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-More Exercises\04.CarToGo\obj\Debug\net8.0\04.CarToGo.pdb
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-More Exercises\04.CarToGo\obj\Debug\net8.0\04.CarToGo.genruntimeconfig.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-More Exercises\04.CarToGo\obj\Debug\net8.0\ref\04.CarToGo.dll

@@ -1,2 +1,2 @@
 # CSharp
-Programming with C#
+Programming basics with C#

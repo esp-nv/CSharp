@@ -1,0 +1,14 @@
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Lab\02.ConditionalStatements-Lab\03.EvenOrOdd\bin\Debug\net8.0\03.EvenOrOdd.exe
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Lab\02.ConditionalStatements-Lab\03.EvenOrOdd\bin\Debug\net8.0\03.EvenOrOdd.deps.json
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Lab\02.ConditionalStatements-Lab\03.EvenOrOdd\bin\Debug\net8.0\03.EvenOrOdd.runtimeconfig.json
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Lab\02.ConditionalStatements-Lab\03.EvenOrOdd\bin\Debug\net8.0\03.EvenOrOdd.dll
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Lab\02.ConditionalStatements-Lab\03.EvenOrOdd\bin\Debug\net8.0\03.EvenOrOdd.pdb
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Lab\02.ConditionalStatements-Lab\03.EvenOrOdd\obj\Debug\net8.0\03.EvenOrOdd.GeneratedMSBuildEditorConfig.editorconfig
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Lab\02.ConditionalStatements-Lab\03.EvenOrOdd\obj\Debug\net8.0\03.EvenOrOdd.AssemblyInfoInputs.cache
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Lab\02.ConditionalStatements-Lab\03.EvenOrOdd\obj\Debug\net8.0\03.EvenOrOdd.AssemblyInfo.cs
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Lab\02.ConditionalStatements-Lab\03.EvenOrOdd\obj\Debug\net8.0\03.EvenOrOdd.csproj.CoreCompileInputs.cache
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Lab\02.ConditionalStatements-Lab\03.EvenOrOdd\obj\Debug\net8.0\03.EvenOrOdd.dll
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Lab\02.ConditionalStatements-Lab\03.EvenOrOdd\obj\Debug\net8.0\refint\03.EvenOrOdd.dll
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Lab\02.ConditionalStatements-Lab\03.EvenOrOdd\obj\Debug\net8.0\03.EvenOrOdd.pdb
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Lab\02.ConditionalStatements-Lab\03.EvenOrOdd\obj\Debug\net8.0\03.EvenOrOdd.genruntimeconfig.cache
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Lab\02.ConditionalStatements-Lab\03.EvenOrOdd\obj\Debug\net8.0\ref\03.EvenOrOdd.dll

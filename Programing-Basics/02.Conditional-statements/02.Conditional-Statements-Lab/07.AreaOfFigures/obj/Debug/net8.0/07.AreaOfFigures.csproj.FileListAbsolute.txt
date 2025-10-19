@@ -1,0 +1,14 @@
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Lab\02.ConditionalStatements-Lab\07.AreaOfFigures\bin\Debug\net8.0\07.AreaOfFigures.exe
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Lab\02.ConditionalStatements-Lab\07.AreaOfFigures\bin\Debug\net8.0\07.AreaOfFigures.deps.json
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Lab\02.ConditionalStatements-Lab\07.AreaOfFigures\bin\Debug\net8.0\07.AreaOfFigures.runtimeconfig.json
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Lab\02.ConditionalStatements-Lab\07.AreaOfFigures\bin\Debug\net8.0\07.AreaOfFigures.dll
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Lab\02.ConditionalStatements-Lab\07.AreaOfFigures\bin\Debug\net8.0\07.AreaOfFigures.pdb
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Lab\02.ConditionalStatements-Lab\07.AreaOfFigures\obj\Debug\net8.0\07.AreaOfFigures.GeneratedMSBuildEditorConfig.editorconfig
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Lab\02.ConditionalStatements-Lab\07.AreaOfFigures\obj\Debug\net8.0\07.AreaOfFigures.AssemblyInfoInputs.cache
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Lab\02.ConditionalStatements-Lab\07.AreaOfFigures\obj\Debug\net8.0\07.AreaOfFigures.AssemblyInfo.cs
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Lab\02.ConditionalStatements-Lab\07.AreaOfFigures\obj\Debug\net8.0\07.AreaOfFigures.csproj.CoreCompileInputs.cache
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Lab\02.ConditionalStatements-Lab\07.AreaOfFigures\obj\Debug\net8.0\07.AreaOfFigures.dll
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Lab\02.ConditionalStatements-Lab\07.AreaOfFigures\obj\Debug\net8.0\refint\07.AreaOfFigures.dll
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Lab\02.ConditionalStatements-Lab\07.AreaOfFigures\obj\Debug\net8.0\07.AreaOfFigures.pdb
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Lab\02.ConditionalStatements-Lab\07.AreaOfFigures\obj\Debug\net8.0\07.AreaOfFigures.genruntimeconfig.cache
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Lab\02.ConditionalStatements-Lab\07.AreaOfFigures\obj\Debug\net8.0\ref\07.AreaOfFigures.dll

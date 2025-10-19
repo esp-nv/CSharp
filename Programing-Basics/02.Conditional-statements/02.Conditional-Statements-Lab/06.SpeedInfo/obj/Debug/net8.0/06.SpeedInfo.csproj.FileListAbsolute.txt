@@ -1,0 +1,14 @@
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Lab\02.ConditionalStatements-Lab\06.SpeedInfo\bin\Debug\net8.0\06.SpeedInfo.exe
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Lab\02.ConditionalStatements-Lab\06.SpeedInfo\bin\Debug\net8.0\06.SpeedInfo.deps.json
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Lab\02.ConditionalStatements-Lab\06.SpeedInfo\bin\Debug\net8.0\06.SpeedInfo.runtimeconfig.json
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Lab\02.ConditionalStatements-Lab\06.SpeedInfo\bin\Debug\net8.0\06.SpeedInfo.dll
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Lab\02.ConditionalStatements-Lab\06.SpeedInfo\bin\Debug\net8.0\06.SpeedInfo.pdb
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Lab\02.ConditionalStatements-Lab\06.SpeedInfo\obj\Debug\net8.0\06.SpeedInfo.GeneratedMSBuildEditorConfig.editorconfig
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Lab\02.ConditionalStatements-Lab\06.SpeedInfo\obj\Debug\net8.0\06.SpeedInfo.AssemblyInfoInputs.cache
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Lab\02.ConditionalStatements-Lab\06.SpeedInfo\obj\Debug\net8.0\06.SpeedInfo.AssemblyInfo.cs
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Lab\02.ConditionalStatements-Lab\06.SpeedInfo\obj\Debug\net8.0\06.SpeedInfo.csproj.CoreCompileInputs.cache
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Lab\02.ConditionalStatements-Lab\06.SpeedInfo\obj\Debug\net8.0\06.SpeedInfo.dll
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Lab\02.ConditionalStatements-Lab\06.SpeedInfo\obj\Debug\net8.0\refint\06.SpeedInfo.dll
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Lab\02.ConditionalStatements-Lab\06.SpeedInfo\obj\Debug\net8.0\06.SpeedInfo.pdb
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Lab\02.ConditionalStatements-Lab\06.SpeedInfo\obj\Debug\net8.0\06.SpeedInfo.genruntimeconfig.cache
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Lab\02.ConditionalStatements-Lab\06.SpeedInfo\obj\Debug\net8.0\ref\06.SpeedInfo.dll

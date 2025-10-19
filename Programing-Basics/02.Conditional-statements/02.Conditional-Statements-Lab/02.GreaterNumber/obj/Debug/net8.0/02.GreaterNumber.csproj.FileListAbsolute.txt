@@ -1,0 +1,14 @@
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Lab\02.ConditionalStatements-Lab\02.GreaterNumber\bin\Debug\net8.0\02.GreaterNumber.exe
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Lab\02.ConditionalStatements-Lab\02.GreaterNumber\bin\Debug\net8.0\02.GreaterNumber.deps.json
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Lab\02.ConditionalStatements-Lab\02.GreaterNumber\bin\Debug\net8.0\02.GreaterNumber.runtimeconfig.json
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Lab\02.ConditionalStatements-Lab\02.GreaterNumber\bin\Debug\net8.0\02.GreaterNumber.dll
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Lab\02.ConditionalStatements-Lab\02.GreaterNumber\bin\Debug\net8.0\02.GreaterNumber.pdb
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Lab\02.ConditionalStatements-Lab\02.GreaterNumber\obj\Debug\net8.0\02.GreaterNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Lab\02.ConditionalStatements-Lab\02.GreaterNumber\obj\Debug\net8.0\02.GreaterNumber.AssemblyInfoInputs.cache
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Lab\02.ConditionalStatements-Lab\02.GreaterNumber\obj\Debug\net8.0\02.GreaterNumber.AssemblyInfo.cs
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Lab\02.ConditionalStatements-Lab\02.GreaterNumber\obj\Debug\net8.0\02.GreaterNumber.csproj.CoreCompileInputs.cache
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Lab\02.ConditionalStatements-Lab\02.GreaterNumber\obj\Debug\net8.0\02.GreaterNumber.dll
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Lab\02.ConditionalStatements-Lab\02.GreaterNumber\obj\Debug\net8.0\refint\02.GreaterNumber.dll
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Lab\02.ConditionalStatements-Lab\02.GreaterNumber\obj\Debug\net8.0\02.GreaterNumber.pdb
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Lab\02.ConditionalStatements-Lab\02.GreaterNumber\obj\Debug\net8.0\02.GreaterNumber.genruntimeconfig.cache
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Lab\02.ConditionalStatements-Lab\02.GreaterNumber\obj\Debug\net8.0\ref\02.GreaterNumber.dll

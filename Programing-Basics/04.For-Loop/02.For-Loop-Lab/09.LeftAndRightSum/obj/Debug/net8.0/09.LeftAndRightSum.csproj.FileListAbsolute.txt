@@ -1,0 +1,14 @@
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04-ForLoop-Lab\09.LeftAndRightSum\bin\Debug\net8.0\09.LeftAndRightSum.exe
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04-ForLoop-Lab\09.LeftAndRightSum\bin\Debug\net8.0\09.LeftAndRightSum.deps.json
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04-ForLoop-Lab\09.LeftAndRightSum\bin\Debug\net8.0\09.LeftAndRightSum.runtimeconfig.json
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04-ForLoop-Lab\09.LeftAndRightSum\bin\Debug\net8.0\09.LeftAndRightSum.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04-ForLoop-Lab\09.LeftAndRightSum\bin\Debug\net8.0\09.LeftAndRightSum.pdb
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04-ForLoop-Lab\09.LeftAndRightSum\obj\Debug\net8.0\09.LeftAndRightSum.GeneratedMSBuildEditorConfig.editorconfig
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04-ForLoop-Lab\09.LeftAndRightSum\obj\Debug\net8.0\09.LeftAndRightSum.AssemblyInfoInputs.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04-ForLoop-Lab\09.LeftAndRightSum\obj\Debug\net8.0\09.LeftAndRightSum.AssemblyInfo.cs
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04-ForLoop-Lab\09.LeftAndRightSum\obj\Debug\net8.0\09.LeftAndRightSum.csproj.CoreCompileInputs.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04-ForLoop-Lab\09.LeftAndRightSum\obj\Debug\net8.0\09.LeftAndRightSum.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04-ForLoop-Lab\09.LeftAndRightSum\obj\Debug\net8.0\refint\09.LeftAndRightSum.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04-ForLoop-Lab\09.LeftAndRightSum\obj\Debug\net8.0\09.LeftAndRightSum.pdb
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04-ForLoop-Lab\09.LeftAndRightSum\obj\Debug\net8.0\09.LeftAndRightSum.genruntimeconfig.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04-ForLoop-Lab\09.LeftAndRightSum\obj\Debug\net8.0\ref\09.LeftAndRightSum.dll

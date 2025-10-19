@@ -1,0 +1,14 @@
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04-ForLoop-Lab\10.OddEvenSum\bin\Debug\net8.0\10.OddEvenSum.exe
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04-ForLoop-Lab\10.OddEvenSum\bin\Debug\net8.0\10.OddEvenSum.deps.json
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04-ForLoop-Lab\10.OddEvenSum\bin\Debug\net8.0\10.OddEvenSum.runtimeconfig.json
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04-ForLoop-Lab\10.OddEvenSum\bin\Debug\net8.0\10.OddEvenSum.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04-ForLoop-Lab\10.OddEvenSum\bin\Debug\net8.0\10.OddEvenSum.pdb
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04-ForLoop-Lab\10.OddEvenSum\obj\Debug\net8.0\10.OddEvenSum.GeneratedMSBuildEditorConfig.editorconfig
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04-ForLoop-Lab\10.OddEvenSum\obj\Debug\net8.0\10.OddEvenSum.AssemblyInfoInputs.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04-ForLoop-Lab\10.OddEvenSum\obj\Debug\net8.0\10.OddEvenSum.AssemblyInfo.cs
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04-ForLoop-Lab\10.OddEvenSum\obj\Debug\net8.0\10.OddEvenSum.csproj.CoreCompileInputs.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04-ForLoop-Lab\10.OddEvenSum\obj\Debug\net8.0\10.OddEvenSum.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04-ForLoop-Lab\10.OddEvenSum\obj\Debug\net8.0\refint\10.OddEvenSum.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04-ForLoop-Lab\10.OddEvenSum\obj\Debug\net8.0\10.OddEvenSum.pdb
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04-ForLoop-Lab\10.OddEvenSum\obj\Debug\net8.0\10.OddEvenSum.genruntimeconfig.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04-ForLoop-Lab\10.OddEvenSum\obj\Debug\net8.0\ref\10.OddEvenSum.dll

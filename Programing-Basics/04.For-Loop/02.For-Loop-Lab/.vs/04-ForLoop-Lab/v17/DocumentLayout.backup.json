@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\nv\\SoftUni\\CSharp\\PB-Sept-2024\\04-ForLoop-Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75B486EF-E7CB-446F-BB4B-D3D6B8167D08}|10.OddEvenSum\\10.OddEvenSum.csproj|d:\\nv\\softuni\\csharp\\pb-sept-2024\\04-forloop-lab\\10.oddevensum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75B486EF-E7CB-446F-BB4B-D3D6B8167D08}|10.OddEvenSum\\10.OddEvenSum.csproj|solutionrelative:10.oddevensum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F75ADE-9DF2-4770-8D5D-F38D598BF6DC}|09.LeftAndRightSum\\09.LeftAndRightSum.csproj|d:\\nv\\softuni\\csharp\\pb-sept-2024\\04-forloop-lab\\09.leftandrightsum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96F75ADE-9DF2-4770-8D5D-F38D598BF6DC}|09.LeftAndRightSum\\09.LeftAndRightSum.csproj|solutionrelative:09.leftandrightsum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{956DABCB-0509-4F4F-878C-803C0CC9F443}|01.NumbersFrom1To100\\01.NumbersFrom1To100.csproj|d:\\nv\\softuni\\csharp\\pb-sept-2024\\04-forloop-lab\\01.numbersfrom1to100\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{956DABCB-0509-4F4F-878C-803C0CC9F443}|01.NumbersFrom1To100\\01.NumbersFrom1To100.csproj|solutionrelative:01.numbersfrom1to100\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\nv\\SoftUni\\CSharp\\PB-Sept-2024\\04-ForLoop-Lab\\01.NumbersFrom1To100\\Program.cs",
+              "RelativeDocumentMoniker": "01.NumbersFrom1To100\\Program.cs",
+              "ToolTip": "D:\\nv\\SoftUni\\CSharp\\PB-Sept-2024\\04-ForLoop-Lab\\01.NumbersFrom1To100\\Program.cs",
+              "RelativeToolTip": "01.NumbersFrom1To100\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T06:21:36.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\nv\\SoftUni\\CSharp\\PB-Sept-2024\\04-ForLoop-Lab\\09.LeftAndRightSum\\Program.cs",
+              "RelativeDocumentMoniker": "09.LeftAndRightSum\\Program.cs",
+              "ToolTip": "D:\\nv\\SoftUni\\CSharp\\PB-Sept-2024\\04-ForLoop-Lab\\09.LeftAndRightSum\\Program.cs",
+              "RelativeToolTip": "09.LeftAndRightSum\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T12:25:47.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\nv\\SoftUni\\CSharp\\PB-Sept-2024\\04-ForLoop-Lab\\10.OddEvenSum\\Program.cs",
+              "RelativeDocumentMoniker": "10.OddEvenSum\\Program.cs",
+              "ToolTip": "D:\\nv\\SoftUni\\CSharp\\PB-Sept-2024\\04-ForLoop-Lab\\10.OddEvenSum\\Program.cs",
+              "RelativeToolTip": "10.OddEvenSum\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAkwBAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T12:26:28.753Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

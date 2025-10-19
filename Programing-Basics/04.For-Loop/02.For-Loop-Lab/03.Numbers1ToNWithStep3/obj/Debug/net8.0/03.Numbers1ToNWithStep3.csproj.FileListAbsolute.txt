@@ -1,0 +1,14 @@
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04-ForLoop-Lab\03.Numbers1ToNWithStep3\bin\Debug\net8.0\03.Numbers1ToNWithStep3.exe
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04-ForLoop-Lab\03.Numbers1ToNWithStep3\bin\Debug\net8.0\03.Numbers1ToNWithStep3.deps.json
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04-ForLoop-Lab\03.Numbers1ToNWithStep3\bin\Debug\net8.0\03.Numbers1ToNWithStep3.runtimeconfig.json
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04-ForLoop-Lab\03.Numbers1ToNWithStep3\bin\Debug\net8.0\03.Numbers1ToNWithStep3.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04-ForLoop-Lab\03.Numbers1ToNWithStep3\bin\Debug\net8.0\03.Numbers1ToNWithStep3.pdb
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04-ForLoop-Lab\03.Numbers1ToNWithStep3\obj\Debug\net8.0\03.Numbers1ToNWithStep3.GeneratedMSBuildEditorConfig.editorconfig
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04-ForLoop-Lab\03.Numbers1ToNWithStep3\obj\Debug\net8.0\03.Numbers1ToNWithStep3.AssemblyInfoInputs.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04-ForLoop-Lab\03.Numbers1ToNWithStep3\obj\Debug\net8.0\03.Numbers1ToNWithStep3.AssemblyInfo.cs
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04-ForLoop-Lab\03.Numbers1ToNWithStep3\obj\Debug\net8.0\03.Numbers1ToNWithStep3.csproj.CoreCompileInputs.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04-ForLoop-Lab\03.Numbers1ToNWithStep3\obj\Debug\net8.0\03.Numbers1ToNWithStep3.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04-ForLoop-Lab\03.Numbers1ToNWithStep3\obj\Debug\net8.0\refint\03.Numbers1ToNWithStep3.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04-ForLoop-Lab\03.Numbers1ToNWithStep3\obj\Debug\net8.0\03.Numbers1ToNWithStep3.pdb
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04-ForLoop-Lab\03.Numbers1ToNWithStep3\obj\Debug\net8.0\03.Numbers1ToNWithStep3.genruntimeconfig.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04-ForLoop-Lab\03.Numbers1ToNWithStep3\obj\Debug\net8.0\ref\03.Numbers1ToNWithStep3.dll

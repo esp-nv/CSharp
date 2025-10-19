@@ -1,0 +1,14 @@
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04-ForLoop-Lab\01.NumbersFrom1To100\bin\Debug\net8.0\01.NumbersFrom1To100.exe
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04-ForLoop-Lab\01.NumbersFrom1To100\bin\Debug\net8.0\01.NumbersFrom1To100.deps.json
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04-ForLoop-Lab\01.NumbersFrom1To100\bin\Debug\net8.0\01.NumbersFrom1To100.runtimeconfig.json
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04-ForLoop-Lab\01.NumbersFrom1To100\bin\Debug\net8.0\01.NumbersFrom1To100.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04-ForLoop-Lab\01.NumbersFrom1To100\bin\Debug\net8.0\01.NumbersFrom1To100.pdb
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04-ForLoop-Lab\01.NumbersFrom1To100\obj\Debug\net8.0\01.NumbersFrom1To100.GeneratedMSBuildEditorConfig.editorconfig
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04-ForLoop-Lab\01.NumbersFrom1To100\obj\Debug\net8.0\01.NumbersFrom1To100.AssemblyInfoInputs.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04-ForLoop-Lab\01.NumbersFrom1To100\obj\Debug\net8.0\01.NumbersFrom1To100.AssemblyInfo.cs
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04-ForLoop-Lab\01.NumbersFrom1To100\obj\Debug\net8.0\01.NumbersFrom1To100.csproj.CoreCompileInputs.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04-ForLoop-Lab\01.NumbersFrom1To100\obj\Debug\net8.0\01.NumbersFrom1To100.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04-ForLoop-Lab\01.NumbersFrom1To100\obj\Debug\net8.0\refint\01.NumbersFrom1To100.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04-ForLoop-Lab\01.NumbersFrom1To100\obj\Debug\net8.0\01.NumbersFrom1To100.pdb
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04-ForLoop-Lab\01.NumbersFrom1To100\obj\Debug\net8.0\01.NumbersFrom1To100.genruntimeconfig.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04-ForLoop-Lab\01.NumbersFrom1To100\obj\Debug\net8.0\ref\01.NumbersFrom1To100.dll

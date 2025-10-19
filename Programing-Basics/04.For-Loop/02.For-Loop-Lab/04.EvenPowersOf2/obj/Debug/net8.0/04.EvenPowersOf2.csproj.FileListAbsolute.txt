@@ -1,0 +1,14 @@
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04-ForLoop-Lab\04.EvenPowersOf2\obj\Debug\net8.0\04.EvenPowersOf2.GeneratedMSBuildEditorConfig.editorconfig
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04-ForLoop-Lab\04.EvenPowersOf2\obj\Debug\net8.0\04.EvenPowersOf2.AssemblyInfoInputs.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04-ForLoop-Lab\04.EvenPowersOf2\obj\Debug\net8.0\04.EvenPowersOf2.AssemblyInfo.cs
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04-ForLoop-Lab\04.EvenPowersOf2\obj\Debug\net8.0\04.EvenPowersOf2.csproj.CoreCompileInputs.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04-ForLoop-Lab\04.EvenPowersOf2\bin\Debug\net8.0\04.EvenPowersOf2.exe
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04-ForLoop-Lab\04.EvenPowersOf2\bin\Debug\net8.0\04.EvenPowersOf2.deps.json
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04-ForLoop-Lab\04.EvenPowersOf2\bin\Debug\net8.0\04.EvenPowersOf2.runtimeconfig.json
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04-ForLoop-Lab\04.EvenPowersOf2\bin\Debug\net8.0\04.EvenPowersOf2.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04-ForLoop-Lab\04.EvenPowersOf2\bin\Debug\net8.0\04.EvenPowersOf2.pdb
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04-ForLoop-Lab\04.EvenPowersOf2\obj\Debug\net8.0\04.EvenPowersOf2.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04-ForLoop-Lab\04.EvenPowersOf2\obj\Debug\net8.0\refint\04.EvenPowersOf2.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04-ForLoop-Lab\04.EvenPowersOf2\obj\Debug\net8.0\04.EvenPowersOf2.pdb
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04-ForLoop-Lab\04.EvenPowersOf2\obj\Debug\net8.0\04.EvenPowersOf2.genruntimeconfig.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\04-ForLoop-Lab\04.EvenPowersOf2\obj\Debug\net8.0\ref\04.EvenPowersOf2.dll

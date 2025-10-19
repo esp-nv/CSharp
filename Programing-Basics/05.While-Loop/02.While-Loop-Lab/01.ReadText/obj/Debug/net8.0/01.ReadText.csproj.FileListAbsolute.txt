@@ -1,0 +1,14 @@
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.WhileLoop-Lab\01.ReadText\bin\Debug\net8.0\01.ReadText.exe
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.WhileLoop-Lab\01.ReadText\bin\Debug\net8.0\01.ReadText.deps.json
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.WhileLoop-Lab\01.ReadText\bin\Debug\net8.0\01.ReadText.runtimeconfig.json
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.WhileLoop-Lab\01.ReadText\bin\Debug\net8.0\01.ReadText.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.WhileLoop-Lab\01.ReadText\bin\Debug\net8.0\01.ReadText.pdb
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.WhileLoop-Lab\01.ReadText\obj\Debug\net8.0\01.ReadText.GeneratedMSBuildEditorConfig.editorconfig
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.WhileLoop-Lab\01.ReadText\obj\Debug\net8.0\01.ReadText.AssemblyInfoInputs.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.WhileLoop-Lab\01.ReadText\obj\Debug\net8.0\01.ReadText.AssemblyInfo.cs
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.WhileLoop-Lab\01.ReadText\obj\Debug\net8.0\01.ReadText.csproj.CoreCompileInputs.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.WhileLoop-Lab\01.ReadText\obj\Debug\net8.0\01.ReadText.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.WhileLoop-Lab\01.ReadText\obj\Debug\net8.0\refint\01.ReadText.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.WhileLoop-Lab\01.ReadText\obj\Debug\net8.0\01.ReadText.pdb
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.WhileLoop-Lab\01.ReadText\obj\Debug\net8.0\01.ReadText.genruntimeconfig.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.WhileLoop-Lab\01.ReadText\obj\Debug\net8.0\ref\01.ReadText.dll

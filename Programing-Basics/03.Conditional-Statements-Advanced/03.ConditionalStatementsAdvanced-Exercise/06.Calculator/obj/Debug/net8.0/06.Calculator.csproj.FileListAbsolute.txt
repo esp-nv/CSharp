@@ -1,0 +1,14 @@
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-Ex\03.ConditionalStatementsAdvanced-Exercise\06.Calculator\bin\Debug\net8.0\06.Calculator.exe
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-Ex\03.ConditionalStatementsAdvanced-Exercise\06.Calculator\bin\Debug\net8.0\06.Calculator.deps.json
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-Ex\03.ConditionalStatementsAdvanced-Exercise\06.Calculator\bin\Debug\net8.0\06.Calculator.runtimeconfig.json
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-Ex\03.ConditionalStatementsAdvanced-Exercise\06.Calculator\bin\Debug\net8.0\06.Calculator.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-Ex\03.ConditionalStatementsAdvanced-Exercise\06.Calculator\bin\Debug\net8.0\06.Calculator.pdb
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-Ex\03.ConditionalStatementsAdvanced-Exercise\06.Calculator\obj\Debug\net8.0\06.Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-Ex\03.ConditionalStatementsAdvanced-Exercise\06.Calculator\obj\Debug\net8.0\06.Calculator.AssemblyInfoInputs.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-Ex\03.ConditionalStatementsAdvanced-Exercise\06.Calculator\obj\Debug\net8.0\06.Calculator.AssemblyInfo.cs
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-Ex\03.ConditionalStatementsAdvanced-Exercise\06.Calculator\obj\Debug\net8.0\06.Calculator.csproj.CoreCompileInputs.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-Ex\03.ConditionalStatementsAdvanced-Exercise\06.Calculator\obj\Debug\net8.0\06.Calculator.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-Ex\03.ConditionalStatementsAdvanced-Exercise\06.Calculator\obj\Debug\net8.0\refint\06.Calculator.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-Ex\03.ConditionalStatementsAdvanced-Exercise\06.Calculator\obj\Debug\net8.0\06.Calculator.pdb
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-Ex\03.ConditionalStatementsAdvanced-Exercise\06.Calculator\obj\Debug\net8.0\06.Calculator.genruntimeconfig.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-Ex\03.ConditionalStatementsAdvanced-Exercise\06.Calculator\obj\Debug\net8.0\ref\06.Calculator.dll

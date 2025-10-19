@@ -1,0 +1,14 @@
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-Ex\03.ConditionalStatementsAdvanced-Exercise\02.SummerOutfit\obj\Debug\net8.0\02.SummerOutfit.GeneratedMSBuildEditorConfig.editorconfig
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-Ex\03.ConditionalStatementsAdvanced-Exercise\02.SummerOutfit\obj\Debug\net8.0\02.SummerOutfit.AssemblyInfoInputs.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-Ex\03.ConditionalStatementsAdvanced-Exercise\02.SummerOutfit\obj\Debug\net8.0\02.SummerOutfit.AssemblyInfo.cs
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-Ex\03.ConditionalStatementsAdvanced-Exercise\02.SummerOutfit\obj\Debug\net8.0\02.SummerOutfit.csproj.CoreCompileInputs.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-Ex\03.ConditionalStatementsAdvanced-Exercise\02.SummerOutfit\bin\Debug\net8.0\02.SummerOutfit.exe
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-Ex\03.ConditionalStatementsAdvanced-Exercise\02.SummerOutfit\bin\Debug\net8.0\02.SummerOutfit.deps.json
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-Ex\03.ConditionalStatementsAdvanced-Exercise\02.SummerOutfit\bin\Debug\net8.0\02.SummerOutfit.runtimeconfig.json
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-Ex\03.ConditionalStatementsAdvanced-Exercise\02.SummerOutfit\bin\Debug\net8.0\02.SummerOutfit.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-Ex\03.ConditionalStatementsAdvanced-Exercise\02.SummerOutfit\bin\Debug\net8.0\02.SummerOutfit.pdb
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-Ex\03.ConditionalStatementsAdvanced-Exercise\02.SummerOutfit\obj\Debug\net8.0\02.SummerOutfit.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-Ex\03.ConditionalStatementsAdvanced-Exercise\02.SummerOutfit\obj\Debug\net8.0\refint\02.SummerOutfit.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-Ex\03.ConditionalStatementsAdvanced-Exercise\02.SummerOutfit\obj\Debug\net8.0\02.SummerOutfit.pdb
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-Ex\03.ConditionalStatementsAdvanced-Exercise\02.SummerOutfit\obj\Debug\net8.0\02.SummerOutfit.genruntimeconfig.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-Ex\03.ConditionalStatementsAdvanced-Exercise\02.SummerOutfit\obj\Debug\net8.0\ref\02.SummerOutfit.dll

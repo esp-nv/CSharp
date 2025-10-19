@@ -1,0 +1,14 @@
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-Ex\03.ConditionalStatementsAdvanced-Exercise\07.HotelRoom\bin\Debug\net8.0\07.HotelRoom.exe
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-Ex\03.ConditionalStatementsAdvanced-Exercise\07.HotelRoom\bin\Debug\net8.0\07.HotelRoom.deps.json
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-Ex\03.ConditionalStatementsAdvanced-Exercise\07.HotelRoom\bin\Debug\net8.0\07.HotelRoom.runtimeconfig.json
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-Ex\03.ConditionalStatementsAdvanced-Exercise\07.HotelRoom\bin\Debug\net8.0\07.HotelRoom.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-Ex\03.ConditionalStatementsAdvanced-Exercise\07.HotelRoom\bin\Debug\net8.0\07.HotelRoom.pdb
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-Ex\03.ConditionalStatementsAdvanced-Exercise\07.HotelRoom\obj\Debug\net8.0\07.HotelRoom.GeneratedMSBuildEditorConfig.editorconfig
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-Ex\03.ConditionalStatementsAdvanced-Exercise\07.HotelRoom\obj\Debug\net8.0\07.HotelRoom.AssemblyInfoInputs.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-Ex\03.ConditionalStatementsAdvanced-Exercise\07.HotelRoom\obj\Debug\net8.0\07.HotelRoom.AssemblyInfo.cs
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-Ex\03.ConditionalStatementsAdvanced-Exercise\07.HotelRoom\obj\Debug\net8.0\07.HotelRoom.csproj.CoreCompileInputs.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-Ex\03.ConditionalStatementsAdvanced-Exercise\07.HotelRoom\obj\Debug\net8.0\07.HotelRoom.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-Ex\03.ConditionalStatementsAdvanced-Exercise\07.HotelRoom\obj\Debug\net8.0\refint\07.HotelRoom.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-Ex\03.ConditionalStatementsAdvanced-Exercise\07.HotelRoom\obj\Debug\net8.0\07.HotelRoom.pdb
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-Ex\03.ConditionalStatementsAdvanced-Exercise\07.HotelRoom\obj\Debug\net8.0\07.HotelRoom.genruntimeconfig.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-Ex\03.ConditionalStatementsAdvanced-Exercise\07.HotelRoom\obj\Debug\net8.0\ref\07.HotelRoom.dll

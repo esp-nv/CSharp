@@ -1,0 +1,14 @@
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-Ex\03.ConditionalStatementsAdvanced-Exercise\05.Journey\bin\Debug\net8.0\05.Journey.exe
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-Ex\03.ConditionalStatementsAdvanced-Exercise\05.Journey\bin\Debug\net8.0\05.Journey.deps.json
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-Ex\03.ConditionalStatementsAdvanced-Exercise\05.Journey\bin\Debug\net8.0\05.Journey.runtimeconfig.json
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-Ex\03.ConditionalStatementsAdvanced-Exercise\05.Journey\bin\Debug\net8.0\05.Journey.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-Ex\03.ConditionalStatementsAdvanced-Exercise\05.Journey\bin\Debug\net8.0\05.Journey.pdb
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-Ex\03.ConditionalStatementsAdvanced-Exercise\05.Journey\obj\Debug\net8.0\05.Journey.GeneratedMSBuildEditorConfig.editorconfig
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-Ex\03.ConditionalStatementsAdvanced-Exercise\05.Journey\obj\Debug\net8.0\05.Journey.AssemblyInfoInputs.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-Ex\03.ConditionalStatementsAdvanced-Exercise\05.Journey\obj\Debug\net8.0\05.Journey.AssemblyInfo.cs
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-Ex\03.ConditionalStatementsAdvanced-Exercise\05.Journey\obj\Debug\net8.0\05.Journey.csproj.CoreCompileInputs.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-Ex\03.ConditionalStatementsAdvanced-Exercise\05.Journey\obj\Debug\net8.0\05.Journey.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-Ex\03.ConditionalStatementsAdvanced-Exercise\05.Journey\obj\Debug\net8.0\refint\05.Journey.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-Ex\03.ConditionalStatementsAdvanced-Exercise\05.Journey\obj\Debug\net8.0\05.Journey.pdb
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-Ex\03.ConditionalStatementsAdvanced-Exercise\05.Journey\obj\Debug\net8.0\05.Journey.genruntimeconfig.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-Ex\03.ConditionalStatementsAdvanced-Exercise\05.Journey\obj\Debug\net8.0\ref\05.Journey.dll

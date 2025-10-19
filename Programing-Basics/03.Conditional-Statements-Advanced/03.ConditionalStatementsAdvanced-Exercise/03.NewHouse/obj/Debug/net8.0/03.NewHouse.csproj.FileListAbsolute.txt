@@ -1,0 +1,14 @@
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-Ex\03.ConditionalStatementsAdvanced-Exercise\03.NewHouse\bin\Debug\net8.0\03.NewHouse.exe
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-Ex\03.ConditionalStatementsAdvanced-Exercise\03.NewHouse\bin\Debug\net8.0\03.NewHouse.deps.json
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-Ex\03.ConditionalStatementsAdvanced-Exercise\03.NewHouse\bin\Debug\net8.0\03.NewHouse.runtimeconfig.json
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-Ex\03.ConditionalStatementsAdvanced-Exercise\03.NewHouse\bin\Debug\net8.0\03.NewHouse.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-Ex\03.ConditionalStatementsAdvanced-Exercise\03.NewHouse\bin\Debug\net8.0\03.NewHouse.pdb
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-Ex\03.ConditionalStatementsAdvanced-Exercise\03.NewHouse\obj\Debug\net8.0\03.NewHouse.GeneratedMSBuildEditorConfig.editorconfig
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-Ex\03.ConditionalStatementsAdvanced-Exercise\03.NewHouse\obj\Debug\net8.0\03.NewHouse.AssemblyInfoInputs.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-Ex\03.ConditionalStatementsAdvanced-Exercise\03.NewHouse\obj\Debug\net8.0\03.NewHouse.AssemblyInfo.cs
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-Ex\03.ConditionalStatementsAdvanced-Exercise\03.NewHouse\obj\Debug\net8.0\03.NewHouse.csproj.CoreCompileInputs.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-Ex\03.ConditionalStatementsAdvanced-Exercise\03.NewHouse\obj\Debug\net8.0\03.NewHouse.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-Ex\03.ConditionalStatementsAdvanced-Exercise\03.NewHouse\obj\Debug\net8.0\refint\03.NewHouse.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-Ex\03.ConditionalStatementsAdvanced-Exercise\03.NewHouse\obj\Debug\net8.0\03.NewHouse.pdb
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-Ex\03.ConditionalStatementsAdvanced-Exercise\03.NewHouse\obj\Debug\net8.0\03.NewHouse.genruntimeconfig.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\03.ConditionalStatementsAdv-Ex\03.ConditionalStatementsAdvanced-Exercise\03.NewHouse\obj\Debug\net8.0\ref\03.NewHouse.dll

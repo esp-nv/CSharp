@@ -1,0 +1,14 @@
+D:\nv\SoftUni\CSharp\PB-Sept-2024\06.NestedLoops-Exercise\04.TrainTheTrainers\bin\Debug\net8.0\04.TrainTheTrainers.exe
+D:\nv\SoftUni\CSharp\PB-Sept-2024\06.NestedLoops-Exercise\04.TrainTheTrainers\bin\Debug\net8.0\04.TrainTheTrainers.deps.json
+D:\nv\SoftUni\CSharp\PB-Sept-2024\06.NestedLoops-Exercise\04.TrainTheTrainers\bin\Debug\net8.0\04.TrainTheTrainers.runtimeconfig.json
+D:\nv\SoftUni\CSharp\PB-Sept-2024\06.NestedLoops-Exercise\04.TrainTheTrainers\bin\Debug\net8.0\04.TrainTheTrainers.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\06.NestedLoops-Exercise\04.TrainTheTrainers\bin\Debug\net8.0\04.TrainTheTrainers.pdb
+D:\nv\SoftUni\CSharp\PB-Sept-2024\06.NestedLoops-Exercise\04.TrainTheTrainers\obj\Debug\net8.0\04.TrainTheTrainers.GeneratedMSBuildEditorConfig.editorconfig
+D:\nv\SoftUni\CSharp\PB-Sept-2024\06.NestedLoops-Exercise\04.TrainTheTrainers\obj\Debug\net8.0\04.TrainTheTrainers.AssemblyInfoInputs.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\06.NestedLoops-Exercise\04.TrainTheTrainers\obj\Debug\net8.0\04.TrainTheTrainers.AssemblyInfo.cs
+D:\nv\SoftUni\CSharp\PB-Sept-2024\06.NestedLoops-Exercise\04.TrainTheTrainers\obj\Debug\net8.0\04.TrainTheTrainers.csproj.CoreCompileInputs.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\06.NestedLoops-Exercise\04.TrainTheTrainers\obj\Debug\net8.0\04.TrainTheTrainers.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\06.NestedLoops-Exercise\04.TrainTheTrainers\obj\Debug\net8.0\refint\04.TrainTheTrainers.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\06.NestedLoops-Exercise\04.TrainTheTrainers\obj\Debug\net8.0\04.TrainTheTrainers.pdb
+D:\nv\SoftUni\CSharp\PB-Sept-2024\06.NestedLoops-Exercise\04.TrainTheTrainers\obj\Debug\net8.0\04.TrainTheTrainers.genruntimeconfig.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\06.NestedLoops-Exercise\04.TrainTheTrainers\obj\Debug\net8.0\ref\04.TrainTheTrainers.dll

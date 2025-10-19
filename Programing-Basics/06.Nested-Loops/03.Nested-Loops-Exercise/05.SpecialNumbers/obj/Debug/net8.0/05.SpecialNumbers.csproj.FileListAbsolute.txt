@@ -1,0 +1,14 @@
+D:\nv\SoftUni\CSharp\PB-Sept-2024\06.NestedLoops-Exercise\05.SpecialNumbers\bin\Debug\net8.0\05.SpecialNumbers.exe
+D:\nv\SoftUni\CSharp\PB-Sept-2024\06.NestedLoops-Exercise\05.SpecialNumbers\bin\Debug\net8.0\05.SpecialNumbers.deps.json
+D:\nv\SoftUni\CSharp\PB-Sept-2024\06.NestedLoops-Exercise\05.SpecialNumbers\bin\Debug\net8.0\05.SpecialNumbers.runtimeconfig.json
+D:\nv\SoftUni\CSharp\PB-Sept-2024\06.NestedLoops-Exercise\05.SpecialNumbers\bin\Debug\net8.0\05.SpecialNumbers.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\06.NestedLoops-Exercise\05.SpecialNumbers\bin\Debug\net8.0\05.SpecialNumbers.pdb
+D:\nv\SoftUni\CSharp\PB-Sept-2024\06.NestedLoops-Exercise\05.SpecialNumbers\obj\Debug\net8.0\05.SpecialNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\nv\SoftUni\CSharp\PB-Sept-2024\06.NestedLoops-Exercise\05.SpecialNumbers\obj\Debug\net8.0\05.SpecialNumbers.AssemblyInfoInputs.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\06.NestedLoops-Exercise\05.SpecialNumbers\obj\Debug\net8.0\05.SpecialNumbers.AssemblyInfo.cs
+D:\nv\SoftUni\CSharp\PB-Sept-2024\06.NestedLoops-Exercise\05.SpecialNumbers\obj\Debug\net8.0\05.SpecialNumbers.csproj.CoreCompileInputs.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\06.NestedLoops-Exercise\05.SpecialNumbers\obj\Debug\net8.0\05.SpecialNumbers.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\06.NestedLoops-Exercise\05.SpecialNumbers\obj\Debug\net8.0\refint\05.SpecialNumbers.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\06.NestedLoops-Exercise\05.SpecialNumbers\obj\Debug\net8.0\05.SpecialNumbers.pdb
+D:\nv\SoftUni\CSharp\PB-Sept-2024\06.NestedLoops-Exercise\05.SpecialNumbers\obj\Debug\net8.0\05.SpecialNumbers.genruntimeconfig.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\06.NestedLoops-Exercise\05.SpecialNumbers\obj\Debug\net8.0\ref\05.SpecialNumbers.dll

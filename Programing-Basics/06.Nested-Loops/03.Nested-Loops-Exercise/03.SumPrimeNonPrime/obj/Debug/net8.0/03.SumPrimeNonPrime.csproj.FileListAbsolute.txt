@@ -1,0 +1,14 @@
+D:\nv\SoftUni\CSharp\PB-Sept-2024\06.NestedLoops-Exercise\03.SumPrimeNonPrime\obj\Debug\net8.0\03.SumPrimeNonPrime.GeneratedMSBuildEditorConfig.editorconfig
+D:\nv\SoftUni\CSharp\PB-Sept-2024\06.NestedLoops-Exercise\03.SumPrimeNonPrime\obj\Debug\net8.0\03.SumPrimeNonPrime.AssemblyInfoInputs.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\06.NestedLoops-Exercise\03.SumPrimeNonPrime\obj\Debug\net8.0\03.SumPrimeNonPrime.AssemblyInfo.cs
+D:\nv\SoftUni\CSharp\PB-Sept-2024\06.NestedLoops-Exercise\03.SumPrimeNonPrime\obj\Debug\net8.0\03.SumPrimeNonPrime.csproj.CoreCompileInputs.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\06.NestedLoops-Exercise\03.SumPrimeNonPrime\bin\Debug\net8.0\03.SumPrimeNonPrime.exe
+D:\nv\SoftUni\CSharp\PB-Sept-2024\06.NestedLoops-Exercise\03.SumPrimeNonPrime\bin\Debug\net8.0\03.SumPrimeNonPrime.deps.json
+D:\nv\SoftUni\CSharp\PB-Sept-2024\06.NestedLoops-Exercise\03.SumPrimeNonPrime\bin\Debug\net8.0\03.SumPrimeNonPrime.runtimeconfig.json
+D:\nv\SoftUni\CSharp\PB-Sept-2024\06.NestedLoops-Exercise\03.SumPrimeNonPrime\bin\Debug\net8.0\03.SumPrimeNonPrime.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\06.NestedLoops-Exercise\03.SumPrimeNonPrime\bin\Debug\net8.0\03.SumPrimeNonPrime.pdb
+D:\nv\SoftUni\CSharp\PB-Sept-2024\06.NestedLoops-Exercise\03.SumPrimeNonPrime\obj\Debug\net8.0\03.SumPrimeNonPrime.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\06.NestedLoops-Exercise\03.SumPrimeNonPrime\obj\Debug\net8.0\refint\03.SumPrimeNonPrime.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\06.NestedLoops-Exercise\03.SumPrimeNonPrime\obj\Debug\net8.0\03.SumPrimeNonPrime.pdb
+D:\nv\SoftUni\CSharp\PB-Sept-2024\06.NestedLoops-Exercise\03.SumPrimeNonPrime\obj\Debug\net8.0\03.SumPrimeNonPrime.genruntimeconfig.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\06.NestedLoops-Exercise\03.SumPrimeNonPrime\obj\Debug\net8.0\ref\03.SumPrimeNonPrime.dll

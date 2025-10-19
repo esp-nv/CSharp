@@ -1,0 +1,14 @@
+D:\nv\SoftUni\CSharp\PB-Sept-2024\06.NestedLoops-Exercise\01.NumberPyramid\bin\Debug\net8.0\01.NumberPyramid.exe
+D:\nv\SoftUni\CSharp\PB-Sept-2024\06.NestedLoops-Exercise\01.NumberPyramid\bin\Debug\net8.0\01.NumberPyramid.deps.json
+D:\nv\SoftUni\CSharp\PB-Sept-2024\06.NestedLoops-Exercise\01.NumberPyramid\bin\Debug\net8.0\01.NumberPyramid.runtimeconfig.json
+D:\nv\SoftUni\CSharp\PB-Sept-2024\06.NestedLoops-Exercise\01.NumberPyramid\bin\Debug\net8.0\01.NumberPyramid.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\06.NestedLoops-Exercise\01.NumberPyramid\bin\Debug\net8.0\01.NumberPyramid.pdb
+D:\nv\SoftUni\CSharp\PB-Sept-2024\06.NestedLoops-Exercise\01.NumberPyramid\obj\Debug\net8.0\01.NumberPyramid.GeneratedMSBuildEditorConfig.editorconfig
+D:\nv\SoftUni\CSharp\PB-Sept-2024\06.NestedLoops-Exercise\01.NumberPyramid\obj\Debug\net8.0\01.NumberPyramid.AssemblyInfoInputs.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\06.NestedLoops-Exercise\01.NumberPyramid\obj\Debug\net8.0\01.NumberPyramid.AssemblyInfo.cs
+D:\nv\SoftUni\CSharp\PB-Sept-2024\06.NestedLoops-Exercise\01.NumberPyramid\obj\Debug\net8.0\01.NumberPyramid.csproj.CoreCompileInputs.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\06.NestedLoops-Exercise\01.NumberPyramid\obj\Debug\net8.0\01.NumberPyramid.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\06.NestedLoops-Exercise\01.NumberPyramid\obj\Debug\net8.0\refint\01.NumberPyramid.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\06.NestedLoops-Exercise\01.NumberPyramid\obj\Debug\net8.0\01.NumberPyramid.pdb
+D:\nv\SoftUni\CSharp\PB-Sept-2024\06.NestedLoops-Exercise\01.NumberPyramid\obj\Debug\net8.0\01.NumberPyramid.genruntimeconfig.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\06.NestedLoops-Exercise\01.NumberPyramid\obj\Debug\net8.0\ref\01.NumberPyramid.dll

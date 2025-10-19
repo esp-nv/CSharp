@@ -1,0 +1,14 @@
+D:\nv\SoftUni\CSharp\PB-Sept-2024\06.NestedLoops-Exercise\02.EqualSumsEvenOddPosition\bin\Debug\net8.0\02.EqualSumsEvenOddPosition.exe
+D:\nv\SoftUni\CSharp\PB-Sept-2024\06.NestedLoops-Exercise\02.EqualSumsEvenOddPosition\bin\Debug\net8.0\02.EqualSumsEvenOddPosition.deps.json
+D:\nv\SoftUni\CSharp\PB-Sept-2024\06.NestedLoops-Exercise\02.EqualSumsEvenOddPosition\bin\Debug\net8.0\02.EqualSumsEvenOddPosition.runtimeconfig.json
+D:\nv\SoftUni\CSharp\PB-Sept-2024\06.NestedLoops-Exercise\02.EqualSumsEvenOddPosition\bin\Debug\net8.0\02.EqualSumsEvenOddPosition.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\06.NestedLoops-Exercise\02.EqualSumsEvenOddPosition\bin\Debug\net8.0\02.EqualSumsEvenOddPosition.pdb
+D:\nv\SoftUni\CSharp\PB-Sept-2024\06.NestedLoops-Exercise\02.EqualSumsEvenOddPosition\obj\Debug\net8.0\02.EqualSumsEvenOddPosition.GeneratedMSBuildEditorConfig.editorconfig
+D:\nv\SoftUni\CSharp\PB-Sept-2024\06.NestedLoops-Exercise\02.EqualSumsEvenOddPosition\obj\Debug\net8.0\02.EqualSumsEvenOddPosition.AssemblyInfoInputs.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\06.NestedLoops-Exercise\02.EqualSumsEvenOddPosition\obj\Debug\net8.0\02.EqualSumsEvenOddPosition.AssemblyInfo.cs
+D:\nv\SoftUni\CSharp\PB-Sept-2024\06.NestedLoops-Exercise\02.EqualSumsEvenOddPosition\obj\Debug\net8.0\02.EqualSumsEvenOddPosition.csproj.CoreCompileInputs.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\06.NestedLoops-Exercise\02.EqualSumsEvenOddPosition\obj\Debug\net8.0\02.EqualSumsEvenOddPosition.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\06.NestedLoops-Exercise\02.EqualSumsEvenOddPosition\obj\Debug\net8.0\refint\02.EqualSumsEvenOddPosition.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\06.NestedLoops-Exercise\02.EqualSumsEvenOddPosition\obj\Debug\net8.0\02.EqualSumsEvenOddPosition.pdb
+D:\nv\SoftUni\CSharp\PB-Sept-2024\06.NestedLoops-Exercise\02.EqualSumsEvenOddPosition\obj\Debug\net8.0\02.EqualSumsEvenOddPosition.genruntimeconfig.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\06.NestedLoops-Exercise\02.EqualSumsEvenOddPosition\obj\Debug\net8.0\ref\02.EqualSumsEvenOddPosition.dll

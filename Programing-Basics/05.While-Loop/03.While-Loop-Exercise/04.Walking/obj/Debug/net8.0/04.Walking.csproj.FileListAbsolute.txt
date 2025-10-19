@@ -1,0 +1,14 @@
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.WhileLoop-Ex\04.Walking\obj\Debug\net8.0\04.Walking.GeneratedMSBuildEditorConfig.editorconfig
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.WhileLoop-Ex\04.Walking\obj\Debug\net8.0\04.Walking.AssemblyInfoInputs.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.WhileLoop-Ex\04.Walking\obj\Debug\net8.0\04.Walking.AssemblyInfo.cs
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.WhileLoop-Ex\04.Walking\obj\Debug\net8.0\04.Walking.csproj.CoreCompileInputs.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.WhileLoop-Ex\04.Walking\bin\Debug\net8.0\04.Walking.exe
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.WhileLoop-Ex\04.Walking\bin\Debug\net8.0\04.Walking.deps.json
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.WhileLoop-Ex\04.Walking\bin\Debug\net8.0\04.Walking.runtimeconfig.json
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.WhileLoop-Ex\04.Walking\bin\Debug\net8.0\04.Walking.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.WhileLoop-Ex\04.Walking\bin\Debug\net8.0\04.Walking.pdb
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.WhileLoop-Ex\04.Walking\obj\Debug\net8.0\04.Walking.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.WhileLoop-Ex\04.Walking\obj\Debug\net8.0\refint\04.Walking.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.WhileLoop-Ex\04.Walking\obj\Debug\net8.0\04.Walking.pdb
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.WhileLoop-Ex\04.Walking\obj\Debug\net8.0\04.Walking.genruntimeconfig.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.WhileLoop-Ex\04.Walking\obj\Debug\net8.0\ref\04.Walking.dll

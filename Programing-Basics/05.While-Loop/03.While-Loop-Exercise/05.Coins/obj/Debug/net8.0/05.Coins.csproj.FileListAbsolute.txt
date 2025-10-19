@@ -1,0 +1,14 @@
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.WhileLoop-Ex\05.Coins\bin\Debug\net8.0\05.Coins.exe
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.WhileLoop-Ex\05.Coins\bin\Debug\net8.0\05.Coins.deps.json
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.WhileLoop-Ex\05.Coins\bin\Debug\net8.0\05.Coins.runtimeconfig.json
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.WhileLoop-Ex\05.Coins\bin\Debug\net8.0\05.Coins.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.WhileLoop-Ex\05.Coins\bin\Debug\net8.0\05.Coins.pdb
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.WhileLoop-Ex\05.Coins\obj\Debug\net8.0\05.Coins.GeneratedMSBuildEditorConfig.editorconfig
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.WhileLoop-Ex\05.Coins\obj\Debug\net8.0\05.Coins.AssemblyInfoInputs.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.WhileLoop-Ex\05.Coins\obj\Debug\net8.0\05.Coins.AssemblyInfo.cs
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.WhileLoop-Ex\05.Coins\obj\Debug\net8.0\05.Coins.csproj.CoreCompileInputs.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.WhileLoop-Ex\05.Coins\obj\Debug\net8.0\05.Coins.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.WhileLoop-Ex\05.Coins\obj\Debug\net8.0\refint\05.Coins.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.WhileLoop-Ex\05.Coins\obj\Debug\net8.0\05.Coins.pdb
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.WhileLoop-Ex\05.Coins\obj\Debug\net8.0\05.Coins.genruntimeconfig.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.WhileLoop-Ex\05.Coins\obj\Debug\net8.0\ref\05.Coins.dll

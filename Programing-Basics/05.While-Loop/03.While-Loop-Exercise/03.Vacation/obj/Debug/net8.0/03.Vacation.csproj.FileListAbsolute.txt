@@ -1,0 +1,14 @@
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.WhileLoop-Ex\03.Vacation\bin\Debug\net8.0\03.Vacation.exe
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.WhileLoop-Ex\03.Vacation\bin\Debug\net8.0\03.Vacation.deps.json
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.WhileLoop-Ex\03.Vacation\bin\Debug\net8.0\03.Vacation.runtimeconfig.json
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.WhileLoop-Ex\03.Vacation\bin\Debug\net8.0\03.Vacation.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.WhileLoop-Ex\03.Vacation\bin\Debug\net8.0\03.Vacation.pdb
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.WhileLoop-Ex\03.Vacation\obj\Debug\net8.0\03.Vacation.GeneratedMSBuildEditorConfig.editorconfig
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.WhileLoop-Ex\03.Vacation\obj\Debug\net8.0\03.Vacation.AssemblyInfoInputs.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.WhileLoop-Ex\03.Vacation\obj\Debug\net8.0\03.Vacation.AssemblyInfo.cs
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.WhileLoop-Ex\03.Vacation\obj\Debug\net8.0\03.Vacation.csproj.CoreCompileInputs.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.WhileLoop-Ex\03.Vacation\obj\Debug\net8.0\03.Vacation.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.WhileLoop-Ex\03.Vacation\obj\Debug\net8.0\refint\03.Vacation.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.WhileLoop-Ex\03.Vacation\obj\Debug\net8.0\03.Vacation.pdb
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.WhileLoop-Ex\03.Vacation\obj\Debug\net8.0\03.Vacation.genruntimeconfig.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.WhileLoop-Ex\03.Vacation\obj\Debug\net8.0\ref\03.Vacation.dll

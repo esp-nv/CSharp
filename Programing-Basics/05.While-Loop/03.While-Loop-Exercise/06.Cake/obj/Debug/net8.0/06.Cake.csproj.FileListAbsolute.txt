@@ -1,0 +1,14 @@
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.WhileLoop-Ex\06.Cake\bin\Debug\net8.0\06.Cake.exe
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.WhileLoop-Ex\06.Cake\bin\Debug\net8.0\06.Cake.deps.json
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.WhileLoop-Ex\06.Cake\bin\Debug\net8.0\06.Cake.runtimeconfig.json
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.WhileLoop-Ex\06.Cake\bin\Debug\net8.0\06.Cake.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.WhileLoop-Ex\06.Cake\bin\Debug\net8.0\06.Cake.pdb
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.WhileLoop-Ex\06.Cake\obj\Debug\net8.0\06.Cake.GeneratedMSBuildEditorConfig.editorconfig
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.WhileLoop-Ex\06.Cake\obj\Debug\net8.0\06.Cake.AssemblyInfoInputs.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.WhileLoop-Ex\06.Cake\obj\Debug\net8.0\06.Cake.AssemblyInfo.cs
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.WhileLoop-Ex\06.Cake\obj\Debug\net8.0\06.Cake.csproj.CoreCompileInputs.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.WhileLoop-Ex\06.Cake\obj\Debug\net8.0\06.Cake.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.WhileLoop-Ex\06.Cake\obj\Debug\net8.0\refint\06.Cake.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.WhileLoop-Ex\06.Cake\obj\Debug\net8.0\06.Cake.pdb
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.WhileLoop-Ex\06.Cake\obj\Debug\net8.0\06.Cake.genruntimeconfig.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.WhileLoop-Ex\06.Cake\obj\Debug\net8.0\ref\06.Cake.dll

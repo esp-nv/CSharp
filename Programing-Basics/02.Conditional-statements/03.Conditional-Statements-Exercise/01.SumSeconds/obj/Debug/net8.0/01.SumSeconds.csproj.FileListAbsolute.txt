@@ -1,0 +1,14 @@
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Exercise\02.ConditionalStatements-Exercise\01.SumSeconds\bin\Debug\net8.0\01.SumSeconds.exe
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Exercise\02.ConditionalStatements-Exercise\01.SumSeconds\bin\Debug\net8.0\01.SumSeconds.deps.json
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Exercise\02.ConditionalStatements-Exercise\01.SumSeconds\bin\Debug\net8.0\01.SumSeconds.runtimeconfig.json
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Exercise\02.ConditionalStatements-Exercise\01.SumSeconds\bin\Debug\net8.0\01.SumSeconds.dll
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Exercise\02.ConditionalStatements-Exercise\01.SumSeconds\bin\Debug\net8.0\01.SumSeconds.pdb
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Exercise\02.ConditionalStatements-Exercise\01.SumSeconds\obj\Debug\net8.0\01.SumSeconds.GeneratedMSBuildEditorConfig.editorconfig
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Exercise\02.ConditionalStatements-Exercise\01.SumSeconds\obj\Debug\net8.0\01.SumSeconds.AssemblyInfoInputs.cache
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Exercise\02.ConditionalStatements-Exercise\01.SumSeconds\obj\Debug\net8.0\01.SumSeconds.AssemblyInfo.cs
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Exercise\02.ConditionalStatements-Exercise\01.SumSeconds\obj\Debug\net8.0\01.SumSeconds.csproj.CoreCompileInputs.cache
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Exercise\02.ConditionalStatements-Exercise\01.SumSeconds\obj\Debug\net8.0\01.SumSeconds.dll
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Exercise\02.ConditionalStatements-Exercise\01.SumSeconds\obj\Debug\net8.0\refint\01.SumSeconds.dll
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Exercise\02.ConditionalStatements-Exercise\01.SumSeconds\obj\Debug\net8.0\01.SumSeconds.pdb
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Exercise\02.ConditionalStatements-Exercise\01.SumSeconds\obj\Debug\net8.0\01.SumSeconds.genruntimeconfig.cache
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Exercise\02.ConditionalStatements-Exercise\01.SumSeconds\obj\Debug\net8.0\ref\01.SumSeconds.dll

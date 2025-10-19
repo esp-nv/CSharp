@@ -1,0 +1,14 @@
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Exercise\02.ConditionalStatements-Exercise\03.Time15Minutes\bin\Debug\net8.0\03.Time15Minutes.exe
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Exercise\02.ConditionalStatements-Exercise\03.Time15Minutes\bin\Debug\net8.0\03.Time15Minutes.deps.json
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Exercise\02.ConditionalStatements-Exercise\03.Time15Minutes\bin\Debug\net8.0\03.Time15Minutes.runtimeconfig.json
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Exercise\02.ConditionalStatements-Exercise\03.Time15Minutes\bin\Debug\net8.0\03.Time15Minutes.dll
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Exercise\02.ConditionalStatements-Exercise\03.Time15Minutes\bin\Debug\net8.0\03.Time15Minutes.pdb
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Exercise\02.ConditionalStatements-Exercise\03.Time15Minutes\obj\Debug\net8.0\03.Time15Minutes.GeneratedMSBuildEditorConfig.editorconfig
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Exercise\02.ConditionalStatements-Exercise\03.Time15Minutes\obj\Debug\net8.0\03.Time15Minutes.AssemblyInfoInputs.cache
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Exercise\02.ConditionalStatements-Exercise\03.Time15Minutes\obj\Debug\net8.0\03.Time15Minutes.AssemblyInfo.cs
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Exercise\02.ConditionalStatements-Exercise\03.Time15Minutes\obj\Debug\net8.0\03.Time15Minutes.csproj.CoreCompileInputs.cache
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Exercise\02.ConditionalStatements-Exercise\03.Time15Minutes\obj\Debug\net8.0\03.Time15Minutes.dll
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Exercise\02.ConditionalStatements-Exercise\03.Time15Minutes\obj\Debug\net8.0\refint\03.Time15Minutes.dll
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Exercise\02.ConditionalStatements-Exercise\03.Time15Minutes\obj\Debug\net8.0\03.Time15Minutes.pdb
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Exercise\02.ConditionalStatements-Exercise\03.Time15Minutes\obj\Debug\net8.0\03.Time15Minutes.genruntimeconfig.cache
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Exercise\02.ConditionalStatements-Exercise\03.Time15Minutes\obj\Debug\net8.0\ref\03.Time15Minutes.dll

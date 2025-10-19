@@ -1,0 +1,14 @@
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Exercise\02.ConditionalStatements-Exercise\04.ToyShop\bin\Debug\net8.0\04.ToyShop.exe
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Exercise\02.ConditionalStatements-Exercise\04.ToyShop\bin\Debug\net8.0\04.ToyShop.deps.json
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Exercise\02.ConditionalStatements-Exercise\04.ToyShop\bin\Debug\net8.0\04.ToyShop.runtimeconfig.json
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Exercise\02.ConditionalStatements-Exercise\04.ToyShop\bin\Debug\net8.0\04.ToyShop.dll
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Exercise\02.ConditionalStatements-Exercise\04.ToyShop\bin\Debug\net8.0\04.ToyShop.pdb
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Exercise\02.ConditionalStatements-Exercise\04.ToyShop\obj\Debug\net8.0\04.ToyShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Exercise\02.ConditionalStatements-Exercise\04.ToyShop\obj\Debug\net8.0\04.ToyShop.AssemblyInfoInputs.cache
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Exercise\02.ConditionalStatements-Exercise\04.ToyShop\obj\Debug\net8.0\04.ToyShop.AssemblyInfo.cs
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Exercise\02.ConditionalStatements-Exercise\04.ToyShop\obj\Debug\net8.0\04.ToyShop.csproj.CoreCompileInputs.cache
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Exercise\02.ConditionalStatements-Exercise\04.ToyShop\obj\Debug\net8.0\04.ToyShop.dll
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Exercise\02.ConditionalStatements-Exercise\04.ToyShop\obj\Debug\net8.0\refint\04.ToyShop.dll
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Exercise\02.ConditionalStatements-Exercise\04.ToyShop\obj\Debug\net8.0\04.ToyShop.pdb
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Exercise\02.ConditionalStatements-Exercise\04.ToyShop\obj\Debug\net8.0\04.ToyShop.genruntimeconfig.cache
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Exercise\02.ConditionalStatements-Exercise\04.ToyShop\obj\Debug\net8.0\ref\04.ToyShop.dll

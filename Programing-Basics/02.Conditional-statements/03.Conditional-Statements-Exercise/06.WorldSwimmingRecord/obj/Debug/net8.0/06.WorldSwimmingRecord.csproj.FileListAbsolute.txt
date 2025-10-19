@@ -1,0 +1,14 @@
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Exercise\02.ConditionalStatements-Exercise\06.WorldSwimmingRecord\bin\Debug\net8.0\06.WorldSwimmingRecord.exe
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Exercise\02.ConditionalStatements-Exercise\06.WorldSwimmingRecord\bin\Debug\net8.0\06.WorldSwimmingRecord.deps.json
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Exercise\02.ConditionalStatements-Exercise\06.WorldSwimmingRecord\bin\Debug\net8.0\06.WorldSwimmingRecord.runtimeconfig.json
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Exercise\02.ConditionalStatements-Exercise\06.WorldSwimmingRecord\bin\Debug\net8.0\06.WorldSwimmingRecord.dll
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Exercise\02.ConditionalStatements-Exercise\06.WorldSwimmingRecord\bin\Debug\net8.0\06.WorldSwimmingRecord.pdb
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Exercise\02.ConditionalStatements-Exercise\06.WorldSwimmingRecord\obj\Debug\net8.0\06.WorldSwimmingRecord.GeneratedMSBuildEditorConfig.editorconfig
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Exercise\02.ConditionalStatements-Exercise\06.WorldSwimmingRecord\obj\Debug\net8.0\06.WorldSwimmingRecord.AssemblyInfoInputs.cache
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Exercise\02.ConditionalStatements-Exercise\06.WorldSwimmingRecord\obj\Debug\net8.0\06.WorldSwimmingRecord.AssemblyInfo.cs
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Exercise\02.ConditionalStatements-Exercise\06.WorldSwimmingRecord\obj\Debug\net8.0\06.WorldSwimmingRecord.csproj.CoreCompileInputs.cache
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Exercise\02.ConditionalStatements-Exercise\06.WorldSwimmingRecord\obj\Debug\net8.0\06.WorldSwimmingRecord.dll
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Exercise\02.ConditionalStatements-Exercise\06.WorldSwimmingRecord\obj\Debug\net8.0\refint\06.WorldSwimmingRecord.dll
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Exercise\02.ConditionalStatements-Exercise\06.WorldSwimmingRecord\obj\Debug\net8.0\06.WorldSwimmingRecord.pdb
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Exercise\02.ConditionalStatements-Exercise\06.WorldSwimmingRecord\obj\Debug\net8.0\06.WorldSwimmingRecord.genruntimeconfig.cache
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Exercise\02.ConditionalStatements-Exercise\06.WorldSwimmingRecord\obj\Debug\net8.0\ref\06.WorldSwimmingRecord.dll

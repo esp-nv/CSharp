@@ -1,0 +1,14 @@
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Exercise\01.FirstStep-Exercise\02.RadiansToDegrees\bin\Debug\net8.0\02.RadiansToDegrees.exe
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Exercise\01.FirstStep-Exercise\02.RadiansToDegrees\bin\Debug\net8.0\02.RadiansToDegrees.deps.json
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Exercise\01.FirstStep-Exercise\02.RadiansToDegrees\bin\Debug\net8.0\02.RadiansToDegrees.runtimeconfig.json
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Exercise\01.FirstStep-Exercise\02.RadiansToDegrees\bin\Debug\net8.0\02.RadiansToDegrees.dll
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Exercise\01.FirstStep-Exercise\02.RadiansToDegrees\bin\Debug\net8.0\02.RadiansToDegrees.pdb
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Exercise\01.FirstStep-Exercise\02.RadiansToDegrees\obj\Debug\net8.0\02.RadiansToDegrees.GeneratedMSBuildEditorConfig.editorconfig
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Exercise\01.FirstStep-Exercise\02.RadiansToDegrees\obj\Debug\net8.0\02.RadiansToDegrees.AssemblyInfoInputs.cache
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Exercise\01.FirstStep-Exercise\02.RadiansToDegrees\obj\Debug\net8.0\02.RadiansToDegrees.AssemblyInfo.cs
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Exercise\01.FirstStep-Exercise\02.RadiansToDegrees\obj\Debug\net8.0\02.RadiansToDegrees.csproj.CoreCompileInputs.cache
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Exercise\01.FirstStep-Exercise\02.RadiansToDegrees\obj\Debug\net8.0\02.RadiansToDegrees.dll
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Exercise\01.FirstStep-Exercise\02.RadiansToDegrees\obj\Debug\net8.0\refint\02.RadiansToDegrees.dll
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Exercise\01.FirstStep-Exercise\02.RadiansToDegrees\obj\Debug\net8.0\02.RadiansToDegrees.pdb
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Exercise\01.FirstStep-Exercise\02.RadiansToDegrees\obj\Debug\net8.0\02.RadiansToDegrees.genruntimeconfig.cache
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Exercise\01.FirstStep-Exercise\02.RadiansToDegrees\obj\Debug\net8.0\ref\02.RadiansToDegrees.dll

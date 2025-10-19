@@ -1,0 +1,14 @@
+D:\nv\SoftUni\CSharp\PB-Sept-2024\06.NestedLoops-MoreEx\05.ChallengeTheWedding\bin\Debug\net8.0\05.ChallengeTheWedding.exe
+D:\nv\SoftUni\CSharp\PB-Sept-2024\06.NestedLoops-MoreEx\05.ChallengeTheWedding\bin\Debug\net8.0\05.ChallengeTheWedding.deps.json
+D:\nv\SoftUni\CSharp\PB-Sept-2024\06.NestedLoops-MoreEx\05.ChallengeTheWedding\bin\Debug\net8.0\05.ChallengeTheWedding.runtimeconfig.json
+D:\nv\SoftUni\CSharp\PB-Sept-2024\06.NestedLoops-MoreEx\05.ChallengeTheWedding\bin\Debug\net8.0\05.ChallengeTheWedding.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\06.NestedLoops-MoreEx\05.ChallengeTheWedding\bin\Debug\net8.0\05.ChallengeTheWedding.pdb
+D:\nv\SoftUni\CSharp\PB-Sept-2024\06.NestedLoops-MoreEx\05.ChallengeTheWedding\obj\Debug\net8.0\05.ChallengeTheWedding.GeneratedMSBuildEditorConfig.editorconfig
+D:\nv\SoftUni\CSharp\PB-Sept-2024\06.NestedLoops-MoreEx\05.ChallengeTheWedding\obj\Debug\net8.0\05.ChallengeTheWedding.AssemblyInfoInputs.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\06.NestedLoops-MoreEx\05.ChallengeTheWedding\obj\Debug\net8.0\05.ChallengeTheWedding.AssemblyInfo.cs
+D:\nv\SoftUni\CSharp\PB-Sept-2024\06.NestedLoops-MoreEx\05.ChallengeTheWedding\obj\Debug\net8.0\05.ChallengeTheWedding.csproj.CoreCompileInputs.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\06.NestedLoops-MoreEx\05.ChallengeTheWedding\obj\Debug\net8.0\05.ChallengeTheWedding.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\06.NestedLoops-MoreEx\05.ChallengeTheWedding\obj\Debug\net8.0\refint\05.ChallengeTheWedding.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\06.NestedLoops-MoreEx\05.ChallengeTheWedding\obj\Debug\net8.0\05.ChallengeTheWedding.pdb
+D:\nv\SoftUni\CSharp\PB-Sept-2024\06.NestedLoops-MoreEx\05.ChallengeTheWedding\obj\Debug\net8.0\05.ChallengeTheWedding.genruntimeconfig.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\06.NestedLoops-MoreEx\05.ChallengeTheWedding\obj\Debug\net8.0\ref\05.ChallengeTheWedding.dll

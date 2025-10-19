@@ -1,0 +1,14 @@
+D:\nv\SoftUni\CSharp\PB-Sept-2024\06.NestedLoops-MoreEx\12.TheSongOfTheWheels\bin\Debug\net8.0\12.TheSongOfTheWheels.exe
+D:\nv\SoftUni\CSharp\PB-Sept-2024\06.NestedLoops-MoreEx\12.TheSongOfTheWheels\bin\Debug\net8.0\12.TheSongOfTheWheels.deps.json
+D:\nv\SoftUni\CSharp\PB-Sept-2024\06.NestedLoops-MoreEx\12.TheSongOfTheWheels\bin\Debug\net8.0\12.TheSongOfTheWheels.runtimeconfig.json
+D:\nv\SoftUni\CSharp\PB-Sept-2024\06.NestedLoops-MoreEx\12.TheSongOfTheWheels\bin\Debug\net8.0\12.TheSongOfTheWheels.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\06.NestedLoops-MoreEx\12.TheSongOfTheWheels\bin\Debug\net8.0\12.TheSongOfTheWheels.pdb
+D:\nv\SoftUni\CSharp\PB-Sept-2024\06.NestedLoops-MoreEx\12.TheSongOfTheWheels\obj\Debug\net8.0\12.TheSongOfTheWheels.GeneratedMSBuildEditorConfig.editorconfig
+D:\nv\SoftUni\CSharp\PB-Sept-2024\06.NestedLoops-MoreEx\12.TheSongOfTheWheels\obj\Debug\net8.0\12.TheSongOfTheWheels.AssemblyInfoInputs.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\06.NestedLoops-MoreEx\12.TheSongOfTheWheels\obj\Debug\net8.0\12.TheSongOfTheWheels.AssemblyInfo.cs
+D:\nv\SoftUni\CSharp\PB-Sept-2024\06.NestedLoops-MoreEx\12.TheSongOfTheWheels\obj\Debug\net8.0\12.TheSongOfTheWheels.csproj.CoreCompileInputs.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\06.NestedLoops-MoreEx\12.TheSongOfTheWheels\obj\Debug\net8.0\12.TheSongOfTheWheels.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\06.NestedLoops-MoreEx\12.TheSongOfTheWheels\obj\Debug\net8.0\refint\12.TheSongOfTheWheels.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\06.NestedLoops-MoreEx\12.TheSongOfTheWheels\obj\Debug\net8.0\12.TheSongOfTheWheels.pdb
+D:\nv\SoftUni\CSharp\PB-Sept-2024\06.NestedLoops-MoreEx\12.TheSongOfTheWheels\obj\Debug\net8.0\12.TheSongOfTheWheels.genruntimeconfig.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\06.NestedLoops-MoreEx\12.TheSongOfTheWheels\obj\Debug\net8.0\ref\12.TheSongOfTheWheels.dll

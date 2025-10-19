@@ -1,0 +1,14 @@
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.While Loop-Lab\07.MinNumber\bin\Debug\net8.0\07.MinNumber.exe
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.While Loop-Lab\07.MinNumber\bin\Debug\net8.0\07.MinNumber.deps.json
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.While Loop-Lab\07.MinNumber\bin\Debug\net8.0\07.MinNumber.runtimeconfig.json
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.While Loop-Lab\07.MinNumber\bin\Debug\net8.0\07.MinNumber.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.While Loop-Lab\07.MinNumber\bin\Debug\net8.0\07.MinNumber.pdb
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.While Loop-Lab\07.MinNumber\obj\Debug\net8.0\07.MinNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.While Loop-Lab\07.MinNumber\obj\Debug\net8.0\07.MinNumber.AssemblyInfoInputs.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.While Loop-Lab\07.MinNumber\obj\Debug\net8.0\07.MinNumber.AssemblyInfo.cs
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.While Loop-Lab\07.MinNumber\obj\Debug\net8.0\07.MinNumber.csproj.CoreCompileInputs.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.While Loop-Lab\07.MinNumber\obj\Debug\net8.0\07.MinNumber.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.While Loop-Lab\07.MinNumber\obj\Debug\net8.0\refint\07.MinNumber.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.While Loop-Lab\07.MinNumber\obj\Debug\net8.0\07.MinNumber.pdb
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.While Loop-Lab\07.MinNumber\obj\Debug\net8.0\07.MinNumber.genruntimeconfig.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.While Loop-Lab\07.MinNumber\obj\Debug\net8.0\ref\07.MinNumber.dll

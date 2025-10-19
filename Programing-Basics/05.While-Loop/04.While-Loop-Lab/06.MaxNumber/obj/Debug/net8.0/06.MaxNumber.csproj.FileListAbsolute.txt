@@ -1,0 +1,14 @@
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.While Loop-Lab\06.MaxNumber\bin\Debug\net8.0\06.MaxNumber.exe
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.While Loop-Lab\06.MaxNumber\bin\Debug\net8.0\06.MaxNumber.deps.json
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.While Loop-Lab\06.MaxNumber\bin\Debug\net8.0\06.MaxNumber.runtimeconfig.json
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.While Loop-Lab\06.MaxNumber\bin\Debug\net8.0\06.MaxNumber.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.While Loop-Lab\06.MaxNumber\bin\Debug\net8.0\06.MaxNumber.pdb
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.While Loop-Lab\06.MaxNumber\obj\Debug\net8.0\06.MaxNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.While Loop-Lab\06.MaxNumber\obj\Debug\net8.0\06.MaxNumber.AssemblyInfoInputs.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.While Loop-Lab\06.MaxNumber\obj\Debug\net8.0\06.MaxNumber.AssemblyInfo.cs
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.While Loop-Lab\06.MaxNumber\obj\Debug\net8.0\06.MaxNumber.csproj.CoreCompileInputs.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.While Loop-Lab\06.MaxNumber\obj\Debug\net8.0\06.MaxNumber.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.While Loop-Lab\06.MaxNumber\obj\Debug\net8.0\refint\06.MaxNumber.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.While Loop-Lab\06.MaxNumber\obj\Debug\net8.0\06.MaxNumber.pdb
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.While Loop-Lab\06.MaxNumber\obj\Debug\net8.0\06.MaxNumber.genruntimeconfig.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024\05.While Loop-Lab\06.MaxNumber\obj\Debug\net8.0\ref\06.MaxNumber.dll

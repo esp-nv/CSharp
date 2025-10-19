@@ -1,0 +1,14 @@
+D:\nv\SoftUni\CSharp\PB-Sept-2024-MoreExercise\01.FirstSteps-MoreExercises\04.VegetableMarket\bin\Debug\net8.0\04.VegetableMarket.exe
+D:\nv\SoftUni\CSharp\PB-Sept-2024-MoreExercise\01.FirstSteps-MoreExercises\04.VegetableMarket\bin\Debug\net8.0\04.VegetableMarket.deps.json
+D:\nv\SoftUni\CSharp\PB-Sept-2024-MoreExercise\01.FirstSteps-MoreExercises\04.VegetableMarket\bin\Debug\net8.0\04.VegetableMarket.runtimeconfig.json
+D:\nv\SoftUni\CSharp\PB-Sept-2024-MoreExercise\01.FirstSteps-MoreExercises\04.VegetableMarket\bin\Debug\net8.0\04.VegetableMarket.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024-MoreExercise\01.FirstSteps-MoreExercises\04.VegetableMarket\bin\Debug\net8.0\04.VegetableMarket.pdb
+D:\nv\SoftUni\CSharp\PB-Sept-2024-MoreExercise\01.FirstSteps-MoreExercises\04.VegetableMarket\obj\Debug\net8.0\04.VegetableMarket.GeneratedMSBuildEditorConfig.editorconfig
+D:\nv\SoftUni\CSharp\PB-Sept-2024-MoreExercise\01.FirstSteps-MoreExercises\04.VegetableMarket\obj\Debug\net8.0\04.VegetableMarket.AssemblyInfoInputs.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024-MoreExercise\01.FirstSteps-MoreExercises\04.VegetableMarket\obj\Debug\net8.0\04.VegetableMarket.AssemblyInfo.cs
+D:\nv\SoftUni\CSharp\PB-Sept-2024-MoreExercise\01.FirstSteps-MoreExercises\04.VegetableMarket\obj\Debug\net8.0\04.VegetableMarket.csproj.CoreCompileInputs.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024-MoreExercise\01.FirstSteps-MoreExercises\04.VegetableMarket\obj\Debug\net8.0\04.VegetableMarket.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024-MoreExercise\01.FirstSteps-MoreExercises\04.VegetableMarket\obj\Debug\net8.0\refint\04.VegetableMarket.dll
+D:\nv\SoftUni\CSharp\PB-Sept-2024-MoreExercise\01.FirstSteps-MoreExercises\04.VegetableMarket\obj\Debug\net8.0\04.VegetableMarket.pdb
+D:\nv\SoftUni\CSharp\PB-Sept-2024-MoreExercise\01.FirstSteps-MoreExercises\04.VegetableMarket\obj\Debug\net8.0\04.VegetableMarket.genruntimeconfig.cache
+D:\nv\SoftUni\CSharp\PB-Sept-2024-MoreExercise\01.FirstSteps-MoreExercises\04.VegetableMarket\obj\Debug\net8.0\ref\04.VegetableMarket.dll

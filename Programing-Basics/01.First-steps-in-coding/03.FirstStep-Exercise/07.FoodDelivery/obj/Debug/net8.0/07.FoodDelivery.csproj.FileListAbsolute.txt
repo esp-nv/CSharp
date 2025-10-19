@@ -1,0 +1,14 @@
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Exercise\01.FirstStep-Exercise\07.FoodDelivery\bin\Debug\net8.0\07.FoodDelivery.exe
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Exercise\01.FirstStep-Exercise\07.FoodDelivery\bin\Debug\net8.0\07.FoodDelivery.deps.json
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Exercise\01.FirstStep-Exercise\07.FoodDelivery\bin\Debug\net8.0\07.FoodDelivery.runtimeconfig.json
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Exercise\01.FirstStep-Exercise\07.FoodDelivery\bin\Debug\net8.0\07.FoodDelivery.dll
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Exercise\01.FirstStep-Exercise\07.FoodDelivery\bin\Debug\net8.0\07.FoodDelivery.pdb
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Exercise\01.FirstStep-Exercise\07.FoodDelivery\obj\Debug\net8.0\07.FoodDelivery.GeneratedMSBuildEditorConfig.editorconfig
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Exercise\01.FirstStep-Exercise\07.FoodDelivery\obj\Debug\net8.0\07.FoodDelivery.AssemblyInfoInputs.cache
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Exercise\01.FirstStep-Exercise\07.FoodDelivery\obj\Debug\net8.0\07.FoodDelivery.AssemblyInfo.cs
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Exercise\01.FirstStep-Exercise\07.FoodDelivery\obj\Debug\net8.0\07.FoodDelivery.csproj.CoreCompileInputs.cache
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Exercise\01.FirstStep-Exercise\07.FoodDelivery\obj\Debug\net8.0\07.FoodDelivery.dll
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Exercise\01.FirstStep-Exercise\07.FoodDelivery\obj\Debug\net8.0\refint\07.FoodDelivery.dll
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Exercise\01.FirstStep-Exercise\07.FoodDelivery\obj\Debug\net8.0\07.FoodDelivery.pdb
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Exercise\01.FirstStep-Exercise\07.FoodDelivery\obj\Debug\net8.0\07.FoodDelivery.genruntimeconfig.cache
+D:\nv\SoftUni\CSharp\PorgrammingBasic-Sept-2024-Exercise\01.FirstStep-Exercise\07.FoodDelivery\obj\Debug\net8.0\ref\07.FoodDelivery.dll

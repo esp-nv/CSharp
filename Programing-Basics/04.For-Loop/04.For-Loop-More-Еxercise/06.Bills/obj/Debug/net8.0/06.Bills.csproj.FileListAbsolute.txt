@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\04.ForLoopMoreEx\06.Bills\obj\Debug\net8.0\06.Bills.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\04.ForLoopMoreEx\06.Bills\obj\Debug\net8.0\06.Bills.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\04.ForLoopMoreEx\06.Bills\obj\Debug\net8.0\06.Bills.AssemblyInfo.cs
+C:\Users\User\source\repos\04.ForLoopMoreEx\06.Bills\obj\Debug\net8.0\06.Bills.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\04.ForLoopMoreEx\06.Bills\bin\Debug\net8.0\06.Bills.exe
+C:\Users\User\source\repos\04.ForLoopMoreEx\06.Bills\bin\Debug\net8.0\06.Bills.deps.json
+C:\Users\User\source\repos\04.ForLoopMoreEx\06.Bills\bin\Debug\net8.0\06.Bills.runtimeconfig.json
+C:\Users\User\source\repos\04.ForLoopMoreEx\06.Bills\bin\Debug\net8.0\06.Bills.dll
+C:\Users\User\source\repos\04.ForLoopMoreEx\06.Bills\bin\Debug\net8.0\06.Bills.pdb
+C:\Users\User\source\repos\04.ForLoopMoreEx\06.Bills\obj\Debug\net8.0\06.Bills.dll
+C:\Users\User\source\repos\04.ForLoopMoreEx\06.Bills\obj\Debug\net8.0\refint\06.Bills.dll
+C:\Users\User\source\repos\04.ForLoopMoreEx\06.Bills\obj\Debug\net8.0\06.Bills.pdb
+C:\Users\User\source\repos\04.ForLoopMoreEx\06.Bills\obj\Debug\net8.0\06.Bills.genruntimeconfig.cache
+C:\Users\User\source\repos\04.ForLoopMoreEx\06.Bills\obj\Debug\net8.0\ref\06.Bills.dll

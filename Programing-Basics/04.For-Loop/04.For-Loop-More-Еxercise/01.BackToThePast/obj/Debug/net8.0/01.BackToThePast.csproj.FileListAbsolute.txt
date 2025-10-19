@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\04.ForLoopMoreEx\01.BackToThePast\bin\Debug\net8.0\01.BackToThePast.exe
+C:\Users\User\source\repos\04.ForLoopMoreEx\01.BackToThePast\bin\Debug\net8.0\01.BackToThePast.deps.json
+C:\Users\User\source\repos\04.ForLoopMoreEx\01.BackToThePast\bin\Debug\net8.0\01.BackToThePast.runtimeconfig.json
+C:\Users\User\source\repos\04.ForLoopMoreEx\01.BackToThePast\bin\Debug\net8.0\01.BackToThePast.dll
+C:\Users\User\source\repos\04.ForLoopMoreEx\01.BackToThePast\bin\Debug\net8.0\01.BackToThePast.pdb
+C:\Users\User\source\repos\04.ForLoopMoreEx\01.BackToThePast\obj\Debug\net8.0\01.BackToThePast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\04.ForLoopMoreEx\01.BackToThePast\obj\Debug\net8.0\01.BackToThePast.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\04.ForLoopMoreEx\01.BackToThePast\obj\Debug\net8.0\01.BackToThePast.AssemblyInfo.cs
+C:\Users\User\source\repos\04.ForLoopMoreEx\01.BackToThePast\obj\Debug\net8.0\01.BackToThePast.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\04.ForLoopMoreEx\01.BackToThePast\obj\Debug\net8.0\01.BackToThePast.dll
+C:\Users\User\source\repos\04.ForLoopMoreEx\01.BackToThePast\obj\Debug\net8.0\refint\01.BackToThePast.dll
+C:\Users\User\source\repos\04.ForLoopMoreEx\01.BackToThePast\obj\Debug\net8.0\01.BackToThePast.pdb
+C:\Users\User\source\repos\04.ForLoopMoreEx\01.BackToThePast\obj\Debug\net8.0\01.BackToThePast.genruntimeconfig.cache
+C:\Users\User\source\repos\04.ForLoopMoreEx\01.BackToThePast\obj\Debug\net8.0\ref\01.BackToThePast.dll

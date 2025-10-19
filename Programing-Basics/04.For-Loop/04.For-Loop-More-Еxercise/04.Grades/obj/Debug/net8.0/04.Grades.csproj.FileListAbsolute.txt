@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\04.ForLoopMoreEx\04.Grades\bin\Debug\net8.0\04.Grades.exe
+C:\Users\User\source\repos\04.ForLoopMoreEx\04.Grades\bin\Debug\net8.0\04.Grades.deps.json
+C:\Users\User\source\repos\04.ForLoopMoreEx\04.Grades\bin\Debug\net8.0\04.Grades.runtimeconfig.json
+C:\Users\User\source\repos\04.ForLoopMoreEx\04.Grades\bin\Debug\net8.0\04.Grades.dll
+C:\Users\User\source\repos\04.ForLoopMoreEx\04.Grades\bin\Debug\net8.0\04.Grades.pdb
+C:\Users\User\source\repos\04.ForLoopMoreEx\04.Grades\obj\Debug\net8.0\04.Grades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\04.ForLoopMoreEx\04.Grades\obj\Debug\net8.0\04.Grades.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\04.ForLoopMoreEx\04.Grades\obj\Debug\net8.0\04.Grades.AssemblyInfo.cs
+C:\Users\User\source\repos\04.ForLoopMoreEx\04.Grades\obj\Debug\net8.0\04.Grades.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\04.ForLoopMoreEx\04.Grades\obj\Debug\net8.0\04.Grades.dll
+C:\Users\User\source\repos\04.ForLoopMoreEx\04.Grades\obj\Debug\net8.0\refint\04.Grades.dll
+C:\Users\User\source\repos\04.ForLoopMoreEx\04.Grades\obj\Debug\net8.0\04.Grades.pdb
+C:\Users\User\source\repos\04.ForLoopMoreEx\04.Grades\obj\Debug\net8.0\04.Grades.genruntimeconfig.cache
+C:\Users\User\source\repos\04.ForLoopMoreEx\04.Grades\obj\Debug\net8.0\ref\04.Grades.dll

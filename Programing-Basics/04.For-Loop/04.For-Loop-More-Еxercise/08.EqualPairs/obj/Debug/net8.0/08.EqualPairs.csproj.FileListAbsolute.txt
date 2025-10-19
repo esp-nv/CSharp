@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\04.ForLoopMoreEx\08.EqualPairs\bin\Debug\net8.0\08.EqualPairs.exe
+C:\Users\User\source\repos\04.ForLoopMoreEx\08.EqualPairs\bin\Debug\net8.0\08.EqualPairs.deps.json
+C:\Users\User\source\repos\04.ForLoopMoreEx\08.EqualPairs\bin\Debug\net8.0\08.EqualPairs.runtimeconfig.json
+C:\Users\User\source\repos\04.ForLoopMoreEx\08.EqualPairs\bin\Debug\net8.0\08.EqualPairs.dll
+C:\Users\User\source\repos\04.ForLoopMoreEx\08.EqualPairs\bin\Debug\net8.0\08.EqualPairs.pdb
+C:\Users\User\source\repos\04.ForLoopMoreEx\08.EqualPairs\obj\Debug\net8.0\08.EqualPairs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\04.ForLoopMoreEx\08.EqualPairs\obj\Debug\net8.0\08.EqualPairs.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\04.ForLoopMoreEx\08.EqualPairs\obj\Debug\net8.0\08.EqualPairs.AssemblyInfo.cs
+C:\Users\User\source\repos\04.ForLoopMoreEx\08.EqualPairs\obj\Debug\net8.0\08.EqualPairs.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\04.ForLoopMoreEx\08.EqualPairs\obj\Debug\net8.0\08.EqualPairs.dll
+C:\Users\User\source\repos\04.ForLoopMoreEx\08.EqualPairs\obj\Debug\net8.0\refint\08.EqualPairs.dll
+C:\Users\User\source\repos\04.ForLoopMoreEx\08.EqualPairs\obj\Debug\net8.0\08.EqualPairs.pdb
+C:\Users\User\source\repos\04.ForLoopMoreEx\08.EqualPairs\obj\Debug\net8.0\08.EqualPairs.genruntimeconfig.cache
+C:\Users\User\source\repos\04.ForLoopMoreEx\08.EqualPairs\obj\Debug\net8.0\ref\08.EqualPairs.dll

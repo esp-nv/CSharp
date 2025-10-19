@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\04.ForLoopMoreEx\02.Hospital\bin\Debug\net8.0\02.Hospital.exe
+C:\Users\User\source\repos\04.ForLoopMoreEx\02.Hospital\bin\Debug\net8.0\02.Hospital.deps.json
+C:\Users\User\source\repos\04.ForLoopMoreEx\02.Hospital\bin\Debug\net8.0\02.Hospital.runtimeconfig.json
+C:\Users\User\source\repos\04.ForLoopMoreEx\02.Hospital\bin\Debug\net8.0\02.Hospital.dll
+C:\Users\User\source\repos\04.ForLoopMoreEx\02.Hospital\bin\Debug\net8.0\02.Hospital.pdb
+C:\Users\User\source\repos\04.ForLoopMoreEx\02.Hospital\obj\Debug\net8.0\02.Hospital.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\04.ForLoopMoreEx\02.Hospital\obj\Debug\net8.0\02.Hospital.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\04.ForLoopMoreEx\02.Hospital\obj\Debug\net8.0\02.Hospital.AssemblyInfo.cs
+C:\Users\User\source\repos\04.ForLoopMoreEx\02.Hospital\obj\Debug\net8.0\02.Hospital.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\04.ForLoopMoreEx\02.Hospital\obj\Debug\net8.0\02.Hospital.dll
+C:\Users\User\source\repos\04.ForLoopMoreEx\02.Hospital\obj\Debug\net8.0\refint\02.Hospital.dll
+C:\Users\User\source\repos\04.ForLoopMoreEx\02.Hospital\obj\Debug\net8.0\02.Hospital.pdb
+C:\Users\User\source\repos\04.ForLoopMoreEx\02.Hospital\obj\Debug\net8.0\02.Hospital.genruntimeconfig.cache
+C:\Users\User\source\repos\04.ForLoopMoreEx\02.Hospital\obj\Debug\net8.0\ref\02.Hospital.dll

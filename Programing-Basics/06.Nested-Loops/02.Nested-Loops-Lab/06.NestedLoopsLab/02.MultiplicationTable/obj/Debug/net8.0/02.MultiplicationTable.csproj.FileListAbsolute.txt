@@ -1,0 +1,14 @@
+D:\nv\SoftUni\CSharp\C# basics\PB-Sept-2024\06.NestedLoops-Lab\06.NestedLoopsLab\02.MultiplicationTable\bin\Debug\net8.0\02.MultiplicationTable.exe
+D:\nv\SoftUni\CSharp\C# basics\PB-Sept-2024\06.NestedLoops-Lab\06.NestedLoopsLab\02.MultiplicationTable\bin\Debug\net8.0\02.MultiplicationTable.deps.json
+D:\nv\SoftUni\CSharp\C# basics\PB-Sept-2024\06.NestedLoops-Lab\06.NestedLoopsLab\02.MultiplicationTable\bin\Debug\net8.0\02.MultiplicationTable.runtimeconfig.json
+D:\nv\SoftUni\CSharp\C# basics\PB-Sept-2024\06.NestedLoops-Lab\06.NestedLoopsLab\02.MultiplicationTable\bin\Debug\net8.0\02.MultiplicationTable.dll
+D:\nv\SoftUni\CSharp\C# basics\PB-Sept-2024\06.NestedLoops-Lab\06.NestedLoopsLab\02.MultiplicationTable\bin\Debug\net8.0\02.MultiplicationTable.pdb
+D:\nv\SoftUni\CSharp\C# basics\PB-Sept-2024\06.NestedLoops-Lab\06.NestedLoopsLab\02.MultiplicationTable\obj\Debug\net8.0\02.MultiplicationTable.GeneratedMSBuildEditorConfig.editorconfig
+D:\nv\SoftUni\CSharp\C# basics\PB-Sept-2024\06.NestedLoops-Lab\06.NestedLoopsLab\02.MultiplicationTable\obj\Debug\net8.0\02.MultiplicationTable.AssemblyInfoInputs.cache
+D:\nv\SoftUni\CSharp\C# basics\PB-Sept-2024\06.NestedLoops-Lab\06.NestedLoopsLab\02.MultiplicationTable\obj\Debug\net8.0\02.MultiplicationTable.AssemblyInfo.cs
+D:\nv\SoftUni\CSharp\C# basics\PB-Sept-2024\06.NestedLoops-Lab\06.NestedLoopsLab\02.MultiplicationTable\obj\Debug\net8.0\02.MultiplicationTable.csproj.CoreCompileInputs.cache
+D:\nv\SoftUni\CSharp\C# basics\PB-Sept-2024\06.NestedLoops-Lab\06.NestedLoopsLab\02.MultiplicationTable\obj\Debug\net8.0\02.MultiplicationTable.dll
+D:\nv\SoftUni\CSharp\C# basics\PB-Sept-2024\06.NestedLoops-Lab\06.NestedLoopsLab\02.MultiplicationTable\obj\Debug\net8.0\refint\02.MultiplicationTable.dll
+D:\nv\SoftUni\CSharp\C# basics\PB-Sept-2024\06.NestedLoops-Lab\06.NestedLoopsLab\02.MultiplicationTable\obj\Debug\net8.0\02.MultiplicationTable.pdb
+D:\nv\SoftUni\CSharp\C# basics\PB-Sept-2024\06.NestedLoops-Lab\06.NestedLoopsLab\02.MultiplicationTable\obj\Debug\net8.0\02.MultiplicationTable.genruntimeconfig.cache
+D:\nv\SoftUni\CSharp\C# basics\PB-Sept-2024\06.NestedLoops-Lab\06.NestedLoopsLab\02.MultiplicationTable\obj\Debug\net8.0\ref\02.MultiplicationTable.dll

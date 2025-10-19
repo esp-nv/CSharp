@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\nv\\SoftUni\\CSharp\\C# basics\\PB-Sept-2024\\06.NestedLoops-Lab\\06.NestedLoopsLab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0104428-A44F-4929-A962-BCF207219C59}|05.Travelling\\05.Travelling.csproj|d:\\nv\\softuni\\csharp\\c# basics\\pb-sept-2024\\06.nestedloops-lab\\06.nestedloopslab\\05.travelling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0104428-A44F-4929-A962-BCF207219C59}|05.Travelling\\05.Travelling.csproj|solutionrelative:05.travelling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E465794B-B82F-4205-B1C6-87E38598CB04}|06. Building\\06. Building.csproj|d:\\nv\\softuni\\csharp\\c# basics\\pb-sept-2024\\06.nestedloops-lab\\06.nestedloopslab\\06. building\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E465794B-B82F-4205-B1C6-87E38598CB04}|06. Building\\06. Building.csproj|solutionrelative:06. building\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C222A6-B973-498E-B306-12A1CA589C59}|04.SumOfTwoNumbers\\04.SumOfTwoNumbers.csproj|d:\\nv\\softuni\\csharp\\c# basics\\pb-sept-2024\\06.nestedloops-lab\\06.nestedloopslab\\04.sumoftwonumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C222A6-B973-498E-B306-12A1CA589C59}|04.SumOfTwoNumbers\\04.SumOfTwoNumbers.csproj|solutionrelative:04.sumoftwonumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFA6DBC1-DFB3-46CD-A6C5-2B7F3E4010AD}|03.Combinations\\03.Combinations.csproj|d:\\nv\\softuni\\csharp\\c# basics\\pb-sept-2024\\06.nestedloops-lab\\06.nestedloopslab\\03.combinations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFA6DBC1-DFB3-46CD-A6C5-2B7F3E4010AD}|03.Combinations\\03.Combinations.csproj|solutionrelative:03.combinations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AB0CDDA-61DF-4039-B52B-C65F9BC474F3}|02.MultiplicationTable\\02.MultiplicationTable.csproj|d:\\nv\\softuni\\csharp\\c# basics\\pb-sept-2024\\06.nestedloops-lab\\06.nestedloopslab\\02.multiplicationtable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AB0CDDA-61DF-4039-B52B-C65F9BC474F3}|02.MultiplicationTable\\02.MultiplicationTable.csproj|solutionrelative:02.multiplicationtable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4497EFF-F551-4AFD-B588-785087DE4696}|01.Clock\\01.Clock.csproj|d:\\nv\\softuni\\csharp\\c# basics\\pb-sept-2024\\06.nestedloops-lab\\06.nestedloopslab\\01.clock\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4497EFF-F551-4AFD-B588-785087DE4696}|01.Clock\\01.Clock.csproj|solutionrelative:01.clock\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\nv\\SoftUni\\CSharp\\C# basics\\PB-Sept-2024\\06.NestedLoops-Lab\\06.NestedLoopsLab\\05.Travelling\\Program.cs",
+              "RelativeDocumentMoniker": "05.Travelling\\Program.cs",
+              "ToolTip": "D:\\nv\\SoftUni\\CSharp\\C# basics\\PB-Sept-2024\\06.NestedLoops-Lab\\06.NestedLoopsLab\\05.Travelling\\Program.cs",
+              "RelativeToolTip": "05.Travelling\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA7wAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T15:47:33.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\nv\\SoftUni\\CSharp\\C# basics\\PB-Sept-2024\\06.NestedLoops-Lab\\06.NestedLoopsLab\\06. Building\\Program.cs",
+              "RelativeDocumentMoniker": "06. Building\\Program.cs",
+              "ToolTip": "D:\\nv\\SoftUni\\CSharp\\C# basics\\PB-Sept-2024\\06.NestedLoops-Lab\\06.NestedLoopsLab\\06. Building\\Program.cs",
+              "RelativeToolTip": "06. Building\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAswB0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T15:46:48.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\nv\\SoftUni\\CSharp\\C# basics\\PB-Sept-2024\\06.NestedLoops-Lab\\06.NestedLoopsLab\\04.SumOfTwoNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "04.SumOfTwoNumbers\\Program.cs",
+              "ToolTip": "D:\\nv\\SoftUni\\CSharp\\C# basics\\PB-Sept-2024\\06.NestedLoops-Lab\\06.NestedLoopsLab\\04.SumOfTwoNumbers\\Program.cs",
+              "RelativeToolTip": "04.SumOfTwoNumbers\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAswBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T15:44:58.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\nv\\SoftUni\\CSharp\\C# basics\\PB-Sept-2024\\06.NestedLoops-Lab\\06.NestedLoopsLab\\03.Combinations\\Program.cs",
+              "RelativeDocumentMoniker": "03.Combinations\\Program.cs",
+              "ToolTip": "D:\\nv\\SoftUni\\CSharp\\C# basics\\PB-Sept-2024\\06.NestedLoops-Lab\\06.NestedLoopsLab\\03.Combinations\\Program.cs",
+              "RelativeToolTip": "03.Combinations\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAswBIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T15:38:48.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\nv\\SoftUni\\CSharp\\C# basics\\PB-Sept-2024\\06.NestedLoops-Lab\\06.NestedLoopsLab\\02.MultiplicationTable\\Program.cs",
+              "RelativeDocumentMoniker": "02.MultiplicationTable\\Program.cs",
+              "ToolTip": "D:\\nv\\SoftUni\\CSharp\\C# basics\\PB-Sept-2024\\06.NestedLoops-Lab\\06.NestedLoopsLab\\02.MultiplicationTable\\Program.cs",
+              "RelativeToolTip": "02.MultiplicationTable\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T15:35:26.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\nv\\SoftUni\\CSharp\\C# basics\\PB-Sept-2024\\06.NestedLoops-Lab\\06.NestedLoopsLab\\01.Clock\\Program.cs",
+              "RelativeDocumentMoniker": "01.Clock\\Program.cs",
+              "ToolTip": "D:\\nv\\SoftUni\\CSharp\\C# basics\\PB-Sept-2024\\06.NestedLoops-Lab\\06.NestedLoopsLab\\01.Clock\\Program.cs",
+              "RelativeToolTip": "01.Clock\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T15:34:04.265Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

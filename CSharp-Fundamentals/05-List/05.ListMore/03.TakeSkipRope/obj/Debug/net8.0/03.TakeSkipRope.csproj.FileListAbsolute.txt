@@ -1,0 +1,14 @@
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\05-List\05.ListMore\03.TakeSkipRope\bin\Debug\net8.0\03.TakeSkipRope.exe
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\05-List\05.ListMore\03.TakeSkipRope\bin\Debug\net8.0\03.TakeSkipRope.deps.json
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\05-List\05.ListMore\03.TakeSkipRope\bin\Debug\net8.0\03.TakeSkipRope.runtimeconfig.json
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\05-List\05.ListMore\03.TakeSkipRope\bin\Debug\net8.0\03.TakeSkipRope.dll
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\05-List\05.ListMore\03.TakeSkipRope\bin\Debug\net8.0\03.TakeSkipRope.pdb
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\05-List\05.ListMore\03.TakeSkipRope\obj\Debug\net8.0\03.TakeSkipRope.GeneratedMSBuildEditorConfig.editorconfig
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\05-List\05.ListMore\03.TakeSkipRope\obj\Debug\net8.0\03.TakeSkipRope.AssemblyInfoInputs.cache
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\05-List\05.ListMore\03.TakeSkipRope\obj\Debug\net8.0\03.TakeSkipRope.AssemblyInfo.cs
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\05-List\05.ListMore\03.TakeSkipRope\obj\Debug\net8.0\03.TakeSkipRope.csproj.CoreCompileInputs.cache
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\05-List\05.ListMore\03.TakeSkipRope\obj\Debug\net8.0\03.TakeSkipRope.dll
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\05-List\05.ListMore\03.TakeSkipRope\obj\Debug\net8.0\refint\03.TakeSkipRope.dll
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\05-List\05.ListMore\03.TakeSkipRope\obj\Debug\net8.0\03.TakeSkipRope.pdb
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\05-List\05.ListMore\03.TakeSkipRope\obj\Debug\net8.0\03.TakeSkipRope.genruntimeconfig.cache
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\05-List\05.ListMore\03.TakeSkipRope\obj\Debug\net8.0\ref\03.TakeSkipRope.dll

@@ -1,0 +1,14 @@
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\06-ObjectsAndClasses\06.ObjectsAndClassesMore\05.ShoppingSpree\bin\Debug\net8.0\05.ShoppingSpree.exe
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\06-ObjectsAndClasses\06.ObjectsAndClassesMore\05.ShoppingSpree\bin\Debug\net8.0\05.ShoppingSpree.deps.json
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\06-ObjectsAndClasses\06.ObjectsAndClassesMore\05.ShoppingSpree\bin\Debug\net8.0\05.ShoppingSpree.runtimeconfig.json
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\06-ObjectsAndClasses\06.ObjectsAndClassesMore\05.ShoppingSpree\bin\Debug\net8.0\05.ShoppingSpree.dll
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\06-ObjectsAndClasses\06.ObjectsAndClassesMore\05.ShoppingSpree\bin\Debug\net8.0\05.ShoppingSpree.pdb
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\06-ObjectsAndClasses\06.ObjectsAndClassesMore\05.ShoppingSpree\obj\Debug\net8.0\05.ShoppingSpree.GeneratedMSBuildEditorConfig.editorconfig
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\06-ObjectsAndClasses\06.ObjectsAndClassesMore\05.ShoppingSpree\obj\Debug\net8.0\05.ShoppingSpree.AssemblyInfoInputs.cache
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\06-ObjectsAndClasses\06.ObjectsAndClassesMore\05.ShoppingSpree\obj\Debug\net8.0\05.ShoppingSpree.AssemblyInfo.cs
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\06-ObjectsAndClasses\06.ObjectsAndClassesMore\05.ShoppingSpree\obj\Debug\net8.0\05.ShoppingSpree.csproj.CoreCompileInputs.cache
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\06-ObjectsAndClasses\06.ObjectsAndClassesMore\05.ShoppingSpree\obj\Debug\net8.0\05.ShoppingSpree.dll
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\06-ObjectsAndClasses\06.ObjectsAndClassesMore\05.ShoppingSpree\obj\Debug\net8.0\refint\05.ShoppingSpree.dll
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\06-ObjectsAndClasses\06.ObjectsAndClassesMore\05.ShoppingSpree\obj\Debug\net8.0\05.ShoppingSpree.pdb
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\06-ObjectsAndClasses\06.ObjectsAndClassesMore\05.ShoppingSpree\obj\Debug\net8.0\05.ShoppingSpree.genruntimeconfig.cache
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\06-ObjectsAndClasses\06.ObjectsAndClassesMore\05.ShoppingSpree\obj\Debug\net8.0\ref\05.ShoppingSpree.dll

@@ -1,0 +1,14 @@
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\05-List\05.ListsLab\02.GaussTrick\obj\Debug\net8.0\02.GaussTrick.GeneratedMSBuildEditorConfig.editorconfig
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\05-List\05.ListsLab\02.GaussTrick\obj\Debug\net8.0\02.GaussTrick.AssemblyInfoInputs.cache
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\05-List\05.ListsLab\02.GaussTrick\obj\Debug\net8.0\02.GaussTrick.AssemblyInfo.cs
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\05-List\05.ListsLab\02.GaussTrick\obj\Debug\net8.0\02.GaussTrick.csproj.CoreCompileInputs.cache
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\05-List\05.ListsLab\02.GaussTrick\bin\Debug\net8.0\02.GaussTrick.exe
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\05-List\05.ListsLab\02.GaussTrick\bin\Debug\net8.0\02.GaussTrick.deps.json
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\05-List\05.ListsLab\02.GaussTrick\bin\Debug\net8.0\02.GaussTrick.runtimeconfig.json
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\05-List\05.ListsLab\02.GaussTrick\bin\Debug\net8.0\02.GaussTrick.dll
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\05-List\05.ListsLab\02.GaussTrick\bin\Debug\net8.0\02.GaussTrick.pdb
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\05-List\05.ListsLab\02.GaussTrick\obj\Debug\net8.0\02.GaussTrick.dll
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\05-List\05.ListsLab\02.GaussTrick\obj\Debug\net8.0\refint\02.GaussTrick.dll
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\05-List\05.ListsLab\02.GaussTrick\obj\Debug\net8.0\02.GaussTrick.pdb
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\05-List\05.ListsLab\02.GaussTrick\obj\Debug\net8.0\02.GaussTrick.genruntimeconfig.cache
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\05-List\05.ListsLab\02.GaussTrick\obj\Debug\net8.0\ref\02.GaussTrick.dll

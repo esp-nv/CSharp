@@ -1,0 +1,14 @@
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\07-AssociativeArrays\07.AssociativeArraysEx\06.StudentAcademy\bin\Debug\net8.0\06.StudentAcademy.exe
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\07-AssociativeArrays\07.AssociativeArraysEx\06.StudentAcademy\bin\Debug\net8.0\06.StudentAcademy.deps.json
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\07-AssociativeArrays\07.AssociativeArraysEx\06.StudentAcademy\bin\Debug\net8.0\06.StudentAcademy.runtimeconfig.json
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\07-AssociativeArrays\07.AssociativeArraysEx\06.StudentAcademy\bin\Debug\net8.0\06.StudentAcademy.dll
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\07-AssociativeArrays\07.AssociativeArraysEx\06.StudentAcademy\bin\Debug\net8.0\06.StudentAcademy.pdb
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\07-AssociativeArrays\07.AssociativeArraysEx\06.StudentAcademy\obj\Debug\net8.0\06.StudentAcademy.GeneratedMSBuildEditorConfig.editorconfig
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\07-AssociativeArrays\07.AssociativeArraysEx\06.StudentAcademy\obj\Debug\net8.0\06.StudentAcademy.AssemblyInfoInputs.cache
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\07-AssociativeArrays\07.AssociativeArraysEx\06.StudentAcademy\obj\Debug\net8.0\06.StudentAcademy.AssemblyInfo.cs
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\07-AssociativeArrays\07.AssociativeArraysEx\06.StudentAcademy\obj\Debug\net8.0\06.StudentAcademy.csproj.CoreCompileInputs.cache
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\07-AssociativeArrays\07.AssociativeArraysEx\06.StudentAcademy\obj\Debug\net8.0\06.StudentAcademy.dll
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\07-AssociativeArrays\07.AssociativeArraysEx\06.StudentAcademy\obj\Debug\net8.0\refint\06.StudentAcademy.dll
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\07-AssociativeArrays\07.AssociativeArraysEx\06.StudentAcademy\obj\Debug\net8.0\06.StudentAcademy.pdb
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\07-AssociativeArrays\07.AssociativeArraysEx\06.StudentAcademy\obj\Debug\net8.0\06.StudentAcademy.genruntimeconfig.cache
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\07-AssociativeArrays\07.AssociativeArraysEx\06.StudentAcademy\obj\Debug\net8.0\ref\06.StudentAcademy.dll

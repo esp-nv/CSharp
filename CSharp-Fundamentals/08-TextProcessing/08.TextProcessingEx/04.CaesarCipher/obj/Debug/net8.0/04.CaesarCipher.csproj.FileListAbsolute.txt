@@ -1,0 +1,14 @@
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\08-TextProcessing\08.TextProcessing\04.CaesarCipher\bin\Debug\net8.0\04.CaesarCipher.exe
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\08-TextProcessing\08.TextProcessing\04.CaesarCipher\bin\Debug\net8.0\04.CaesarCipher.deps.json
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\08-TextProcessing\08.TextProcessing\04.CaesarCipher\bin\Debug\net8.0\04.CaesarCipher.runtimeconfig.json
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\08-TextProcessing\08.TextProcessing\04.CaesarCipher\bin\Debug\net8.0\04.CaesarCipher.dll
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\08-TextProcessing\08.TextProcessing\04.CaesarCipher\bin\Debug\net8.0\04.CaesarCipher.pdb
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\08-TextProcessing\08.TextProcessing\04.CaesarCipher\obj\Debug\net8.0\04.CaesarCipher.GeneratedMSBuildEditorConfig.editorconfig
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\08-TextProcessing\08.TextProcessing\04.CaesarCipher\obj\Debug\net8.0\04.CaesarCipher.AssemblyInfoInputs.cache
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\08-TextProcessing\08.TextProcessing\04.CaesarCipher\obj\Debug\net8.0\04.CaesarCipher.AssemblyInfo.cs
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\08-TextProcessing\08.TextProcessing\04.CaesarCipher\obj\Debug\net8.0\04.CaesarCipher.csproj.CoreCompileInputs.cache
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\08-TextProcessing\08.TextProcessing\04.CaesarCipher\obj\Debug\net8.0\04.CaesarCipher.dll
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\08-TextProcessing\08.TextProcessing\04.CaesarCipher\obj\Debug\net8.0\refint\04.CaesarCipher.dll
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\08-TextProcessing\08.TextProcessing\04.CaesarCipher\obj\Debug\net8.0\04.CaesarCipher.pdb
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\08-TextProcessing\08.TextProcessing\04.CaesarCipher\obj\Debug\net8.0\04.CaesarCipher.genruntimeconfig.cache
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\08-TextProcessing\08.TextProcessing\04.CaesarCipher\obj\Debug\net8.0\ref\04.CaesarCipher.dll

@@ -1,0 +1,14 @@
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\06-ObjectsAndClasses\06.ObjectsAndClassesMore\03.SpeedRacing\bin\Debug\net8.0\03.SpeedRacing.exe
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\06-ObjectsAndClasses\06.ObjectsAndClassesMore\03.SpeedRacing\bin\Debug\net8.0\03.SpeedRacing.deps.json
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\06-ObjectsAndClasses\06.ObjectsAndClassesMore\03.SpeedRacing\bin\Debug\net8.0\03.SpeedRacing.runtimeconfig.json
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\06-ObjectsAndClasses\06.ObjectsAndClassesMore\03.SpeedRacing\bin\Debug\net8.0\03.SpeedRacing.dll
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\06-ObjectsAndClasses\06.ObjectsAndClassesMore\03.SpeedRacing\bin\Debug\net8.0\03.SpeedRacing.pdb
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\06-ObjectsAndClasses\06.ObjectsAndClassesMore\03.SpeedRacing\obj\Debug\net8.0\03.SpeedRacing.GeneratedMSBuildEditorConfig.editorconfig
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\06-ObjectsAndClasses\06.ObjectsAndClassesMore\03.SpeedRacing\obj\Debug\net8.0\03.SpeedRacing.AssemblyInfoInputs.cache
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\06-ObjectsAndClasses\06.ObjectsAndClassesMore\03.SpeedRacing\obj\Debug\net8.0\03.SpeedRacing.AssemblyInfo.cs
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\06-ObjectsAndClasses\06.ObjectsAndClassesMore\03.SpeedRacing\obj\Debug\net8.0\03.SpeedRacing.csproj.CoreCompileInputs.cache
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\06-ObjectsAndClasses\06.ObjectsAndClassesMore\03.SpeedRacing\obj\Debug\net8.0\03.SpeedRacing.dll
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\06-ObjectsAndClasses\06.ObjectsAndClassesMore\03.SpeedRacing\obj\Debug\net8.0\refint\03.SpeedRacing.dll
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\06-ObjectsAndClasses\06.ObjectsAndClassesMore\03.SpeedRacing\obj\Debug\net8.0\03.SpeedRacing.pdb
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\06-ObjectsAndClasses\06.ObjectsAndClassesMore\03.SpeedRacing\obj\Debug\net8.0\03.SpeedRacing.genruntimeconfig.cache
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\06-ObjectsAndClasses\06.ObjectsAndClassesMore\03.SpeedRacing\obj\Debug\net8.0\ref\03.SpeedRacing.dll

@@ -1,0 +1,14 @@
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\05-List\05.ListEx\06.CardsGame\bin\Debug\net8.0\06.CardsGame.exe
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\05-List\05.ListEx\06.CardsGame\bin\Debug\net8.0\06.CardsGame.deps.json
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\05-List\05.ListEx\06.CardsGame\bin\Debug\net8.0\06.CardsGame.runtimeconfig.json
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\05-List\05.ListEx\06.CardsGame\bin\Debug\net8.0\06.CardsGame.dll
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\05-List\05.ListEx\06.CardsGame\bin\Debug\net8.0\06.CardsGame.pdb
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\05-List\05.ListEx\06.CardsGame\obj\Debug\net8.0\06.CardsGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\05-List\05.ListEx\06.CardsGame\obj\Debug\net8.0\06.CardsGame.AssemblyInfoInputs.cache
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\05-List\05.ListEx\06.CardsGame\obj\Debug\net8.0\06.CardsGame.AssemblyInfo.cs
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\05-List\05.ListEx\06.CardsGame\obj\Debug\net8.0\06.CardsGame.csproj.CoreCompileInputs.cache
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\05-List\05.ListEx\06.CardsGame\obj\Debug\net8.0\06.CardsGame.dll
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\05-List\05.ListEx\06.CardsGame\obj\Debug\net8.0\refint\06.CardsGame.dll
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\05-List\05.ListEx\06.CardsGame\obj\Debug\net8.0\06.CardsGame.pdb
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\05-List\05.ListEx\06.CardsGame\obj\Debug\net8.0\06.CardsGame.genruntimeconfig.cache
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\05-List\05.ListEx\06.CardsGame\obj\Debug\net8.0\ref\06.CardsGame.dll

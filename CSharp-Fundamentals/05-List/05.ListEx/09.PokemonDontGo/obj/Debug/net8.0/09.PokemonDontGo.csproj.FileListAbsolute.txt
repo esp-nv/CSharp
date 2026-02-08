@@ -1,0 +1,14 @@
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\05-List\05.ListEx\09.PokemonDontGo\bin\Debug\net8.0\09.PokemonDontGo.exe
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\05-List\05.ListEx\09.PokemonDontGo\bin\Debug\net8.0\09.PokemonDontGo.deps.json
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\05-List\05.ListEx\09.PokemonDontGo\bin\Debug\net8.0\09.PokemonDontGo.runtimeconfig.json
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\05-List\05.ListEx\09.PokemonDontGo\bin\Debug\net8.0\09.PokemonDontGo.dll
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\05-List\05.ListEx\09.PokemonDontGo\bin\Debug\net8.0\09.PokemonDontGo.pdb
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\05-List\05.ListEx\09.PokemonDontGo\obj\Debug\net8.0\09.PokemonDontGo.GeneratedMSBuildEditorConfig.editorconfig
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\05-List\05.ListEx\09.PokemonDontGo\obj\Debug\net8.0\09.PokemonDontGo.AssemblyInfoInputs.cache
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\05-List\05.ListEx\09.PokemonDontGo\obj\Debug\net8.0\09.PokemonDontGo.AssemblyInfo.cs
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\05-List\05.ListEx\09.PokemonDontGo\obj\Debug\net8.0\09.PokemonDontGo.csproj.CoreCompileInputs.cache
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\05-List\05.ListEx\09.PokemonDontGo\obj\Debug\net8.0\09.PokemonDontGo.dll
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\05-List\05.ListEx\09.PokemonDontGo\obj\Debug\net8.0\refint\09.PokemonDontGo.dll
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\05-List\05.ListEx\09.PokemonDontGo\obj\Debug\net8.0\09.PokemonDontGo.pdb
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\05-List\05.ListEx\09.PokemonDontGo\obj\Debug\net8.0\09.PokemonDontGo.genruntimeconfig.cache
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\05-List\05.ListEx\09.PokemonDontGo\obj\Debug\net8.0\ref\09.PokemonDontGo.dll

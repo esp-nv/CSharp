@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\nv\\SoftUni\\CSharp\\C# Fundamentals\\Project-May-2025\\08-TextProcessing\\08.TextProcessingMore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{156121D5-25E6-4038-A44B-3519F916E12B}|05.HTML\\05.HTML.csproj|d:\\nv\\softuni\\csharp\\c# fundamentals\\project-may-2025\\08-textprocessing\\08.textprocessingmore\\05.html\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{156121D5-25E6-4038-A44B-3519F916E12B}|05.HTML\\05.HTML.csproj|solutionrelative:05.html\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2949E599-657B-4455-A433-104DAF8311C0}|04.MorseCodeTranslator\\04.MorseCodeTranslator.csproj|d:\\nv\\softuni\\csharp\\c# fundamentals\\project-may-2025\\08-textprocessing\\08.textprocessingmore\\04.morsecodetranslator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2949E599-657B-4455-A433-104DAF8311C0}|04.MorseCodeTranslator\\04.MorseCodeTranslator.csproj|solutionrelative:04.morsecodetranslator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0740F851-C000-4305-A527-D3138D64337E}|03.TreasureFinder\\03.TreasureFinder.csproj|d:\\nv\\softuni\\csharp\\c# fundamentals\\project-may-2025\\08-textprocessing\\08.textprocessingmore\\03.treasurefinder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0740F851-C000-4305-A527-D3138D64337E}|03.TreasureFinder\\03.TreasureFinder.csproj|solutionrelative:03.treasurefinder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCEB17E0-D72E-47B6-B0F4-2597D4F243E0}|00.LongestPalindromeSub-List\\00.LongestPalindromeSub-List.csproj|d:\\nv\\softuni\\csharp\\c# fundamentals\\project-may-2025\\08-textprocessing\\08.textprocessingmore\\00.longestpalindromesub-list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCEB17E0-D72E-47B6-B0F4-2597D4F243E0}|00.LongestPalindromeSub-List\\00.LongestPalindromeSub-List.csproj|solutionrelative:00.longestpalindromesub-list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCEB17E0-D72E-47B6-B0F4-2597D4F243E0}|00.LongestPalindromeSub-List\\00.LongestPalindromeSub-List.csproj|d:\\nv\\softuni\\csharp\\c# fundamentals\\project-may-2025\\08-textprocessing\\08.textprocessingmore\\00.longestpalindromesub-list\\00.longestpalindromesub-list.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DCEB17E0-D72E-47B6-B0F4-2597D4F243E0}|00.LongestPalindromeSub-List\\00.LongestPalindromeSub-List.csproj|solutionrelative:00.longestpalindromesub-list\\00.longestpalindromesub-list.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3112F384-5526-474C-89D2-B44798F37D73}|02.AsciiSumator\\02.AsciiSumator.csproj|d:\\nv\\softuni\\csharp\\c# fundamentals\\project-may-2025\\08-textprocessing\\08.textprocessingmore\\02.asciisumator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3112F384-5526-474C-89D2-B44798F37D73}|02.AsciiSumator\\02.AsciiSumator.csproj|solutionrelative:02.asciisumator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C56ED0AD-2D76-414A-860A-C88AE5F2977E}|01.ExtractPersonInformation\\01.ExtractPersonInformation.csproj|d:\\nv\\softuni\\csharp\\c# fundamentals\\project-may-2025\\08-textprocessing\\08.textprocessingmore\\01.extractpersoninformation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C56ED0AD-2D76-414A-860A-C88AE5F2977E}|01.ExtractPersonInformation\\01.ExtractPersonInformation.csproj|solutionrelative:01.extractpersoninformation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\nv\\SoftUni\\CSharp\\C# Fundamentals\\Project-May-2025\\08-TextProcessing\\08.TextProcessingMore\\05.HTML\\Program.cs",
+              "RelativeDocumentMoniker": "05.HTML\\Program.cs",
+              "ToolTip": "D:\\nv\\SoftUni\\CSharp\\C# Fundamentals\\Project-May-2025\\08-TextProcessing\\08.TextProcessingMore\\05.HTML\\Program.cs",
+              "RelativeToolTip": "05.HTML\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAcwA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T17:24:57.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\nv\\SoftUni\\CSharp\\C# Fundamentals\\Project-May-2025\\08-TextProcessing\\08.TextProcessingMore\\04.MorseCodeTranslator\\Program.cs",
+              "RelativeDocumentMoniker": "04.MorseCodeTranslator\\Program.cs",
+              "ToolTip": "D:\\nv\\SoftUni\\CSharp\\C# Fundamentals\\Project-May-2025\\08-TextProcessing\\08.TextProcessingMore\\04.MorseCodeTranslator\\Program.cs",
+              "RelativeToolTip": "04.MorseCodeTranslator\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAwwCwAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T17:14:05.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "00.LongestPalindromeSub-List.csproj",
+              "DocumentMoniker": "D:\\nv\\SoftUni\\CSharp\\C# Fundamentals\\Project-May-2025\\08-TextProcessing\\08.TextProcessingMore\\00.LongestPalindromeSub-List\\00.LongestPalindromeSub-List.csproj",
+              "RelativeDocumentMoniker": "00.LongestPalindromeSub-List\\00.LongestPalindromeSub-List.csproj",
+              "ToolTip": "D:\\nv\\SoftUni\\CSharp\\C# Fundamentals\\Project-May-2025\\08-TextProcessing\\08.TextProcessingMore\\00.LongestPalindromeSub-List\\00.LongestPalindromeSub-List.csproj",
+              "RelativeToolTip": "00.LongestPalindromeSub-List\\00.LongestPalindromeSub-List.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-21T07:34:57.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\nv\\SoftUni\\CSharp\\C# Fundamentals\\Project-May-2025\\08-TextProcessing\\08.TextProcessingMore\\00.LongestPalindromeSub-List\\Program.cs",
+              "RelativeDocumentMoniker": "00.LongestPalindromeSub-List\\Program.cs",
+              "ToolTip": "D:\\nv\\SoftUni\\CSharp\\C# Fundamentals\\Project-May-2025\\08-TextProcessing\\08.TextProcessingMore\\00.LongestPalindromeSub-List\\Program.cs",
+              "RelativeToolTip": "00.LongestPalindromeSub-List\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAcwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T07:34:14.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\nv\\SoftUni\\CSharp\\C# Fundamentals\\Project-May-2025\\08-TextProcessing\\08.TextProcessingMore\\03.TreasureFinder\\Program.cs",
+              "RelativeDocumentMoniker": "03.TreasureFinder\\Program.cs",
+              "ToolTip": "D:\\nv\\SoftUni\\CSharp\\C# Fundamentals\\Project-May-2025\\08-TextProcessing\\08.TextProcessingMore\\03.TreasureFinder\\Program.cs",
+              "RelativeToolTip": "03.TreasureFinder\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAwwCMAAABvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T19:27:11.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\nv\\SoftUni\\CSharp\\C# Fundamentals\\Project-May-2025\\08-TextProcessing\\08.TextProcessingMore\\02.AsciiSumator\\Program.cs",
+              "RelativeDocumentMoniker": "02.AsciiSumator\\Program.cs",
+              "ToolTip": "D:\\nv\\SoftUni\\CSharp\\C# Fundamentals\\Project-May-2025\\08-TextProcessing\\08.TextProcessingMore\\02.AsciiSumator\\Program.cs",
+              "RelativeToolTip": "02.AsciiSumator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T19:14:20.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\nv\\SoftUni\\CSharp\\C# Fundamentals\\Project-May-2025\\08-TextProcessing\\08.TextProcessingMore\\01.ExtractPersonInformation\\Program.cs",
+              "RelativeDocumentMoniker": "01.ExtractPersonInformation\\Program.cs",
+              "ToolTip": "D:\\nv\\SoftUni\\CSharp\\C# Fundamentals\\Project-May-2025\\08-TextProcessing\\08.TextProcessingMore\\01.ExtractPersonInformation\\Program.cs",
+              "RelativeToolTip": "01.ExtractPersonInformation\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAwwCcAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T18:27:59.367Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

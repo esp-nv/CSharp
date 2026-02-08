@@ -1,0 +1,14 @@
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\05-List\05.ListsLab\01.SumAdjacentEqualNumbers\bin\Debug\net8.0\01.SumAdjacentEqualNumbers.exe
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\05-List\05.ListsLab\01.SumAdjacentEqualNumbers\bin\Debug\net8.0\01.SumAdjacentEqualNumbers.deps.json
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\05-List\05.ListsLab\01.SumAdjacentEqualNumbers\bin\Debug\net8.0\01.SumAdjacentEqualNumbers.runtimeconfig.json
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\05-List\05.ListsLab\01.SumAdjacentEqualNumbers\bin\Debug\net8.0\01.SumAdjacentEqualNumbers.dll
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\05-List\05.ListsLab\01.SumAdjacentEqualNumbers\bin\Debug\net8.0\01.SumAdjacentEqualNumbers.pdb
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\05-List\05.ListsLab\01.SumAdjacentEqualNumbers\obj\Debug\net8.0\01.SumAdjacentEqualNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\05-List\05.ListsLab\01.SumAdjacentEqualNumbers\obj\Debug\net8.0\01.SumAdjacentEqualNumbers.AssemblyInfoInputs.cache
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\05-List\05.ListsLab\01.SumAdjacentEqualNumbers\obj\Debug\net8.0\01.SumAdjacentEqualNumbers.AssemblyInfo.cs
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\05-List\05.ListsLab\01.SumAdjacentEqualNumbers\obj\Debug\net8.0\01.SumAdjacentEqualNumbers.csproj.CoreCompileInputs.cache
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\05-List\05.ListsLab\01.SumAdjacentEqualNumbers\obj\Debug\net8.0\01.SumAdjacentEqualNumbers.dll
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\05-List\05.ListsLab\01.SumAdjacentEqualNumbers\obj\Debug\net8.0\refint\01.SumAdjacentEqualNumbers.dll
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\05-List\05.ListsLab\01.SumAdjacentEqualNumbers\obj\Debug\net8.0\01.SumAdjacentEqualNumbers.pdb
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\05-List\05.ListsLab\01.SumAdjacentEqualNumbers\obj\Debug\net8.0\01.SumAdjacentEqualNumbers.genruntimeconfig.cache
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\05-List\05.ListsLab\01.SumAdjacentEqualNumbers\obj\Debug\net8.0\ref\01.SumAdjacentEqualNumbers.dll

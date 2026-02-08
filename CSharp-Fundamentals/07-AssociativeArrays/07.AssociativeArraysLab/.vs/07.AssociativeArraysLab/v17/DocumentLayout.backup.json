@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\nv\\SoftUni\\CSharp\\C# Fundamentals\\Project-May-2025\\07-AssociativeArrays\\07.AssociativeArraysLab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF9A7222-F1C4-4836-B189-BF092F84C1AE}|04.WordFilter\\04.WordFilter.csproj|d:\\nv\\softuni\\csharp\\c# fundamentals\\project-may-2025\\07-associativearrays\\07.associativearrayslab\\04.wordfilter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF9A7222-F1C4-4836-B189-BF092F84C1AE}|04.WordFilter\\04.WordFilter.csproj|solutionrelative:04.wordfilter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A2B5248-024E-4EF4-A838-BEF63C9B43BC}|03.WordSynonyms\\03.WordSynonyms.csproj|d:\\nv\\softuni\\csharp\\c# fundamentals\\project-may-2025\\07-associativearrays\\07.associativearrayslab\\03.wordsynonyms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A2B5248-024E-4EF4-A838-BEF63C9B43BC}|03.WordSynonyms\\03.WordSynonyms.csproj|solutionrelative:03.wordsynonyms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27BF6AF9-63D2-400C-9B9F-C28634A14EFE}|02.OddOccurrences\\02.OddOccurrences.csproj|d:\\nv\\softuni\\csharp\\c# fundamentals\\project-may-2025\\07-associativearrays\\07.associativearrayslab\\02.oddoccurrences\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27BF6AF9-63D2-400C-9B9F-C28634A14EFE}|02.OddOccurrences\\02.OddOccurrences.csproj|solutionrelative:02.oddoccurrences\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F597C263-95E9-4361-BCA7-CAA14F00ABFB}|01.CountRealNumbers\\01.CountRealNumbers.csproj|d:\\nv\\softuni\\csharp\\c# fundamentals\\project-may-2025\\07-associativearrays\\07.associativearrayslab\\01.countrealnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F597C263-95E9-4361-BCA7-CAA14F00ABFB}|01.CountRealNumbers\\01.CountRealNumbers.csproj|solutionrelative:01.countrealnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\nv\\SoftUni\\CSharp\\C# Fundamentals\\Project-May-2025\\07-AssociativeArrays\\07.AssociativeArraysLab\\04.WordFilter\\Program.cs",
+              "RelativeDocumentMoniker": "04.WordFilter\\Program.cs",
+              "ToolTip": "D:\\nv\\SoftUni\\CSharp\\C# Fundamentals\\Project-May-2025\\07-AssociativeArrays\\07.AssociativeArraysLab\\04.WordFilter\\Program.cs",
+              "RelativeToolTip": "04.WordFilter\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T16:51:05.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\nv\\SoftUni\\CSharp\\C# Fundamentals\\Project-May-2025\\07-AssociativeArrays\\07.AssociativeArraysLab\\03.WordSynonyms\\Program.cs",
+              "RelativeDocumentMoniker": "03.WordSynonyms\\Program.cs",
+              "ToolTip": "D:\\nv\\SoftUni\\CSharp\\C# Fundamentals\\Project-May-2025\\07-AssociativeArrays\\07.AssociativeArraysLab\\03.WordSynonyms\\Program.cs",
+              "RelativeToolTip": "03.WordSynonyms\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T16:42:07.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\nv\\SoftUni\\CSharp\\C# Fundamentals\\Project-May-2025\\07-AssociativeArrays\\07.AssociativeArraysLab\\02.OddOccurrences\\Program.cs",
+              "RelativeDocumentMoniker": "02.OddOccurrences\\Program.cs",
+              "ToolTip": "D:\\nv\\SoftUni\\CSharp\\C# Fundamentals\\Project-May-2025\\07-AssociativeArrays\\07.AssociativeArraysLab\\02.OddOccurrences\\Program.cs",
+              "RelativeToolTip": "02.OddOccurrences\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwBYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T16:36:11.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\nv\\SoftUni\\CSharp\\C# Fundamentals\\Project-May-2025\\07-AssociativeArrays\\07.AssociativeArraysLab\\01.CountRealNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "01.CountRealNumbers\\Program.cs",
+              "ToolTip": "D:\\nv\\SoftUni\\CSharp\\C# Fundamentals\\Project-May-2025\\07-AssociativeArrays\\07.AssociativeArraysLab\\01.CountRealNumbers\\Program.cs",
+              "RelativeToolTip": "01.CountRealNumbers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T16:13:07.722Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

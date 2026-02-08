@@ -1,0 +1,14 @@
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\08-TextProcessing\08.TextProcessingLab\04.TextFilter\bin\Debug\net8.0\04.TextFilter.exe
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\08-TextProcessing\08.TextProcessingLab\04.TextFilter\bin\Debug\net8.0\04.TextFilter.deps.json
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\08-TextProcessing\08.TextProcessingLab\04.TextFilter\bin\Debug\net8.0\04.TextFilter.runtimeconfig.json
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\08-TextProcessing\08.TextProcessingLab\04.TextFilter\bin\Debug\net8.0\04.TextFilter.dll
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\08-TextProcessing\08.TextProcessingLab\04.TextFilter\bin\Debug\net8.0\04.TextFilter.pdb
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\08-TextProcessing\08.TextProcessingLab\04.TextFilter\obj\Debug\net8.0\04.TextFilter.GeneratedMSBuildEditorConfig.editorconfig
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\08-TextProcessing\08.TextProcessingLab\04.TextFilter\obj\Debug\net8.0\04.TextFilter.AssemblyInfoInputs.cache
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\08-TextProcessing\08.TextProcessingLab\04.TextFilter\obj\Debug\net8.0\04.TextFilter.AssemblyInfo.cs
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\08-TextProcessing\08.TextProcessingLab\04.TextFilter\obj\Debug\net8.0\04.TextFilter.csproj.CoreCompileInputs.cache
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\08-TextProcessing\08.TextProcessingLab\04.TextFilter\obj\Debug\net8.0\04.TextFilter.dll
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\08-TextProcessing\08.TextProcessingLab\04.TextFilter\obj\Debug\net8.0\refint\04.TextFilter.dll
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\08-TextProcessing\08.TextProcessingLab\04.TextFilter\obj\Debug\net8.0\04.TextFilter.pdb
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\08-TextProcessing\08.TextProcessingLab\04.TextFilter\obj\Debug\net8.0\04.TextFilter.genruntimeconfig.cache
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\08-TextProcessing\08.TextProcessingLab\04.TextFilter\obj\Debug\net8.0\ref\04.TextFilter.dll

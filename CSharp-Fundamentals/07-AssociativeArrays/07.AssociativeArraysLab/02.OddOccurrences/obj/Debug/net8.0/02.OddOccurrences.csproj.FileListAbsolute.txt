@@ -1,0 +1,14 @@
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\07-AssociativeArrays\07.AssociativeArraysLab\02.OddOccurrences\bin\Debug\net8.0\02.OddOccurrences.exe
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\07-AssociativeArrays\07.AssociativeArraysLab\02.OddOccurrences\bin\Debug\net8.0\02.OddOccurrences.deps.json
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\07-AssociativeArrays\07.AssociativeArraysLab\02.OddOccurrences\bin\Debug\net8.0\02.OddOccurrences.runtimeconfig.json
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\07-AssociativeArrays\07.AssociativeArraysLab\02.OddOccurrences\bin\Debug\net8.0\02.OddOccurrences.dll
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\07-AssociativeArrays\07.AssociativeArraysLab\02.OddOccurrences\bin\Debug\net8.0\02.OddOccurrences.pdb
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\07-AssociativeArrays\07.AssociativeArraysLab\02.OddOccurrences\obj\Debug\net8.0\02.OddOccurrences.GeneratedMSBuildEditorConfig.editorconfig
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\07-AssociativeArrays\07.AssociativeArraysLab\02.OddOccurrences\obj\Debug\net8.0\02.OddOccurrences.AssemblyInfoInputs.cache
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\07-AssociativeArrays\07.AssociativeArraysLab\02.OddOccurrences\obj\Debug\net8.0\02.OddOccurrences.AssemblyInfo.cs
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\07-AssociativeArrays\07.AssociativeArraysLab\02.OddOccurrences\obj\Debug\net8.0\02.OddOccurrences.csproj.CoreCompileInputs.cache
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\07-AssociativeArrays\07.AssociativeArraysLab\02.OddOccurrences\obj\Debug\net8.0\02.OddOccurrences.dll
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\07-AssociativeArrays\07.AssociativeArraysLab\02.OddOccurrences\obj\Debug\net8.0\refint\02.OddOccurrences.dll
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\07-AssociativeArrays\07.AssociativeArraysLab\02.OddOccurrences\obj\Debug\net8.0\02.OddOccurrences.pdb
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\07-AssociativeArrays\07.AssociativeArraysLab\02.OddOccurrences\obj\Debug\net8.0\02.OddOccurrences.genruntimeconfig.cache
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\07-AssociativeArrays\07.AssociativeArraysLab\02.OddOccurrences\obj\Debug\net8.0\ref\02.OddOccurrences.dll

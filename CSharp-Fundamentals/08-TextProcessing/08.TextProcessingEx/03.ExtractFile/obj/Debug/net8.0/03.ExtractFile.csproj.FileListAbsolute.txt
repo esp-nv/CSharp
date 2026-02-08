@@ -1,0 +1,14 @@
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\08-TextProcessing\08.TextProcessing\03.ExtractFile\bin\Debug\net8.0\03.ExtractFile.exe
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\08-TextProcessing\08.TextProcessing\03.ExtractFile\bin\Debug\net8.0\03.ExtractFile.deps.json
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\08-TextProcessing\08.TextProcessing\03.ExtractFile\bin\Debug\net8.0\03.ExtractFile.runtimeconfig.json
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\08-TextProcessing\08.TextProcessing\03.ExtractFile\bin\Debug\net8.0\03.ExtractFile.dll
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\08-TextProcessing\08.TextProcessing\03.ExtractFile\bin\Debug\net8.0\03.ExtractFile.pdb
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\08-TextProcessing\08.TextProcessing\03.ExtractFile\obj\Debug\net8.0\03.ExtractFile.GeneratedMSBuildEditorConfig.editorconfig
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\08-TextProcessing\08.TextProcessing\03.ExtractFile\obj\Debug\net8.0\03.ExtractFile.AssemblyInfoInputs.cache
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\08-TextProcessing\08.TextProcessing\03.ExtractFile\obj\Debug\net8.0\03.ExtractFile.AssemblyInfo.cs
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\08-TextProcessing\08.TextProcessing\03.ExtractFile\obj\Debug\net8.0\03.ExtractFile.csproj.CoreCompileInputs.cache
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\08-TextProcessing\08.TextProcessing\03.ExtractFile\obj\Debug\net8.0\03.ExtractFile.dll
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\08-TextProcessing\08.TextProcessing\03.ExtractFile\obj\Debug\net8.0\refint\03.ExtractFile.dll
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\08-TextProcessing\08.TextProcessing\03.ExtractFile\obj\Debug\net8.0\03.ExtractFile.pdb
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\08-TextProcessing\08.TextProcessing\03.ExtractFile\obj\Debug\net8.0\03.ExtractFile.genruntimeconfig.cache
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\08-TextProcessing\08.TextProcessing\03.ExtractFile\obj\Debug\net8.0\ref\03.ExtractFile.dll

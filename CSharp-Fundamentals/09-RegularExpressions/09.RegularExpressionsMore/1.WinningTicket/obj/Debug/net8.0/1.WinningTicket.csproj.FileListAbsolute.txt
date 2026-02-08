@@ -1,0 +1,14 @@
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\09-RegularExpressions\09.RegularExpressionsMore\1.WinningTicket\bin\Debug\net8.0\1.WinningTicket.exe
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\09-RegularExpressions\09.RegularExpressionsMore\1.WinningTicket\bin\Debug\net8.0\1.WinningTicket.deps.json
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\09-RegularExpressions\09.RegularExpressionsMore\1.WinningTicket\bin\Debug\net8.0\1.WinningTicket.runtimeconfig.json
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\09-RegularExpressions\09.RegularExpressionsMore\1.WinningTicket\bin\Debug\net8.0\1.WinningTicket.dll
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\09-RegularExpressions\09.RegularExpressionsMore\1.WinningTicket\bin\Debug\net8.0\1.WinningTicket.pdb
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\09-RegularExpressions\09.RegularExpressionsMore\1.WinningTicket\obj\Debug\net8.0\1.WinningTicket.GeneratedMSBuildEditorConfig.editorconfig
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\09-RegularExpressions\09.RegularExpressionsMore\1.WinningTicket\obj\Debug\net8.0\1.WinningTicket.AssemblyInfoInputs.cache
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\09-RegularExpressions\09.RegularExpressionsMore\1.WinningTicket\obj\Debug\net8.0\1.WinningTicket.AssemblyInfo.cs
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\09-RegularExpressions\09.RegularExpressionsMore\1.WinningTicket\obj\Debug\net8.0\1.WinningTicket.csproj.CoreCompileInputs.cache
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\09-RegularExpressions\09.RegularExpressionsMore\1.WinningTicket\obj\Debug\net8.0\1.WinningTicket.dll
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\09-RegularExpressions\09.RegularExpressionsMore\1.WinningTicket\obj\Debug\net8.0\refint\1.WinningTicket.dll
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\09-RegularExpressions\09.RegularExpressionsMore\1.WinningTicket\obj\Debug\net8.0\1.WinningTicket.pdb
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\09-RegularExpressions\09.RegularExpressionsMore\1.WinningTicket\obj\Debug\net8.0\1.WinningTicket.genruntimeconfig.cache
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\09-RegularExpressions\09.RegularExpressionsMore\1.WinningTicket\obj\Debug\net8.0\ref\1.WinningTicket.dll

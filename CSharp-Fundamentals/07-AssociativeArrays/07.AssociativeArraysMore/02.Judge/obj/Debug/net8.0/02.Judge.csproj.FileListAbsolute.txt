@@ -1,0 +1,14 @@
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\07-AssociativeArrays\07.AssociativeArraysMore\02.Judge\bin\Debug\net8.0\02.Judge.exe
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\07-AssociativeArrays\07.AssociativeArraysMore\02.Judge\bin\Debug\net8.0\02.Judge.deps.json
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\07-AssociativeArrays\07.AssociativeArraysMore\02.Judge\bin\Debug\net8.0\02.Judge.runtimeconfig.json
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\07-AssociativeArrays\07.AssociativeArraysMore\02.Judge\bin\Debug\net8.0\02.Judge.dll
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\07-AssociativeArrays\07.AssociativeArraysMore\02.Judge\bin\Debug\net8.0\02.Judge.pdb
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\07-AssociativeArrays\07.AssociativeArraysMore\02.Judge\obj\Debug\net8.0\02.Judge.GeneratedMSBuildEditorConfig.editorconfig
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\07-AssociativeArrays\07.AssociativeArraysMore\02.Judge\obj\Debug\net8.0\02.Judge.AssemblyInfoInputs.cache
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\07-AssociativeArrays\07.AssociativeArraysMore\02.Judge\obj\Debug\net8.0\02.Judge.AssemblyInfo.cs
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\07-AssociativeArrays\07.AssociativeArraysMore\02.Judge\obj\Debug\net8.0\02.Judge.csproj.CoreCompileInputs.cache
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\07-AssociativeArrays\07.AssociativeArraysMore\02.Judge\obj\Debug\net8.0\02.Judge.dll
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\07-AssociativeArrays\07.AssociativeArraysMore\02.Judge\obj\Debug\net8.0\refint\02.Judge.dll
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\07-AssociativeArrays\07.AssociativeArraysMore\02.Judge\obj\Debug\net8.0\02.Judge.pdb
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\07-AssociativeArrays\07.AssociativeArraysMore\02.Judge\obj\Debug\net8.0\02.Judge.genruntimeconfig.cache
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\07-AssociativeArrays\07.AssociativeArraysMore\02.Judge\obj\Debug\net8.0\ref\02.Judge.dll

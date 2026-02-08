@@ -1,0 +1,14 @@
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\06-ObjectsAndClasses\06.ObjectsAndClassesEx\02.Articles\bin\Debug\net8.0\02.Articles.exe
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\06-ObjectsAndClasses\06.ObjectsAndClassesEx\02.Articles\bin\Debug\net8.0\02.Articles.deps.json
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\06-ObjectsAndClasses\06.ObjectsAndClassesEx\02.Articles\bin\Debug\net8.0\02.Articles.runtimeconfig.json
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\06-ObjectsAndClasses\06.ObjectsAndClassesEx\02.Articles\bin\Debug\net8.0\02.Articles.dll
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\06-ObjectsAndClasses\06.ObjectsAndClassesEx\02.Articles\bin\Debug\net8.0\02.Articles.pdb
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\06-ObjectsAndClasses\06.ObjectsAndClassesEx\02.Articles\obj\Debug\net8.0\02.Articles.GeneratedMSBuildEditorConfig.editorconfig
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\06-ObjectsAndClasses\06.ObjectsAndClassesEx\02.Articles\obj\Debug\net8.0\02.Articles.AssemblyInfoInputs.cache
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\06-ObjectsAndClasses\06.ObjectsAndClassesEx\02.Articles\obj\Debug\net8.0\02.Articles.AssemblyInfo.cs
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\06-ObjectsAndClasses\06.ObjectsAndClassesEx\02.Articles\obj\Debug\net8.0\02.Articles.csproj.CoreCompileInputs.cache
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\06-ObjectsAndClasses\06.ObjectsAndClassesEx\02.Articles\obj\Debug\net8.0\02.Articles.dll
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\06-ObjectsAndClasses\06.ObjectsAndClassesEx\02.Articles\obj\Debug\net8.0\refint\02.Articles.dll
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\06-ObjectsAndClasses\06.ObjectsAndClassesEx\02.Articles\obj\Debug\net8.0\02.Articles.pdb
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\06-ObjectsAndClasses\06.ObjectsAndClassesEx\02.Articles\obj\Debug\net8.0\02.Articles.genruntimeconfig.cache
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\06-ObjectsAndClasses\06.ObjectsAndClassesEx\02.Articles\obj\Debug\net8.0\ref\02.Articles.dll

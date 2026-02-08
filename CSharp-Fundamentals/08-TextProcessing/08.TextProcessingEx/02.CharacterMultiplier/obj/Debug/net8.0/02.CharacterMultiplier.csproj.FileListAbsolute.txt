@@ -1,0 +1,14 @@
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\08-TextProcessing\08.TextProcessing\02.CharacterMultiplier\bin\Debug\net8.0\02.CharacterMultiplier.exe
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\08-TextProcessing\08.TextProcessing\02.CharacterMultiplier\bin\Debug\net8.0\02.CharacterMultiplier.deps.json
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\08-TextProcessing\08.TextProcessing\02.CharacterMultiplier\bin\Debug\net8.0\02.CharacterMultiplier.runtimeconfig.json
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\08-TextProcessing\08.TextProcessing\02.CharacterMultiplier\bin\Debug\net8.0\02.CharacterMultiplier.dll
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\08-TextProcessing\08.TextProcessing\02.CharacterMultiplier\bin\Debug\net8.0\02.CharacterMultiplier.pdb
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\08-TextProcessing\08.TextProcessing\02.CharacterMultiplier\obj\Debug\net8.0\02.CharacterMultiplier.GeneratedMSBuildEditorConfig.editorconfig
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\08-TextProcessing\08.TextProcessing\02.CharacterMultiplier\obj\Debug\net8.0\02.CharacterMultiplier.AssemblyInfoInputs.cache
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\08-TextProcessing\08.TextProcessing\02.CharacterMultiplier\obj\Debug\net8.0\02.CharacterMultiplier.AssemblyInfo.cs
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\08-TextProcessing\08.TextProcessing\02.CharacterMultiplier\obj\Debug\net8.0\02.CharacterMultiplier.csproj.CoreCompileInputs.cache
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\08-TextProcessing\08.TextProcessing\02.CharacterMultiplier\obj\Debug\net8.0\02.CharacterMultiplier.dll
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\08-TextProcessing\08.TextProcessing\02.CharacterMultiplier\obj\Debug\net8.0\refint\02.CharacterMultiplier.dll
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\08-TextProcessing\08.TextProcessing\02.CharacterMultiplier\obj\Debug\net8.0\02.CharacterMultiplier.pdb
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\08-TextProcessing\08.TextProcessing\02.CharacterMultiplier\obj\Debug\net8.0\02.CharacterMultiplier.genruntimeconfig.cache
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\08-TextProcessing\08.TextProcessing\02.CharacterMultiplier\obj\Debug\net8.0\ref\02.CharacterMultiplier.dll

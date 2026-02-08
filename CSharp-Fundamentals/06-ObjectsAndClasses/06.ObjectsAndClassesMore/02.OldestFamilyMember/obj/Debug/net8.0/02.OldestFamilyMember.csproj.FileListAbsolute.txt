@@ -1,0 +1,14 @@
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\06-ObjectsAndClasses\06.ObjectsAndClassesMore\02.OldestFamilyMember\bin\Debug\net8.0\02.OldestFamilyMember.exe
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\06-ObjectsAndClasses\06.ObjectsAndClassesMore\02.OldestFamilyMember\bin\Debug\net8.0\02.OldestFamilyMember.deps.json
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\06-ObjectsAndClasses\06.ObjectsAndClassesMore\02.OldestFamilyMember\bin\Debug\net8.0\02.OldestFamilyMember.runtimeconfig.json
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\06-ObjectsAndClasses\06.ObjectsAndClassesMore\02.OldestFamilyMember\bin\Debug\net8.0\02.OldestFamilyMember.dll
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\06-ObjectsAndClasses\06.ObjectsAndClassesMore\02.OldestFamilyMember\bin\Debug\net8.0\02.OldestFamilyMember.pdb
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\06-ObjectsAndClasses\06.ObjectsAndClassesMore\02.OldestFamilyMember\obj\Debug\net8.0\02.OldestFamilyMember.GeneratedMSBuildEditorConfig.editorconfig
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\06-ObjectsAndClasses\06.ObjectsAndClassesMore\02.OldestFamilyMember\obj\Debug\net8.0\02.OldestFamilyMember.AssemblyInfoInputs.cache
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\06-ObjectsAndClasses\06.ObjectsAndClassesMore\02.OldestFamilyMember\obj\Debug\net8.0\02.OldestFamilyMember.AssemblyInfo.cs
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\06-ObjectsAndClasses\06.ObjectsAndClassesMore\02.OldestFamilyMember\obj\Debug\net8.0\02.OldestFamilyMember.csproj.CoreCompileInputs.cache
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\06-ObjectsAndClasses\06.ObjectsAndClassesMore\02.OldestFamilyMember\obj\Debug\net8.0\02.OldestFamilyMember.dll
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\06-ObjectsAndClasses\06.ObjectsAndClassesMore\02.OldestFamilyMember\obj\Debug\net8.0\refint\02.OldestFamilyMember.dll
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\06-ObjectsAndClasses\06.ObjectsAndClassesMore\02.OldestFamilyMember\obj\Debug\net8.0\02.OldestFamilyMember.pdb
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\06-ObjectsAndClasses\06.ObjectsAndClassesMore\02.OldestFamilyMember\obj\Debug\net8.0\02.OldestFamilyMember.genruntimeconfig.cache
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\06-ObjectsAndClasses\06.ObjectsAndClassesMore\02.OldestFamilyMember\obj\Debug\net8.0\ref\02.OldestFamilyMember.dll

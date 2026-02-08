@@ -1,0 +1,14 @@
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\06-ObjectsAndClasses\06.ObjectsAndClassesEx\06.VehicleCatalogue\bin\Debug\net8.0\06.VehicleCatalogue.exe
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\06-ObjectsAndClasses\06.ObjectsAndClassesEx\06.VehicleCatalogue\bin\Debug\net8.0\06.VehicleCatalogue.deps.json
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\06-ObjectsAndClasses\06.ObjectsAndClassesEx\06.VehicleCatalogue\bin\Debug\net8.0\06.VehicleCatalogue.runtimeconfig.json
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\06-ObjectsAndClasses\06.ObjectsAndClassesEx\06.VehicleCatalogue\bin\Debug\net8.0\06.VehicleCatalogue.dll
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\06-ObjectsAndClasses\06.ObjectsAndClassesEx\06.VehicleCatalogue\bin\Debug\net8.0\06.VehicleCatalogue.pdb
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\06-ObjectsAndClasses\06.ObjectsAndClassesEx\06.VehicleCatalogue\obj\Debug\net8.0\06.VehicleCatalogue.GeneratedMSBuildEditorConfig.editorconfig
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\06-ObjectsAndClasses\06.ObjectsAndClassesEx\06.VehicleCatalogue\obj\Debug\net8.0\06.VehicleCatalogue.AssemblyInfoInputs.cache
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\06-ObjectsAndClasses\06.ObjectsAndClassesEx\06.VehicleCatalogue\obj\Debug\net8.0\06.VehicleCatalogue.AssemblyInfo.cs
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\06-ObjectsAndClasses\06.ObjectsAndClassesEx\06.VehicleCatalogue\obj\Debug\net8.0\06.VehicleCatalogue.csproj.CoreCompileInputs.cache
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\06-ObjectsAndClasses\06.ObjectsAndClassesEx\06.VehicleCatalogue\obj\Debug\net8.0\06.VehicleCatalogue.dll
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\06-ObjectsAndClasses\06.ObjectsAndClassesEx\06.VehicleCatalogue\obj\Debug\net8.0\refint\06.VehicleCatalogue.dll
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\06-ObjectsAndClasses\06.ObjectsAndClassesEx\06.VehicleCatalogue\obj\Debug\net8.0\06.VehicleCatalogue.pdb
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\06-ObjectsAndClasses\06.ObjectsAndClassesEx\06.VehicleCatalogue\obj\Debug\net8.0\06.VehicleCatalogue.genruntimeconfig.cache
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\06-ObjectsAndClasses\06.ObjectsAndClassesEx\06.VehicleCatalogue\obj\Debug\net8.0\ref\06.VehicleCatalogue.dll

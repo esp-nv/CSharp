@@ -1,0 +1,14 @@
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\05-List\05.ListMore\01.Messaging\bin\Debug\net8.0\01.Messaging.exe
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\05-List\05.ListMore\01.Messaging\bin\Debug\net8.0\01.Messaging.deps.json
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\05-List\05.ListMore\01.Messaging\bin\Debug\net8.0\01.Messaging.runtimeconfig.json
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\05-List\05.ListMore\01.Messaging\bin\Debug\net8.0\01.Messaging.dll
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\05-List\05.ListMore\01.Messaging\bin\Debug\net8.0\01.Messaging.pdb
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\05-List\05.ListMore\01.Messaging\obj\Debug\net8.0\01.Messaging.GeneratedMSBuildEditorConfig.editorconfig
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\05-List\05.ListMore\01.Messaging\obj\Debug\net8.0\01.Messaging.AssemblyInfoInputs.cache
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\05-List\05.ListMore\01.Messaging\obj\Debug\net8.0\01.Messaging.AssemblyInfo.cs
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\05-List\05.ListMore\01.Messaging\obj\Debug\net8.0\01.Messaging.csproj.CoreCompileInputs.cache
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\05-List\05.ListMore\01.Messaging\obj\Debug\net8.0\01.Messaging.dll
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\05-List\05.ListMore\01.Messaging\obj\Debug\net8.0\refint\01.Messaging.dll
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\05-List\05.ListMore\01.Messaging\obj\Debug\net8.0\01.Messaging.pdb
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\05-List\05.ListMore\01.Messaging\obj\Debug\net8.0\01.Messaging.genruntimeconfig.cache
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\05-List\05.ListMore\01.Messaging\obj\Debug\net8.0\ref\01.Messaging.dll

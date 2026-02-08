@@ -1,0 +1,14 @@
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\04-Method\04.MethodsEx\08.FactorialDivision\obj\Debug\net8.0\08.FactorialDivision.GeneratedMSBuildEditorConfig.editorconfig
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\04-Method\04.MethodsEx\08.FactorialDivision\obj\Debug\net8.0\08.FactorialDivision.AssemblyInfoInputs.cache
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\04-Method\04.MethodsEx\08.FactorialDivision\obj\Debug\net8.0\08.FactorialDivision.AssemblyInfo.cs
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\04-Method\04.MethodsEx\08.FactorialDivision\obj\Debug\net8.0\08.FactorialDivision.csproj.CoreCompileInputs.cache
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\04-Method\04.MethodsEx\08.FactorialDivision\bin\Debug\net8.0\08.FactorialDivision.exe
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\04-Method\04.MethodsEx\08.FactorialDivision\bin\Debug\net8.0\08.FactorialDivision.deps.json
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\04-Method\04.MethodsEx\08.FactorialDivision\bin\Debug\net8.0\08.FactorialDivision.runtimeconfig.json
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\04-Method\04.MethodsEx\08.FactorialDivision\bin\Debug\net8.0\08.FactorialDivision.dll
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\04-Method\04.MethodsEx\08.FactorialDivision\bin\Debug\net8.0\08.FactorialDivision.pdb
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\04-Method\04.MethodsEx\08.FactorialDivision\obj\Debug\net8.0\08.FactorialDivision.dll
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\04-Method\04.MethodsEx\08.FactorialDivision\obj\Debug\net8.0\refint\08.FactorialDivision.dll
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\04-Method\04.MethodsEx\08.FactorialDivision\obj\Debug\net8.0\08.FactorialDivision.pdb
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\04-Method\04.MethodsEx\08.FactorialDivision\obj\Debug\net8.0\08.FactorialDivision.genruntimeconfig.cache
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\04-Method\04.MethodsEx\08.FactorialDivision\obj\Debug\net8.0\ref\08.FactorialDivision.dll

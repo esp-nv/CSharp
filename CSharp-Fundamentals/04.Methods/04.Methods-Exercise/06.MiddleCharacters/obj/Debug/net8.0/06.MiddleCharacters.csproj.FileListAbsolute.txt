@@ -1,0 +1,14 @@
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\04-Method\04.MethodsEx\06.MiddleCharacters\bin\Debug\net8.0\06.MiddleCharacters.exe
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\04-Method\04.MethodsEx\06.MiddleCharacters\bin\Debug\net8.0\06.MiddleCharacters.deps.json
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\04-Method\04.MethodsEx\06.MiddleCharacters\bin\Debug\net8.0\06.MiddleCharacters.runtimeconfig.json
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\04-Method\04.MethodsEx\06.MiddleCharacters\bin\Debug\net8.0\06.MiddleCharacters.dll
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\04-Method\04.MethodsEx\06.MiddleCharacters\bin\Debug\net8.0\06.MiddleCharacters.pdb
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\04-Method\04.MethodsEx\06.MiddleCharacters\obj\Debug\net8.0\06.MiddleCharacters.GeneratedMSBuildEditorConfig.editorconfig
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\04-Method\04.MethodsEx\06.MiddleCharacters\obj\Debug\net8.0\06.MiddleCharacters.AssemblyInfoInputs.cache
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\04-Method\04.MethodsEx\06.MiddleCharacters\obj\Debug\net8.0\06.MiddleCharacters.AssemblyInfo.cs
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\04-Method\04.MethodsEx\06.MiddleCharacters\obj\Debug\net8.0\06.MiddleCharacters.csproj.CoreCompileInputs.cache
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\04-Method\04.MethodsEx\06.MiddleCharacters\obj\Debug\net8.0\06.MiddleCharacters.dll
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\04-Method\04.MethodsEx\06.MiddleCharacters\obj\Debug\net8.0\refint\06.MiddleCharacters.dll
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\04-Method\04.MethodsEx\06.MiddleCharacters\obj\Debug\net8.0\06.MiddleCharacters.pdb
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\04-Method\04.MethodsEx\06.MiddleCharacters\obj\Debug\net8.0\06.MiddleCharacters.genruntimeconfig.cache
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\04-Method\04.MethodsEx\06.MiddleCharacters\obj\Debug\net8.0\ref\06.MiddleCharacters.dll

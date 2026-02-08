@@ -1,0 +1,14 @@
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\04-Method\04.MethodsEx\02.VowelsCount\bin\Debug\net8.0\02.VowelsCount.exe
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\04-Method\04.MethodsEx\02.VowelsCount\bin\Debug\net8.0\02.VowelsCount.deps.json
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\04-Method\04.MethodsEx\02.VowelsCount\bin\Debug\net8.0\02.VowelsCount.runtimeconfig.json
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\04-Method\04.MethodsEx\02.VowelsCount\bin\Debug\net8.0\02.VowelsCount.dll
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\04-Method\04.MethodsEx\02.VowelsCount\bin\Debug\net8.0\02.VowelsCount.pdb
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\04-Method\04.MethodsEx\02.VowelsCount\obj\Debug\net8.0\02.VowelsCount.GeneratedMSBuildEditorConfig.editorconfig
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\04-Method\04.MethodsEx\02.VowelsCount\obj\Debug\net8.0\02.VowelsCount.AssemblyInfoInputs.cache
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\04-Method\04.MethodsEx\02.VowelsCount\obj\Debug\net8.0\02.VowelsCount.AssemblyInfo.cs
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\04-Method\04.MethodsEx\02.VowelsCount\obj\Debug\net8.0\02.VowelsCount.csproj.CoreCompileInputs.cache
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\04-Method\04.MethodsEx\02.VowelsCount\obj\Debug\net8.0\02.VowelsCount.dll
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\04-Method\04.MethodsEx\02.VowelsCount\obj\Debug\net8.0\refint\02.VowelsCount.dll
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\04-Method\04.MethodsEx\02.VowelsCount\obj\Debug\net8.0\02.VowelsCount.pdb
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\04-Method\04.MethodsEx\02.VowelsCount\obj\Debug\net8.0\02.VowelsCount.genruntimeconfig.cache
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\04-Method\04.MethodsEx\02.VowelsCount\obj\Debug\net8.0\ref\02.VowelsCount.dll

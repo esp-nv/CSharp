@@ -1,0 +1,14 @@
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\04-Method\04.MethodMore\02.CenterPoint\obj\Debug\net8.0\02.CenterPoint.GeneratedMSBuildEditorConfig.editorconfig
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\04-Method\04.MethodMore\02.CenterPoint\obj\Debug\net8.0\02.CenterPoint.AssemblyInfoInputs.cache
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\04-Method\04.MethodMore\02.CenterPoint\obj\Debug\net8.0\02.CenterPoint.AssemblyInfo.cs
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\04-Method\04.MethodMore\02.CenterPoint\obj\Debug\net8.0\02.CenterPoint.csproj.CoreCompileInputs.cache
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\04-Method\04.MethodMore\02.CenterPoint\bin\Debug\net8.0\02.CenterPoint.exe
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\04-Method\04.MethodMore\02.CenterPoint\bin\Debug\net8.0\02.CenterPoint.deps.json
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\04-Method\04.MethodMore\02.CenterPoint\bin\Debug\net8.0\02.CenterPoint.runtimeconfig.json
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\04-Method\04.MethodMore\02.CenterPoint\bin\Debug\net8.0\02.CenterPoint.dll
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\04-Method\04.MethodMore\02.CenterPoint\bin\Debug\net8.0\02.CenterPoint.pdb
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\04-Method\04.MethodMore\02.CenterPoint\obj\Debug\net8.0\02.CenterPoint.dll
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\04-Method\04.MethodMore\02.CenterPoint\obj\Debug\net8.0\refint\02.CenterPoint.dll
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\04-Method\04.MethodMore\02.CenterPoint\obj\Debug\net8.0\02.CenterPoint.pdb
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\04-Method\04.MethodMore\02.CenterPoint\obj\Debug\net8.0\02.CenterPoint.genruntimeconfig.cache
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\04-Method\04.MethodMore\02.CenterPoint\obj\Debug\net8.0\ref\02.CenterPoint.dll

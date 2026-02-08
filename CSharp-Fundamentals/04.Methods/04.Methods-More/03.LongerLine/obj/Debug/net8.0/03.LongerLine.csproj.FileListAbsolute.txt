@@ -1,0 +1,14 @@
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\04-Method\04.MethodMore\03.LongerLine\bin\Debug\net8.0\03.LongerLine.exe
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\04-Method\04.MethodMore\03.LongerLine\bin\Debug\net8.0\03.LongerLine.deps.json
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\04-Method\04.MethodMore\03.LongerLine\bin\Debug\net8.0\03.LongerLine.runtimeconfig.json
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\04-Method\04.MethodMore\03.LongerLine\bin\Debug\net8.0\03.LongerLine.dll
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\04-Method\04.MethodMore\03.LongerLine\bin\Debug\net8.0\03.LongerLine.pdb
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\04-Method\04.MethodMore\03.LongerLine\obj\Debug\net8.0\03.LongerLine.GeneratedMSBuildEditorConfig.editorconfig
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\04-Method\04.MethodMore\03.LongerLine\obj\Debug\net8.0\03.LongerLine.AssemblyInfoInputs.cache
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\04-Method\04.MethodMore\03.LongerLine\obj\Debug\net8.0\03.LongerLine.AssemblyInfo.cs
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\04-Method\04.MethodMore\03.LongerLine\obj\Debug\net8.0\03.LongerLine.csproj.CoreCompileInputs.cache
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\04-Method\04.MethodMore\03.LongerLine\obj\Debug\net8.0\03.LongerLine.dll
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\04-Method\04.MethodMore\03.LongerLine\obj\Debug\net8.0\refint\03.LongerLine.dll
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\04-Method\04.MethodMore\03.LongerLine\obj\Debug\net8.0\03.LongerLine.pdb
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\04-Method\04.MethodMore\03.LongerLine\obj\Debug\net8.0\03.LongerLine.genruntimeconfig.cache
+D:\nv\SoftUni\CSharp\C# Fundamentals\Project-May-2025\04-Method\04.MethodMore\03.LongerLine\obj\Debug\net8.0\ref\03.LongerLine.dll

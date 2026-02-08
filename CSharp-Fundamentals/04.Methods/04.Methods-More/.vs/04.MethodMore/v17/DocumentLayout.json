@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\nv\\SoftUni\\CSharp\\C# Fundamentals\\Project-May-2025\\04-Method\\04.MethodMore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{291EC99B-5408-40DE-909D-1D3ADA29D500}|05.MultiplicationSign\\05.MultiplicationSign.csproj|d:\\nv\\softuni\\csharp\\c# fundamentals\\project-may-2025\\04-method\\04.methodmore\\05.multiplicationsign\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{291EC99B-5408-40DE-909D-1D3ADA29D500}|05.MultiplicationSign\\05.MultiplicationSign.csproj|solutionrelative:05.multiplicationsign\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1507B4C2-D0AC-4B7A-A42F-E1484D93E1F5}|04.TribonacciSequence\\04.TribonacciSequence.csproj|d:\\nv\\softuni\\csharp\\c# fundamentals\\project-may-2025\\04-method\\04.methodmore\\04.tribonaccisequence\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1507B4C2-D0AC-4B7A-A42F-E1484D93E1F5}|04.TribonacciSequence\\04.TribonacciSequence.csproj|solutionrelative:04.tribonaccisequence\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B6E9F7D-5682-49FD-9BFD-597E8FBC10D4}|03.LongerLine\\03.LongerLine.csproj|d:\\nv\\softuni\\csharp\\c# fundamentals\\project-may-2025\\04-method\\04.methodmore\\03.longerline\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B6E9F7D-5682-49FD-9BFD-597E8FBC10D4}|03.LongerLine\\03.LongerLine.csproj|solutionrelative:03.longerline\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9607718-B7DE-4AE9-A0E5-8B48A168C2F7}|02.CenterPoint\\02.CenterPoint.csproj|d:\\nv\\softuni\\csharp\\c# fundamentals\\project-may-2025\\04-method\\04.methodmore\\02.centerpoint\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9607718-B7DE-4AE9-A0E5-8B48A168C2F7}|02.CenterPoint\\02.CenterPoint.csproj|solutionrelative:02.centerpoint\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47638C44-A2C3-4FE1-9754-AA09D6B2CCFA}|01.DataTypes\\01.DataTypes.csproj|d:\\nv\\softuni\\csharp\\c# fundamentals\\project-may-2025\\04-method\\04.methodmore\\01.datatypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47638C44-A2C3-4FE1-9754-AA09D6B2CCFA}|01.DataTypes\\01.DataTypes.csproj|solutionrelative:01.datatypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\nv\\SoftUni\\CSharp\\C# Fundamentals\\Project-May-2025\\04-Method\\04.MethodMore\\05.MultiplicationSign\\Program.cs",
+              "RelativeDocumentMoniker": "05.MultiplicationSign\\Program.cs",
+              "ToolTip": "D:\\nv\\SoftUni\\CSharp\\C# Fundamentals\\Project-May-2025\\04-Method\\04.MethodMore\\05.MultiplicationSign\\Program.cs",
+              "RelativeToolTip": "05.MultiplicationSign\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA3wBQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T09:27:56.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\nv\\SoftUni\\CSharp\\C# Fundamentals\\Project-May-2025\\04-Method\\04.MethodMore\\04.TribonacciSequence\\Program.cs",
+              "RelativeDocumentMoniker": "04.TribonacciSequence\\Program.cs",
+              "ToolTip": "D:\\nv\\SoftUni\\CSharp\\C# Fundamentals\\Project-May-2025\\04-Method\\04.MethodMore\\04.TribonacciSequence\\Program.cs",
+              "RelativeToolTip": "04.TribonacciSequence\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T09:05:40.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\nv\\SoftUni\\CSharp\\C# Fundamentals\\Project-May-2025\\04-Method\\04.MethodMore\\03.LongerLine\\Program.cs",
+              "RelativeDocumentMoniker": "03.LongerLine\\Program.cs",
+              "ToolTip": "D:\\nv\\SoftUni\\CSharp\\C# Fundamentals\\Project-May-2025\\04-Method\\04.MethodMore\\03.LongerLine\\Program.cs",
+              "RelativeToolTip": "03.LongerLine\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAgwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T08:34:37.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\nv\\SoftUni\\CSharp\\C# Fundamentals\\Project-May-2025\\04-Method\\04.MethodMore\\02.CenterPoint\\Program.cs",
+              "RelativeDocumentMoniker": "02.CenterPoint\\Program.cs",
+              "ToolTip": "D:\\nv\\SoftUni\\CSharp\\C# Fundamentals\\Project-May-2025\\04-Method\\04.MethodMore\\02.CenterPoint\\Program.cs",
+              "RelativeToolTip": "02.CenterPoint\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAkwBMAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T07:13:22.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\nv\\SoftUni\\CSharp\\C# Fundamentals\\Project-May-2025\\04-Method\\04.MethodMore\\01.DataTypes\\Program.cs",
+              "RelativeDocumentMoniker": "01.DataTypes\\Program.cs",
+              "ToolTip": "D:\\nv\\SoftUni\\CSharp\\C# Fundamentals\\Project-May-2025\\04-Method\\04.MethodMore\\01.DataTypes\\Program.cs",
+              "RelativeToolTip": "01.DataTypes\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T07:04:35.239Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

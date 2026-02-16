@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace _00.LongestPalindromeSub_List
+namespace _00.LongestPalindromeSubList
 {
     internal class Program
     {

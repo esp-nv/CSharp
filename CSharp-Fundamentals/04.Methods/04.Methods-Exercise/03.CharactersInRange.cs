@@ -27,7 +27,6 @@ namespace _03.CharactersInRange
 
             Console.WriteLine();
 
-
         }
     }
 }

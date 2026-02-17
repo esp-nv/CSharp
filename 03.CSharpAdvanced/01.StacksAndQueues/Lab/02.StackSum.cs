@@ -1,9 +1,9 @@
+using System;
+using System.Linq;
+using System.Collections.Generic;
+
 namespace _02.StackSum
 {
-    using System;
-    using System.Linq;
-    using System.Collections.Generic;
-
     internal class Program
     {
         static void Main()

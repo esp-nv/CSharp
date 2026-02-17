@@ -1,0 +1,17 @@
+D:\nv\SoftUni\CSharp\C#Advance\04-StreamsFilesDirectories\Skeleton-Lab\00.DemosStream\bin\Debug\net8.0\text.txt
+D:\nv\SoftUni\CSharp\C#Advance\04-StreamsFilesDirectories\Skeleton-Lab\00.DemosStream\bin\Debug\net8.0\00.DemosStream.exe
+D:\nv\SoftUni\CSharp\C#Advance\04-StreamsFilesDirectories\Skeleton-Lab\00.DemosStream\bin\Debug\net8.0\00.DemosStream.deps.json
+D:\nv\SoftUni\CSharp\C#Advance\04-StreamsFilesDirectories\Skeleton-Lab\00.DemosStream\bin\Debug\net8.0\00.DemosStream.runtimeconfig.json
+D:\nv\SoftUni\CSharp\C#Advance\04-StreamsFilesDirectories\Skeleton-Lab\00.DemosStream\bin\Debug\net8.0\00.DemosStream.dll
+D:\nv\SoftUni\CSharp\C#Advance\04-StreamsFilesDirectories\Skeleton-Lab\00.DemosStream\bin\Debug\net8.0\00.DemosStream.pdb
+D:\nv\SoftUni\CSharp\C#Advance\04-StreamsFilesDirectories\Skeleton-Lab\00.DemosStream\obj\Debug\net8.0\00.DemosStream.GeneratedMSBuildEditorConfig.editorconfig
+D:\nv\SoftUni\CSharp\C#Advance\04-StreamsFilesDirectories\Skeleton-Lab\00.DemosStream\obj\Debug\net8.0\00.DemosStream.AssemblyInfoInputs.cache
+D:\nv\SoftUni\CSharp\C#Advance\04-StreamsFilesDirectories\Skeleton-Lab\00.DemosStream\obj\Debug\net8.0\00.DemosStream.AssemblyInfo.cs
+D:\nv\SoftUni\CSharp\C#Advance\04-StreamsFilesDirectories\Skeleton-Lab\00.DemosStream\obj\Debug\net8.0\00.DemosStream.csproj.CoreCompileInputs.cache
+D:\nv\SoftUni\CSharp\C#Advance\04-StreamsFilesDirectories\Skeleton-Lab\00.DemosStream\obj\Debug\net8.0\00.DemosStream.dll
+D:\nv\SoftUni\CSharp\C#Advance\04-StreamsFilesDirectories\Skeleton-Lab\00.DemosStream\obj\Debug\net8.0\refint\00.DemosStream.dll
+D:\nv\SoftUni\CSharp\C#Advance\04-StreamsFilesDirectories\Skeleton-Lab\00.DemosStream\obj\Debug\net8.0\00.DemosStream.pdb
+D:\nv\SoftUni\CSharp\C#Advance\04-StreamsFilesDirectories\Skeleton-Lab\00.DemosStream\obj\Debug\net8.0\00.DemosStream.genruntimeconfig.cache
+D:\nv\SoftUni\CSharp\C#Advance\04-StreamsFilesDirectories\Skeleton-Lab\00.DemosStream\obj\Debug\net8.0\ref\00.DemosStream.dll
+D:\nv\SoftUni\CSharp\C#Advance\04-StreamsFilesDirectories\Skeleton-Lab\00.DemosStream\bin\Debug\net8.0\Result.txt
+D:\nv\SoftUni\CSharp\C#Advance\04-StreamsFilesDirectories\Skeleton-Lab\00.DemosStream\bin\Debug\net8.0\result1.txt

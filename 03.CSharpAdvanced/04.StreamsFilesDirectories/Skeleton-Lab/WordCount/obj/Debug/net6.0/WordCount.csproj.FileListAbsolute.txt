@@ -1,0 +1,14 @@
+D:\nv\SoftUni\CSharp\C#Advance\04-StreamsFilesDirectories\Skeleton-Lab\WordCount\bin\Debug\net6.0\WordCount.exe
+D:\nv\SoftUni\CSharp\C#Advance\04-StreamsFilesDirectories\Skeleton-Lab\WordCount\bin\Debug\net6.0\WordCount.deps.json
+D:\nv\SoftUni\CSharp\C#Advance\04-StreamsFilesDirectories\Skeleton-Lab\WordCount\bin\Debug\net6.0\WordCount.runtimeconfig.json
+D:\nv\SoftUni\CSharp\C#Advance\04-StreamsFilesDirectories\Skeleton-Lab\WordCount\bin\Debug\net6.0\WordCount.dll
+D:\nv\SoftUni\CSharp\C#Advance\04-StreamsFilesDirectories\Skeleton-Lab\WordCount\bin\Debug\net6.0\WordCount.pdb
+D:\nv\SoftUni\CSharp\C#Advance\04-StreamsFilesDirectories\Skeleton-Lab\WordCount\obj\Debug\net6.0\WordCount.GeneratedMSBuildEditorConfig.editorconfig
+D:\nv\SoftUni\CSharp\C#Advance\04-StreamsFilesDirectories\Skeleton-Lab\WordCount\obj\Debug\net6.0\WordCount.AssemblyInfoInputs.cache
+D:\nv\SoftUni\CSharp\C#Advance\04-StreamsFilesDirectories\Skeleton-Lab\WordCount\obj\Debug\net6.0\WordCount.AssemblyInfo.cs
+D:\nv\SoftUni\CSharp\C#Advance\04-StreamsFilesDirectories\Skeleton-Lab\WordCount\obj\Debug\net6.0\WordCount.csproj.CoreCompileInputs.cache
+D:\nv\SoftUni\CSharp\C#Advance\04-StreamsFilesDirectories\Skeleton-Lab\WordCount\obj\Debug\net6.0\WordCount.dll
+D:\nv\SoftUni\CSharp\C#Advance\04-StreamsFilesDirectories\Skeleton-Lab\WordCount\obj\Debug\net6.0\refint\WordCount.dll
+D:\nv\SoftUni\CSharp\C#Advance\04-StreamsFilesDirectories\Skeleton-Lab\WordCount\obj\Debug\net6.0\WordCount.pdb
+D:\nv\SoftUni\CSharp\C#Advance\04-StreamsFilesDirectories\Skeleton-Lab\WordCount\obj\Debug\net6.0\WordCount.genruntimeconfig.cache
+D:\nv\SoftUni\CSharp\C#Advance\04-StreamsFilesDirectories\Skeleton-Lab\WordCount\obj\Debug\net6.0\ref\WordCount.dll

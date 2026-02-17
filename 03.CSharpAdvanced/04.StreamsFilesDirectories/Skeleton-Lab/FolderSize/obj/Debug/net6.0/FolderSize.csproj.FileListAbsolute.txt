@@ -1,0 +1,14 @@
+D:\nv\SoftUni\CSharp\C#Advance\04-StreamsFilesDirectories\Skeleton-Lab\FolderSize\bin\Debug\net6.0\FolderSize.exe
+D:\nv\SoftUni\CSharp\C#Advance\04-StreamsFilesDirectories\Skeleton-Lab\FolderSize\bin\Debug\net6.0\FolderSize.deps.json
+D:\nv\SoftUni\CSharp\C#Advance\04-StreamsFilesDirectories\Skeleton-Lab\FolderSize\bin\Debug\net6.0\FolderSize.runtimeconfig.json
+D:\nv\SoftUni\CSharp\C#Advance\04-StreamsFilesDirectories\Skeleton-Lab\FolderSize\bin\Debug\net6.0\FolderSize.dll
+D:\nv\SoftUni\CSharp\C#Advance\04-StreamsFilesDirectories\Skeleton-Lab\FolderSize\bin\Debug\net6.0\FolderSize.pdb
+D:\nv\SoftUni\CSharp\C#Advance\04-StreamsFilesDirectories\Skeleton-Lab\FolderSize\obj\Debug\net6.0\FolderSize.GeneratedMSBuildEditorConfig.editorconfig
+D:\nv\SoftUni\CSharp\C#Advance\04-StreamsFilesDirectories\Skeleton-Lab\FolderSize\obj\Debug\net6.0\FolderSize.AssemblyInfoInputs.cache
+D:\nv\SoftUni\CSharp\C#Advance\04-StreamsFilesDirectories\Skeleton-Lab\FolderSize\obj\Debug\net6.0\FolderSize.AssemblyInfo.cs
+D:\nv\SoftUni\CSharp\C#Advance\04-StreamsFilesDirectories\Skeleton-Lab\FolderSize\obj\Debug\net6.0\FolderSize.csproj.CoreCompileInputs.cache
+D:\nv\SoftUni\CSharp\C#Advance\04-StreamsFilesDirectories\Skeleton-Lab\FolderSize\obj\Debug\net6.0\FolderSize.dll
+D:\nv\SoftUni\CSharp\C#Advance\04-StreamsFilesDirectories\Skeleton-Lab\FolderSize\obj\Debug\net6.0\refint\FolderSize.dll
+D:\nv\SoftUni\CSharp\C#Advance\04-StreamsFilesDirectories\Skeleton-Lab\FolderSize\obj\Debug\net6.0\FolderSize.pdb
+D:\nv\SoftUni\CSharp\C#Advance\04-StreamsFilesDirectories\Skeleton-Lab\FolderSize\obj\Debug\net6.0\FolderSize.genruntimeconfig.cache
+D:\nv\SoftUni\CSharp\C#Advance\04-StreamsFilesDirectories\Skeleton-Lab\FolderSize\obj\Debug\net6.0\ref\FolderSize.dll

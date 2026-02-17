@@ -1,0 +1,14 @@
+D:\nv\SoftUni\CSharp\C#Advance\04-StreamsFilesDirectories\Skeleton-Lab\MergeFiles\bin\Debug\net6.0\MergeFiles.exe
+D:\nv\SoftUni\CSharp\C#Advance\04-StreamsFilesDirectories\Skeleton-Lab\MergeFiles\bin\Debug\net6.0\MergeFiles.deps.json
+D:\nv\SoftUni\CSharp\C#Advance\04-StreamsFilesDirectories\Skeleton-Lab\MergeFiles\bin\Debug\net6.0\MergeFiles.runtimeconfig.json
+D:\nv\SoftUni\CSharp\C#Advance\04-StreamsFilesDirectories\Skeleton-Lab\MergeFiles\bin\Debug\net6.0\MergeFiles.dll
+D:\nv\SoftUni\CSharp\C#Advance\04-StreamsFilesDirectories\Skeleton-Lab\MergeFiles\bin\Debug\net6.0\MergeFiles.pdb
+D:\nv\SoftUni\CSharp\C#Advance\04-StreamsFilesDirectories\Skeleton-Lab\MergeFiles\obj\Debug\net6.0\MergeFiles.GeneratedMSBuildEditorConfig.editorconfig
+D:\nv\SoftUni\CSharp\C#Advance\04-StreamsFilesDirectories\Skeleton-Lab\MergeFiles\obj\Debug\net6.0\MergeFiles.AssemblyInfoInputs.cache
+D:\nv\SoftUni\CSharp\C#Advance\04-StreamsFilesDirectories\Skeleton-Lab\MergeFiles\obj\Debug\net6.0\MergeFiles.AssemblyInfo.cs
+D:\nv\SoftUni\CSharp\C#Advance\04-StreamsFilesDirectories\Skeleton-Lab\MergeFiles\obj\Debug\net6.0\MergeFiles.csproj.CoreCompileInputs.cache
+D:\nv\SoftUni\CSharp\C#Advance\04-StreamsFilesDirectories\Skeleton-Lab\MergeFiles\obj\Debug\net6.0\MergeFiles.dll
+D:\nv\SoftUni\CSharp\C#Advance\04-StreamsFilesDirectories\Skeleton-Lab\MergeFiles\obj\Debug\net6.0\refint\MergeFiles.dll
+D:\nv\SoftUni\CSharp\C#Advance\04-StreamsFilesDirectories\Skeleton-Lab\MergeFiles\obj\Debug\net6.0\MergeFiles.pdb
+D:\nv\SoftUni\CSharp\C#Advance\04-StreamsFilesDirectories\Skeleton-Lab\MergeFiles\obj\Debug\net6.0\MergeFiles.genruntimeconfig.cache
+D:\nv\SoftUni\CSharp\C#Advance\04-StreamsFilesDirectories\Skeleton-Lab\MergeFiles\obj\Debug\net6.0\ref\MergeFiles.dll

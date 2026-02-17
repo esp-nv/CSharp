@@ -1,0 +1,14 @@
+D:\nv\SoftUni\CSharp\C#Advance\04-StreamsFilesDirectories\Skeleton-Lab\SplitMergeBinaryFile\bin\Debug\net6.0\SplitMergeBinaryFile.exe
+D:\nv\SoftUni\CSharp\C#Advance\04-StreamsFilesDirectories\Skeleton-Lab\SplitMergeBinaryFile\bin\Debug\net6.0\SplitMergeBinaryFile.deps.json
+D:\nv\SoftUni\CSharp\C#Advance\04-StreamsFilesDirectories\Skeleton-Lab\SplitMergeBinaryFile\bin\Debug\net6.0\SplitMergeBinaryFile.runtimeconfig.json
+D:\nv\SoftUni\CSharp\C#Advance\04-StreamsFilesDirectories\Skeleton-Lab\SplitMergeBinaryFile\bin\Debug\net6.0\SplitMergeBinaryFile.dll
+D:\nv\SoftUni\CSharp\C#Advance\04-StreamsFilesDirectories\Skeleton-Lab\SplitMergeBinaryFile\bin\Debug\net6.0\SplitMergeBinaryFile.pdb
+D:\nv\SoftUni\CSharp\C#Advance\04-StreamsFilesDirectories\Skeleton-Lab\SplitMergeBinaryFile\obj\Debug\net6.0\SplitMergeBinaryFile.GeneratedMSBuildEditorConfig.editorconfig
+D:\nv\SoftUni\CSharp\C#Advance\04-StreamsFilesDirectories\Skeleton-Lab\SplitMergeBinaryFile\obj\Debug\net6.0\SplitMergeBinaryFile.AssemblyInfoInputs.cache
+D:\nv\SoftUni\CSharp\C#Advance\04-StreamsFilesDirectories\Skeleton-Lab\SplitMergeBinaryFile\obj\Debug\net6.0\SplitMergeBinaryFile.AssemblyInfo.cs
+D:\nv\SoftUni\CSharp\C#Advance\04-StreamsFilesDirectories\Skeleton-Lab\SplitMergeBinaryFile\obj\Debug\net6.0\SplitMergeBinaryFile.csproj.CoreCompileInputs.cache
+D:\nv\SoftUni\CSharp\C#Advance\04-StreamsFilesDirectories\Skeleton-Lab\SplitMergeBinaryFile\obj\Debug\net6.0\SplitMergeBinaryFile.dll
+D:\nv\SoftUni\CSharp\C#Advance\04-StreamsFilesDirectories\Skeleton-Lab\SplitMergeBinaryFile\obj\Debug\net6.0\refint\SplitMergeBinaryFile.dll
+D:\nv\SoftUni\CSharp\C#Advance\04-StreamsFilesDirectories\Skeleton-Lab\SplitMergeBinaryFile\obj\Debug\net6.0\SplitMergeBinaryFile.pdb
+D:\nv\SoftUni\CSharp\C#Advance\04-StreamsFilesDirectories\Skeleton-Lab\SplitMergeBinaryFile\obj\Debug\net6.0\SplitMergeBinaryFile.genruntimeconfig.cache
+D:\nv\SoftUni\CSharp\C#Advance\04-StreamsFilesDirectories\Skeleton-Lab\SplitMergeBinaryFile\obj\Debug\net6.0\ref\SplitMergeBinaryFile.dll

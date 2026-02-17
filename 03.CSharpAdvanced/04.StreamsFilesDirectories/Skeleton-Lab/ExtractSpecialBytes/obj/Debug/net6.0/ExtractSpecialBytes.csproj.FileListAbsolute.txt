@@ -1,0 +1,14 @@
+D:\nv\SoftUni\CSharp\C#Advance\04-StreamsFilesDirectories\Skeleton-Lab\ExtractSpecialBytes\bin\Debug\net6.0\ExtractSpecialBytes.exe
+D:\nv\SoftUni\CSharp\C#Advance\04-StreamsFilesDirectories\Skeleton-Lab\ExtractSpecialBytes\bin\Debug\net6.0\ExtractSpecialBytes.deps.json
+D:\nv\SoftUni\CSharp\C#Advance\04-StreamsFilesDirectories\Skeleton-Lab\ExtractSpecialBytes\bin\Debug\net6.0\ExtractSpecialBytes.runtimeconfig.json
+D:\nv\SoftUni\CSharp\C#Advance\04-StreamsFilesDirectories\Skeleton-Lab\ExtractSpecialBytes\bin\Debug\net6.0\ExtractSpecialBytes.dll
+D:\nv\SoftUni\CSharp\C#Advance\04-StreamsFilesDirectories\Skeleton-Lab\ExtractSpecialBytes\bin\Debug\net6.0\ExtractSpecialBytes.pdb
+D:\nv\SoftUni\CSharp\C#Advance\04-StreamsFilesDirectories\Skeleton-Lab\ExtractSpecialBytes\obj\Debug\net6.0\ExtractSpecialBytes.GeneratedMSBuildEditorConfig.editorconfig
+D:\nv\SoftUni\CSharp\C#Advance\04-StreamsFilesDirectories\Skeleton-Lab\ExtractSpecialBytes\obj\Debug\net6.0\ExtractSpecialBytes.AssemblyInfoInputs.cache
+D:\nv\SoftUni\CSharp\C#Advance\04-StreamsFilesDirectories\Skeleton-Lab\ExtractSpecialBytes\obj\Debug\net6.0\ExtractSpecialBytes.AssemblyInfo.cs
+D:\nv\SoftUni\CSharp\C#Advance\04-StreamsFilesDirectories\Skeleton-Lab\ExtractSpecialBytes\obj\Debug\net6.0\ExtractSpecialBytes.csproj.CoreCompileInputs.cache
+D:\nv\SoftUni\CSharp\C#Advance\04-StreamsFilesDirectories\Skeleton-Lab\ExtractSpecialBytes\obj\Debug\net6.0\ExtractSpecialBytes.dll
+D:\nv\SoftUni\CSharp\C#Advance\04-StreamsFilesDirectories\Skeleton-Lab\ExtractSpecialBytes\obj\Debug\net6.0\refint\ExtractSpecialBytes.dll
+D:\nv\SoftUni\CSharp\C#Advance\04-StreamsFilesDirectories\Skeleton-Lab\ExtractSpecialBytes\obj\Debug\net6.0\ExtractSpecialBytes.pdb
+D:\nv\SoftUni\CSharp\C#Advance\04-StreamsFilesDirectories\Skeleton-Lab\ExtractSpecialBytes\obj\Debug\net6.0\ExtractSpecialBytes.genruntimeconfig.cache
+D:\nv\SoftUni\CSharp\C#Advance\04-StreamsFilesDirectories\Skeleton-Lab\ExtractSpecialBytes\obj\Debug\net6.0\ref\ExtractSpecialBytes.dll

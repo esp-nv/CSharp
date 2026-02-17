@@ -10,9 +10,7 @@ namespace _2.SumMatrixColumns
             int[] dimensions = ParseArrayFromConsole(',', ' ');
 
             int rows = dimensions[0];
-            int cols = dimensions[1];
-
-           
+            int cols = dimensions[1];           
 
             int[,] matrix = new int[rows, cols];
 
@@ -32,18 +30,17 @@ namespace _2.SumMatrixColumns
                 {
                     sum += matrix[row, col];
                 }
+                
                 Console.WriteLine(sum);
             }
-            
-
         }
+        
         static int[] ParseArrayFromConsole(params char[] splitSymbols)
-            {
-                return Console.ReadLine()
-                      .Split(splitSymbols, StringSplitOptions.RemoveEmptyEntries)
-                      .Select(int.Parse)
-                      .ToArray();
-
-            }
+        {
+             return Console.ReadLine()
+                    .Split(splitSymbols, StringSplitOptions.RemoveEmptyEntries)
+                    .Select(int.Parse)
+                    .ToArray();
+        }
     }
 }

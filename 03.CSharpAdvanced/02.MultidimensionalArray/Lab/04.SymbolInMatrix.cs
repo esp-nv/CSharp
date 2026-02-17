@@ -1,24 +1,27 @@
 ﻿using System;
 using System.Linq;
 
-namespace _4.SymbolInMatrix
+namespace _04.SymbolInMatrix
 {
     internal class Program
     {
         static void Main()
         {
             int n = int.Parse(Console.ReadLine());
+
             char[,] matrix = new char[n, n];
 
             for (int row = 0; row < n; row++)
             {
                 string input = Console.ReadLine();
+
                 for (int col = 0; col < input.Length; col++)
                 {
                     char c = input[col];
                     matrix[row, col] = c;
                 }
             }
+
             char ch = char.Parse(Console.ReadLine());
 
             bool isFound = false;

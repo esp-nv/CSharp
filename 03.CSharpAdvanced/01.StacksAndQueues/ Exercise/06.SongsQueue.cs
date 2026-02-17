@@ -34,6 +34,7 @@ namespace _06.SongsQueue
                         Console.WriteLine(string.Join(", ", queue));
                         break;
                 }
+                
                 input = Console.ReadLine();
             }
 

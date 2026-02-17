@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Linq;
 
-namespace _2.SumMatrixColumns
+namespace _02.SumMatrixColumns
 {
     internal class Program
     {

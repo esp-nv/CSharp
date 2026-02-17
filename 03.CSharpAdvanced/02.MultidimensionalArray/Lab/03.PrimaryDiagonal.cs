@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Linq;
 
-namespace _3.PrimaryDiagonal
+namespace _03.PrimaryDiagonal
 {
     internal class Program
     {
@@ -34,13 +34,13 @@ namespace _3.PrimaryDiagonal
             
             Console.WriteLine(sum);
         }
+        
         static int[] ParceArrayFromConsole(params char[] splitSymbols)
         {
             return Console.ReadLine()
                   .Split(splitSymbols, StringSplitOptions.RemoveEmptyEntries)
                   .Select(int.Parse)
                   .ToArray();
-
         }
     }
 }

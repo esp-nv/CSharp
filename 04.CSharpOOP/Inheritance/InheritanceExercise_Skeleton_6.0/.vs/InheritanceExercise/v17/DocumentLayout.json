@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\nv\\SoftUni\\CSharp\\C#OOP\\SolutionTask\\InheritanceExercise_Skeleton_6.0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23920482-0658-4B8F-AADF-F7AC11015041}|Animals\\Animals.csproj|d:\\nv\\softuni\\csharp\\c#oop\\solutiontask\\inheritanceexercise_skeleton_6.0\\animals\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23920482-0658-4B8F-AADF-F7AC11015041}|Animals\\Animals.csproj|solutionrelative:animals\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23920482-0658-4B8F-AADF-F7AC11015041}|Animals\\Animals.csproj|d:\\nv\\softuni\\csharp\\c#oop\\solutiontask\\inheritanceexercise_skeleton_6.0\\animals\\tomcat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23920482-0658-4B8F-AADF-F7AC11015041}|Animals\\Animals.csproj|solutionrelative:animals\\tomcat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23920482-0658-4B8F-AADF-F7AC11015041}|Animals\\Animals.csproj|d:\\nv\\softuni\\csharp\\c#oop\\solutiontask\\inheritanceexercise_skeleton_6.0\\animals\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23920482-0658-4B8F-AADF-F7AC11015041}|Animals\\Animals.csproj|solutionrelative:animals\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23920482-0658-4B8F-AADF-F7AC11015041}|Animals\\Animals.csproj|d:\\nv\\softuni\\csharp\\c#oop\\solutiontask\\inheritanceexercise_skeleton_6.0\\animals\\kitten.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23920482-0658-4B8F-AADF-F7AC11015041}|Animals\\Animals.csproj|solutionrelative:animals\\kitten.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23920482-0658-4B8F-AADF-F7AC11015041}|Animals\\Animals.csproj|d:\\nv\\softuni\\csharp\\c#oop\\solutiontask\\inheritanceexercise_skeleton_6.0\\animals\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23920482-0658-4B8F-AADF-F7AC11015041}|Animals\\Animals.csproj|solutionrelative:animals\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23920482-0658-4B8F-AADF-F7AC11015041}|Animals\\Animals.csproj|d:\\nv\\softuni\\csharp\\c#oop\\solutiontask\\inheritanceexercise_skeleton_6.0\\animals\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23920482-0658-4B8F-AADF-F7AC11015041}|Animals\\Animals.csproj|solutionrelative:animals\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23920482-0658-4B8F-AADF-F7AC11015041}|Animals\\Animals.csproj|d:\\nv\\softuni\\csharp\\c#oop\\solutiontask\\inheritanceexercise_skeleton_6.0\\animals\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23920482-0658-4B8F-AADF-F7AC11015041}|Animals\\Animals.csproj|solutionrelative:animals\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Engine.cs",
+              "DocumentMoniker": "D:\\nv\\SoftUni\\CSharp\\C#OOP\\SolutionTask\\InheritanceExercise_Skeleton_6.0\\Animals\\Engine.cs",
+              "RelativeDocumentMoniker": "Animals\\Engine.cs",
+              "ToolTip": "D:\\nv\\SoftUni\\CSharp\\C#OOP\\SolutionTask\\InheritanceExercise_Skeleton_6.0\\Animals\\Engine.cs",
+              "RelativeToolTip": "Animals\\Engine.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAiwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T19:35:52.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "D:\\nv\\SoftUni\\CSharp\\C#OOP\\SolutionTask\\InheritanceExercise_Skeleton_6.0\\Animals\\StartUp.cs",
+              "RelativeDocumentMoniker": "Animals\\StartUp.cs",
+              "ToolTip": "D:\\nv\\SoftUni\\CSharp\\C#OOP\\SolutionTask\\InheritanceExercise_Skeleton_6.0\\Animals\\StartUp.cs",
+              "RelativeToolTip": "Animals\\StartUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T19:35:09.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Kitten.cs",
+              "DocumentMoniker": "D:\\nv\\SoftUni\\CSharp\\C#OOP\\SolutionTask\\InheritanceExercise_Skeleton_6.0\\Animals\\Kitten.cs",
+              "RelativeDocumentMoniker": "Animals\\Kitten.cs",
+              "ToolTip": "D:\\nv\\SoftUni\\CSharp\\C#OOP\\SolutionTask\\InheritanceExercise_Skeleton_6.0\\Animals\\Kitten.cs",
+              "RelativeToolTip": "Animals\\Kitten.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAYAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T19:01:21.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "D:\\nv\\SoftUni\\CSharp\\C#OOP\\SolutionTask\\InheritanceExercise_Skeleton_6.0\\Animals\\Animal.cs",
+              "RelativeDocumentMoniker": "Animals\\Animal.cs",
+              "ToolTip": "D:\\nv\\SoftUni\\CSharp\\C#OOP\\SolutionTask\\InheritanceExercise_Skeleton_6.0\\Animals\\Animal.cs",
+              "RelativeToolTip": "Animals\\Animal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T05:58:45.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tomcat.cs",
+              "DocumentMoniker": "D:\\nv\\SoftUni\\CSharp\\C#OOP\\SolutionTask\\InheritanceExercise_Skeleton_6.0\\Animals\\Tomcat.cs",
+              "RelativeDocumentMoniker": "Animals\\Tomcat.cs",
+              "ToolTip": "D:\\nv\\SoftUni\\CSharp\\C#OOP\\SolutionTask\\InheritanceExercise_Skeleton_6.0\\Animals\\Tomcat.cs",
+              "RelativeToolTip": "Animals\\Tomcat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T19:02:25.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "D:\\nv\\SoftUni\\CSharp\\C#OOP\\SolutionTask\\InheritanceExercise_Skeleton_6.0\\Animals\\Dog.cs",
+              "RelativeDocumentMoniker": "Animals\\Dog.cs",
+              "ToolTip": "D:\\nv\\SoftUni\\CSharp\\C#OOP\\SolutionTask\\InheritanceExercise_Skeleton_6.0\\Animals\\Dog.cs",
+              "RelativeToolTip": "Animals\\Dog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T18:50:18.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Cat.cs",
+              "DocumentMoniker": "D:\\nv\\SoftUni\\CSharp\\C#OOP\\SolutionTask\\InheritanceExercise_Skeleton_6.0\\Animals\\Cat.cs",
+              "RelativeDocumentMoniker": "Animals\\Cat.cs",
+              "ToolTip": "D:\\nv\\SoftUni\\CSharp\\C#OOP\\SolutionTask\\InheritanceExercise_Skeleton_6.0\\Animals\\Cat.cs",
+              "RelativeToolTip": "Animals\\Cat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T18:58:20.5Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

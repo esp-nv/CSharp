@@ -1,0 +1,14 @@
+D:\nv\SoftUni\CSharp\C#OOP\SolutionTask\T03.InterfacesAndAbstraction\PersonInfo\bin\Debug\net6.0\PersonInfo.exe
+D:\nv\SoftUni\CSharp\C#OOP\SolutionTask\T03.InterfacesAndAbstraction\PersonInfo\bin\Debug\net6.0\PersonInfo.deps.json
+D:\nv\SoftUni\CSharp\C#OOP\SolutionTask\T03.InterfacesAndAbstraction\PersonInfo\bin\Debug\net6.0\PersonInfo.runtimeconfig.json
+D:\nv\SoftUni\CSharp\C#OOP\SolutionTask\T03.InterfacesAndAbstraction\PersonInfo\bin\Debug\net6.0\PersonInfo.dll
+D:\nv\SoftUni\CSharp\C#OOP\SolutionTask\T03.InterfacesAndAbstraction\PersonInfo\bin\Debug\net6.0\PersonInfo.pdb
+D:\nv\SoftUni\CSharp\C#OOP\SolutionTask\T03.InterfacesAndAbstraction\PersonInfo\obj\Debug\net6.0\PersonInfo.GeneratedMSBuildEditorConfig.editorconfig
+D:\nv\SoftUni\CSharp\C#OOP\SolutionTask\T03.InterfacesAndAbstraction\PersonInfo\obj\Debug\net6.0\PersonInfo.AssemblyInfoInputs.cache
+D:\nv\SoftUni\CSharp\C#OOP\SolutionTask\T03.InterfacesAndAbstraction\PersonInfo\obj\Debug\net6.0\PersonInfo.AssemblyInfo.cs
+D:\nv\SoftUni\CSharp\C#OOP\SolutionTask\T03.InterfacesAndAbstraction\PersonInfo\obj\Debug\net6.0\PersonInfo.csproj.CoreCompileInputs.cache
+D:\nv\SoftUni\CSharp\C#OOP\SolutionTask\T03.InterfacesAndAbstraction\PersonInfo\obj\Debug\net6.0\PersonInfo.dll
+D:\nv\SoftUni\CSharp\C#OOP\SolutionTask\T03.InterfacesAndAbstraction\PersonInfo\obj\Debug\net6.0\refint\PersonInfo.dll
+D:\nv\SoftUni\CSharp\C#OOP\SolutionTask\T03.InterfacesAndAbstraction\PersonInfo\obj\Debug\net6.0\PersonInfo.pdb
+D:\nv\SoftUni\CSharp\C#OOP\SolutionTask\T03.InterfacesAndAbstraction\PersonInfo\obj\Debug\net6.0\PersonInfo.genruntimeconfig.cache
+D:\nv\SoftUni\CSharp\C#OOP\SolutionTask\T03.InterfacesAndAbstraction\PersonInfo\obj\Debug\net6.0\ref\PersonInfo.dll

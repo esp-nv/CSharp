@@ -1,0 +1,14 @@
+D:\nv\SoftUni\CSharp\C#OOP\SolutionTask\T03.InterfacesAndAbstraction\P07.MilitaryElite\bin\Debug\net6.0\P07.MilitaryElite.exe
+D:\nv\SoftUni\CSharp\C#OOP\SolutionTask\T03.InterfacesAndAbstraction\P07.MilitaryElite\bin\Debug\net6.0\P07.MilitaryElite.deps.json
+D:\nv\SoftUni\CSharp\C#OOP\SolutionTask\T03.InterfacesAndAbstraction\P07.MilitaryElite\bin\Debug\net6.0\P07.MilitaryElite.runtimeconfig.json
+D:\nv\SoftUni\CSharp\C#OOP\SolutionTask\T03.InterfacesAndAbstraction\P07.MilitaryElite\bin\Debug\net6.0\P07.MilitaryElite.dll
+D:\nv\SoftUni\CSharp\C#OOP\SolutionTask\T03.InterfacesAndAbstraction\P07.MilitaryElite\bin\Debug\net6.0\P07.MilitaryElite.pdb
+D:\nv\SoftUni\CSharp\C#OOP\SolutionTask\T03.InterfacesAndAbstraction\P07.MilitaryElite\obj\Debug\net6.0\P07.MilitaryElite.GeneratedMSBuildEditorConfig.editorconfig
+D:\nv\SoftUni\CSharp\C#OOP\SolutionTask\T03.InterfacesAndAbstraction\P07.MilitaryElite\obj\Debug\net6.0\P07.MilitaryElite.AssemblyInfoInputs.cache
+D:\nv\SoftUni\CSharp\C#OOP\SolutionTask\T03.InterfacesAndAbstraction\P07.MilitaryElite\obj\Debug\net6.0\P07.MilitaryElite.AssemblyInfo.cs
+D:\nv\SoftUni\CSharp\C#OOP\SolutionTask\T03.InterfacesAndAbstraction\P07.MilitaryElite\obj\Debug\net6.0\P07.MilitaryElite.csproj.CoreCompileInputs.cache
+D:\nv\SoftUni\CSharp\C#OOP\SolutionTask\T03.InterfacesAndAbstraction\P07.MilitaryElite\obj\Debug\net6.0\P07.MilitaryElite.dll
+D:\nv\SoftUni\CSharp\C#OOP\SolutionTask\T03.InterfacesAndAbstraction\P07.MilitaryElite\obj\Debug\net6.0\refint\P07.MilitaryElite.dll
+D:\nv\SoftUni\CSharp\C#OOP\SolutionTask\T03.InterfacesAndAbstraction\P07.MilitaryElite\obj\Debug\net6.0\P07.MilitaryElite.pdb
+D:\nv\SoftUni\CSharp\C#OOP\SolutionTask\T03.InterfacesAndAbstraction\P07.MilitaryElite\obj\Debug\net6.0\P07.MilitaryElite.genruntimeconfig.cache
+D:\nv\SoftUni\CSharp\C#OOP\SolutionTask\T03.InterfacesAndAbstraction\P07.MilitaryElite\obj\Debug\net6.0\ref\P07.MilitaryElite.dll

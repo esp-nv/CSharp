@@ -1,0 +1,14 @@
+D:\nv\SoftUni\CSharp\C#OOP\SolutionTask\Encapsulation\Ex03.ShoppingSpree\bin\Debug\net6.0\Ex03.ShoppingSpree.exe
+D:\nv\SoftUni\CSharp\C#OOP\SolutionTask\Encapsulation\Ex03.ShoppingSpree\bin\Debug\net6.0\Ex03.ShoppingSpree.deps.json
+D:\nv\SoftUni\CSharp\C#OOP\SolutionTask\Encapsulation\Ex03.ShoppingSpree\bin\Debug\net6.0\Ex03.ShoppingSpree.runtimeconfig.json
+D:\nv\SoftUni\CSharp\C#OOP\SolutionTask\Encapsulation\Ex03.ShoppingSpree\bin\Debug\net6.0\Ex03.ShoppingSpree.dll
+D:\nv\SoftUni\CSharp\C#OOP\SolutionTask\Encapsulation\Ex03.ShoppingSpree\bin\Debug\net6.0\Ex03.ShoppingSpree.pdb
+D:\nv\SoftUni\CSharp\C#OOP\SolutionTask\Encapsulation\Ex03.ShoppingSpree\obj\Debug\net6.0\Ex03.ShoppingSpree.GeneratedMSBuildEditorConfig.editorconfig
+D:\nv\SoftUni\CSharp\C#OOP\SolutionTask\Encapsulation\Ex03.ShoppingSpree\obj\Debug\net6.0\Ex03.ShoppingSpree.AssemblyInfoInputs.cache
+D:\nv\SoftUni\CSharp\C#OOP\SolutionTask\Encapsulation\Ex03.ShoppingSpree\obj\Debug\net6.0\Ex03.ShoppingSpree.AssemblyInfo.cs
+D:\nv\SoftUni\CSharp\C#OOP\SolutionTask\Encapsulation\Ex03.ShoppingSpree\obj\Debug\net6.0\Ex03.ShoppingSpree.csproj.CoreCompileInputs.cache
+D:\nv\SoftUni\CSharp\C#OOP\SolutionTask\Encapsulation\Ex03.ShoppingSpree\obj\Debug\net6.0\Ex03.ShoppingSpree.dll
+D:\nv\SoftUni\CSharp\C#OOP\SolutionTask\Encapsulation\Ex03.ShoppingSpree\obj\Debug\net6.0\refint\Ex03.ShoppingSpree.dll
+D:\nv\SoftUni\CSharp\C#OOP\SolutionTask\Encapsulation\Ex03.ShoppingSpree\obj\Debug\net6.0\Ex03.ShoppingSpree.pdb
+D:\nv\SoftUni\CSharp\C#OOP\SolutionTask\Encapsulation\Ex03.ShoppingSpree\obj\Debug\net6.0\Ex03.ShoppingSpree.genruntimeconfig.cache
+D:\nv\SoftUni\CSharp\C#OOP\SolutionTask\Encapsulation\Ex03.ShoppingSpree\obj\Debug\net6.0\ref\Ex03.ShoppingSpree.dll

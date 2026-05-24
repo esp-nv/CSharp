@@ -1,0 +1,14 @@
+D:\nv\SoftUni\CSharp\C#OOP\SolutionTask\Encapsulation\Ex01.ClassBoxData\bin\Debug\net6.0\Ex01.ClassBoxData.exe
+D:\nv\SoftUni\CSharp\C#OOP\SolutionTask\Encapsulation\Ex01.ClassBoxData\bin\Debug\net6.0\Ex01.ClassBoxData.deps.json
+D:\nv\SoftUni\CSharp\C#OOP\SolutionTask\Encapsulation\Ex01.ClassBoxData\bin\Debug\net6.0\Ex01.ClassBoxData.runtimeconfig.json
+D:\nv\SoftUni\CSharp\C#OOP\SolutionTask\Encapsulation\Ex01.ClassBoxData\bin\Debug\net6.0\Ex01.ClassBoxData.dll
+D:\nv\SoftUni\CSharp\C#OOP\SolutionTask\Encapsulation\Ex01.ClassBoxData\bin\Debug\net6.0\Ex01.ClassBoxData.pdb
+D:\nv\SoftUni\CSharp\C#OOP\SolutionTask\Encapsulation\Ex01.ClassBoxData\obj\Debug\net6.0\Ex01.ClassBoxData.GeneratedMSBuildEditorConfig.editorconfig
+D:\nv\SoftUni\CSharp\C#OOP\SolutionTask\Encapsulation\Ex01.ClassBoxData\obj\Debug\net6.0\Ex01.ClassBoxData.AssemblyInfoInputs.cache
+D:\nv\SoftUni\CSharp\C#OOP\SolutionTask\Encapsulation\Ex01.ClassBoxData\obj\Debug\net6.0\Ex01.ClassBoxData.AssemblyInfo.cs
+D:\nv\SoftUni\CSharp\C#OOP\SolutionTask\Encapsulation\Ex01.ClassBoxData\obj\Debug\net6.0\Ex01.ClassBoxData.csproj.CoreCompileInputs.cache
+D:\nv\SoftUni\CSharp\C#OOP\SolutionTask\Encapsulation\Ex01.ClassBoxData\obj\Debug\net6.0\Ex01.ClassBoxData.dll
+D:\nv\SoftUni\CSharp\C#OOP\SolutionTask\Encapsulation\Ex01.ClassBoxData\obj\Debug\net6.0\refint\Ex01.ClassBoxData.dll
+D:\nv\SoftUni\CSharp\C#OOP\SolutionTask\Encapsulation\Ex01.ClassBoxData\obj\Debug\net6.0\Ex01.ClassBoxData.pdb
+D:\nv\SoftUni\CSharp\C#OOP\SolutionTask\Encapsulation\Ex01.ClassBoxData\obj\Debug\net6.0\Ex01.ClassBoxData.genruntimeconfig.cache
+D:\nv\SoftUni\CSharp\C#OOP\SolutionTask\Encapsulation\Ex01.ClassBoxData\obj\Debug\net6.0\ref\Ex01.ClassBoxData.dll

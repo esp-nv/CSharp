@@ -1,0 +1,14 @@
+D:\nv\SoftUni\CSharp\C#OOP\SolutionTask\T05.SOLID\LoggerVer2\bin\Debug\net6.0\MyLogger.exe
+D:\nv\SoftUni\CSharp\C#OOP\SolutionTask\T05.SOLID\LoggerVer2\bin\Debug\net6.0\MyLogger.deps.json
+D:\nv\SoftUni\CSharp\C#OOP\SolutionTask\T05.SOLID\LoggerVer2\bin\Debug\net6.0\MyLogger.runtimeconfig.json
+D:\nv\SoftUni\CSharp\C#OOP\SolutionTask\T05.SOLID\LoggerVer2\bin\Debug\net6.0\MyLogger.dll
+D:\nv\SoftUni\CSharp\C#OOP\SolutionTask\T05.SOLID\LoggerVer2\bin\Debug\net6.0\MyLogger.pdb
+D:\nv\SoftUni\CSharp\C#OOP\SolutionTask\T05.SOLID\LoggerVer2\obj\Debug\net6.0\MyLogger.GeneratedMSBuildEditorConfig.editorconfig
+D:\nv\SoftUni\CSharp\C#OOP\SolutionTask\T05.SOLID\LoggerVer2\obj\Debug\net6.0\MyLogger.AssemblyInfoInputs.cache
+D:\nv\SoftUni\CSharp\C#OOP\SolutionTask\T05.SOLID\LoggerVer2\obj\Debug\net6.0\MyLogger.AssemblyInfo.cs
+D:\nv\SoftUni\CSharp\C#OOP\SolutionTask\T05.SOLID\LoggerVer2\obj\Debug\net6.0\MyLogger.csproj.CoreCompileInputs.cache
+D:\nv\SoftUni\CSharp\C#OOP\SolutionTask\T05.SOLID\LoggerVer2\obj\Debug\net6.0\MyLogger.dll
+D:\nv\SoftUni\CSharp\C#OOP\SolutionTask\T05.SOLID\LoggerVer2\obj\Debug\net6.0\refint\MyLogger.dll
+D:\nv\SoftUni\CSharp\C#OOP\SolutionTask\T05.SOLID\LoggerVer2\obj\Debug\net6.0\MyLogger.pdb
+D:\nv\SoftUni\CSharp\C#OOP\SolutionTask\T05.SOLID\LoggerVer2\obj\Debug\net6.0\MyLogger.genruntimeconfig.cache
+D:\nv\SoftUni\CSharp\C#OOP\SolutionTask\T05.SOLID\LoggerVer2\obj\Debug\net6.0\ref\MyLogger.dll

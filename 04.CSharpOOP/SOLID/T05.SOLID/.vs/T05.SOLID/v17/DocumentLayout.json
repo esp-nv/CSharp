@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\nv\\SoftUni\\CSharp\\C#OOP\\SolutionTask\\T05.SOLID\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76B98D69-B707-4F8C-84F1-CE6563CCD48F}|LoggerVer2\\MyLogger.csproj|d:\\nv\\softuni\\csharp\\c#oop\\solutiontask\\t05.solid\\loggerver2\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76B98D69-B707-4F8C-84F1-CE6563CCD48F}|LoggerVer2\\MyLogger.csproj|solutionrelative:loggerver2\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "D:\\nv\\SoftUni\\CSharp\\C#OOP\\SolutionTask\\T05.SOLID\\LoggerVer2\\StartUp.cs",
+              "RelativeDocumentMoniker": "LoggerVer2\\StartUp.cs",
+              "ToolTip": "D:\\nv\\SoftUni\\CSharp\\C#OOP\\SolutionTask\\T05.SOLID\\LoggerVer2\\StartUp.cs",
+              "RelativeToolTip": "LoggerVer2\\StartUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T10:10:50.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

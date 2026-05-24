@@ -1,0 +1,14 @@
+D:\nv\SoftUni\CSharp\C#OOP\SolutionTask\T05.SOLID\Logger\obj\Debug\net6.0\Logger.GeneratedMSBuildEditorConfig.editorconfig
+D:\nv\SoftUni\CSharp\C#OOP\SolutionTask\T05.SOLID\Logger\obj\Debug\net6.0\Logger.AssemblyInfoInputs.cache
+D:\nv\SoftUni\CSharp\C#OOP\SolutionTask\T05.SOLID\Logger\obj\Debug\net6.0\Logger.AssemblyInfo.cs
+D:\nv\SoftUni\CSharp\C#OOP\SolutionTask\T05.SOLID\Logger\obj\Debug\net6.0\Logger.csproj.CoreCompileInputs.cache
+D:\nv\SoftUni\CSharp\C#OOP\SolutionTask\T05.SOLID\Logger\bin\Debug\net6.0\Logger.exe
+D:\nv\SoftUni\CSharp\C#OOP\SolutionTask\T05.SOLID\Logger\bin\Debug\net6.0\Logger.deps.json
+D:\nv\SoftUni\CSharp\C#OOP\SolutionTask\T05.SOLID\Logger\bin\Debug\net6.0\Logger.runtimeconfig.json
+D:\nv\SoftUni\CSharp\C#OOP\SolutionTask\T05.SOLID\Logger\bin\Debug\net6.0\Logger.dll
+D:\nv\SoftUni\CSharp\C#OOP\SolutionTask\T05.SOLID\Logger\bin\Debug\net6.0\Logger.pdb
+D:\nv\SoftUni\CSharp\C#OOP\SolutionTask\T05.SOLID\Logger\obj\Debug\net6.0\Logger.dll
+D:\nv\SoftUni\CSharp\C#OOP\SolutionTask\T05.SOLID\Logger\obj\Debug\net6.0\refint\Logger.dll
+D:\nv\SoftUni\CSharp\C#OOP\SolutionTask\T05.SOLID\Logger\obj\Debug\net6.0\Logger.pdb
+D:\nv\SoftUni\CSharp\C#OOP\SolutionTask\T05.SOLID\Logger\obj\Debug\net6.0\Logger.genruntimeconfig.cache
+D:\nv\SoftUni\CSharp\C#OOP\SolutionTask\T05.SOLID\Logger\obj\Debug\net6.0\ref\Logger.dll

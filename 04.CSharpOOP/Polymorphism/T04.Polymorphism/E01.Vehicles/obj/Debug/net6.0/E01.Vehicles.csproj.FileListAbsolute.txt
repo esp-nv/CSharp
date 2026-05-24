@@ -1,0 +1,14 @@
+D:\nv\SoftUni\CSharp\C#OOP\SolutionTask\T04.Polymorphism\E01.Vehicles\obj\Debug\net6.0\E01.Vehicles.GeneratedMSBuildEditorConfig.editorconfig
+D:\nv\SoftUni\CSharp\C#OOP\SolutionTask\T04.Polymorphism\E01.Vehicles\obj\Debug\net6.0\E01.Vehicles.AssemblyInfoInputs.cache
+D:\nv\SoftUni\CSharp\C#OOP\SolutionTask\T04.Polymorphism\E01.Vehicles\obj\Debug\net6.0\E01.Vehicles.AssemblyInfo.cs
+D:\nv\SoftUni\CSharp\C#OOP\SolutionTask\T04.Polymorphism\E01.Vehicles\obj\Debug\net6.0\E01.Vehicles.csproj.CoreCompileInputs.cache
+D:\nv\SoftUni\CSharp\C#OOP\SolutionTask\T04.Polymorphism\E01.Vehicles\bin\Debug\net6.0\E01.Vehicles.exe
+D:\nv\SoftUni\CSharp\C#OOP\SolutionTask\T04.Polymorphism\E01.Vehicles\bin\Debug\net6.0\E01.Vehicles.deps.json
+D:\nv\SoftUni\CSharp\C#OOP\SolutionTask\T04.Polymorphism\E01.Vehicles\bin\Debug\net6.0\E01.Vehicles.runtimeconfig.json
+D:\nv\SoftUni\CSharp\C#OOP\SolutionTask\T04.Polymorphism\E01.Vehicles\bin\Debug\net6.0\E01.Vehicles.dll
+D:\nv\SoftUni\CSharp\C#OOP\SolutionTask\T04.Polymorphism\E01.Vehicles\bin\Debug\net6.0\E01.Vehicles.pdb
+D:\nv\SoftUni\CSharp\C#OOP\SolutionTask\T04.Polymorphism\E01.Vehicles\obj\Debug\net6.0\E01.Vehicles.dll
+D:\nv\SoftUni\CSharp\C#OOP\SolutionTask\T04.Polymorphism\E01.Vehicles\obj\Debug\net6.0\refint\E01.Vehicles.dll
+D:\nv\SoftUni\CSharp\C#OOP\SolutionTask\T04.Polymorphism\E01.Vehicles\obj\Debug\net6.0\E01.Vehicles.pdb
+D:\nv\SoftUni\CSharp\C#OOP\SolutionTask\T04.Polymorphism\E01.Vehicles\obj\Debug\net6.0\E01.Vehicles.genruntimeconfig.cache
+D:\nv\SoftUni\CSharp\C#OOP\SolutionTask\T04.Polymorphism\E01.Vehicles\obj\Debug\net6.0\ref\E01.Vehicles.dll

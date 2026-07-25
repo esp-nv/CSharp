@@ -22,12 +22,12 @@ Fundamentals
 8. Text Processing
 9. Regular Expressing
 
-   CSharp Advanced
-   1.StacksAndQueues
-   2.MultidimensionalArrays
-   3.SetsAndDictionariesAdvanced
-   4.StreamsFilesDirectories
-   5.FunctionalProgramming
-   6.DefiningClasses
+CSharp Advanced
+1. StacksAndQueues
+2. MultidimensionalArrays
+3. SetsAndDictionariesAdvanced
+4. StreamsFilesDirectories
+5. FunctionalProgramming
+6. DefiningClasses
    
 Файловете с име Demos или съдържащи тази дума - разписвания на код от лекциите и/или коментари, подсказки към кода да се избегне някои грешки/изключения
